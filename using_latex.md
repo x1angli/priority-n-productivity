@@ -3,7 +3,7 @@
 There are a plethora of [La]Tex compiler engines, such as Tex Live, MacTeX, CTeX (obsolete), MiKTeX (obsolete).
 
 __ TeX Live is highly recommended __  
-1. [TeX Live](https://www.tug.org/texlive/), download from [the TUNA mirror](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/texlive.iso), [MAC dmg file](https://mirrors.tuna.tsinghua.edu.cn/
+1. [TeX Live](https://www.tug.org/texlive/), download from [the TUNA mirror](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/texlive.iso), [MAC dmg file] (https://mirrors.tuna.tsinghua.edu.cn/
 CTAN/systems/mac/mactex/MacTeX.pkg). 
 
 
