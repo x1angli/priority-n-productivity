@@ -1,21 +1,31 @@
-## Which TeX engine to choose?
+## Which TeX compiler to choose?
 
-There are a plethora of [La]Tex engines, such as Tex Live, CTeX, MiKTeX, MacTeX. Here the term "editor" may essentially mean a full spectrum ranging from lightweight text-like editors to fully-fledged IDEs.
+There are a plethora of [La]Tex compiler engines, such as Tex Live, MacTeX, CTeX (obsolete), MiKTeX (obsolete).
 
-### We recommend the following ones: 
+__ TeX Live is highly recommended __  
 1. [TeX Live](https://www.tug.org/texlive/), download from [the TUNA mirror](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/texlive.iso), [MAC dmg file](https://mirrors.tuna.tsinghua.edu.cn/
 CTAN/systems/mac/mactex/MacTeX.pkg). 
 
+
 ## Which TeX editor to choose? 
+
+TeX editors differ from TeX compilers in that tex compilers turns .tex source files into .pdf targets, while TeX editors are usually WYSIWYG frontend UIs. TeX compilers are usually heavy-weight (say, 3GB or 4GB), while TeX editors are sometimes as lightweight as 50MB. 
+
+There are two types of editors: dedicated ones and generic ones.
 * Dedicated TeX editors: TeXStudio, TeXworks, WinEdt, TeXmaker, XeLaTeX
 * Generic editors (with TeX plugins/extensions): VIM, Emacs, VS Code, Sublime, Atom
-* Online editors/IDEs: OverLeaf, ShareLaTeX 
 
-### We recommend the following ones: 
-1. [Texmaker](http://www.xm1math.net/texmaker/), a Free cross-platform JIT LaTeX editor. 
+__ The combination of "Texlive + Texmaker" is recommended __ 
 
-## Whats the difference between a TeX engine and a TeX editor?
-TeX engines are engines plus packages. TeX editor is merely a WYSIWYG (probably) UI. So, merely installing a TeX editor is far from enough -- you have to install a TeX engine/compiler. Personally, I use Texlive + Texmaker
+[Texmaker](http://www.xm1math.net/texmaker/) is a Free cross-platform JIT LaTeX editor. 
+
+
+## What online editors are there?
+
+There are a bunch of online TeX editors/IDEs: OverLeaf, ShareLaTeX 
+
+It's recommended to use online editors to test water before you make a full plunge into your local environment. 
+
 
 ## Setting up TUNA
 
@@ -26,6 +36,7 @@ Assuming you are using Tex Live
 
 
 ## Processing Chinese in TeX
+
 * Use XeLaTeX
 * Forget CJK, use UTF-8 or Unicode instead
 * Install and use ctex macro package (here, "ctex" is a macro's name, it's not the CTeX compiler.
