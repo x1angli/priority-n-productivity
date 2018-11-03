@@ -2,9 +2,12 @@
 
 There are a plethora of [La]Tex compiler engines, such as Tex Live, MacTeX, CTeX (obsolete), MiKTeX (obsolete).
 
-__ TeX Live is highly recommended __  
-1. [TeX Live](https://www.tug.org/texlive/), download from [the TUNA mirror](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/texlive.iso), [MAC dmg file] (https://mirrors.tuna.tsinghua.edu.cn/
-CTAN/systems/mac/mactex/MacTeX.pkg). 
+__TeX Live__  is highly recommended
+
+* [TeX Live](https://www.tug.org/texlive/)
+    * Download Links
+        * Windows: https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/texlive.iso
+        * Mac: https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/mac/mactex/MacTeX.pkg
 
 
 ## Which TeX editor to choose? 
@@ -15,7 +18,7 @@ There are two types of editors: dedicated ones and generic ones.
 * Dedicated TeX editors: TeXStudio, TeXworks, WinEdt, TeXmaker, XeLaTeX
 * Generic editors (with TeX plugins/extensions): VIM, Emacs, VS Code, Sublime, Atom
 
-__ The combination of "Texlive + Texmaker" is recommended __ 
+The combination of __"Texlive + Texmaker"__ is recommended
 
 [Texmaker](http://www.xm1math.net/texmaker/) is a Free cross-platform JIT LaTeX editor. 
 
