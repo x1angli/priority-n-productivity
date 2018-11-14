@@ -6,7 +6,7 @@ Here is a group of links for you to better use Markdown
 	* Remarks: This is really a nice tool. It would be better if it supports split-panel with both markdown source code and rendered WYSIWYG displayed side-by-side. Also, you have to explicitly turn on the "In-line Math" switch.
 
 * __Gitbook's Editor__: Writing books using git in combination with Markdown or Asciidoc. LaTeX is supported.
-	* Download Link for Windows executable binary (.exe): https://legacy.gitbook.com/editor
+	* Download Link for executable binaries (available for Windows / Mac / Linux): https://legacy.gitbook.com/editor
 	* Installation instruction for the node.js: https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md
 	* Remarks: it has a side-by-side editor, with the left panel showing Markdown source code and the right panel showing WYSIWYG preview.
 
@@ -21,11 +21,11 @@ Here is a group of links for you to better use Markdown
 With the following  tool, you can just include a single line of JavaScript reference code such as `<script src="...." />`  in your HTML to instantaneously render markdown contents on-the-fly.
 
 * __TeXMe__: a lightweight JavaScript utility to create self-rendering Markdown + LaTeX documents
-    * Link: https://github.com/susam/texme
-    * To render Markdown-only content without any math content,, use [MdMe](https://github.com/susam/mdme) instead, which is light-weight.
+	* Link: https://github.com/susam/texme
+	* To render Markdown-only content without any math content,, use [MdMe](https://github.com/susam/mdme) instead, which is light-weight.
 
 * __markdown page__: Another one-line JS includer for a single static web page with just markdown syntax.
-    * Link: https://github.com/oscarmorrison/md-page
+	* Link: https://github.com/oscarmorrison/md-page
 
 
 ##   Markdown Extensions  
