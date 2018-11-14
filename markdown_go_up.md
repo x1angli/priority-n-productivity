@@ -8,7 +8,7 @@ Here is a group of links for you to better use Markdown
 * __Gitbook's Editor__: Writing books using git in combination with Markdown or Asciidoc. LaTeX is supported.
 	* Download Link for executable binaries (available for Windows / Mac / Linux): https://legacy.gitbook.com/editor
 	* Installation instruction for the node.js: https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md
-	* Remarks: it has a side-by-side editor, with the left panel showing Markdown source code and the right panel showing WYSIWYG preview.
+	* Remarks: ~~it has a side-by-side editor, with the left panel showing Markdown source code and the right panel showing WYSIWYG preview.~~ It's official website claims it's equipped with a side-by-side editor but actually I could find it. 
 
 * __ReText__: a cross-platform desktop powerful editor for Markdown and reStructuredText. It is based on [pyqt](https://riverbankcomputing.com/software/pyqt/intro). 
 	* Link: https://github.com/retext-project/retext
