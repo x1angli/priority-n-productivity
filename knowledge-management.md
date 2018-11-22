@@ -14,10 +14,12 @@ https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
 * [Diigo](https://www.diigo.com/index) for website highlights and annotations
 * [MarginNote](https://www.marginnote.com/) An in-depth PDF and EPUB reading, learning, managing and note taking
 
-### Writing Tool ####
+### Writing Tools ####
 * [Grammarly](https://www.grammarly.com/) An online grammar checking, spell checking, and plagiarism detection platform
 * [XMind ZEN](https://www.xmind.net/zen/) A mind-map drawing software
 
-### GTD Tool  ###  
+![Other writing tools](writing_tools.jpg)
+
+### GTD Tools  ###  
 * [TickTick 滴答清单](https://ticktick.com) task management for Android, iPhone, iPad,  Mac,  Windows,  Chrome, Firefox, Android Wear,  Apple Watch
 * [OmniFocus](https://www.omnigroup.com/omnifocus/) task management for Mac, iPad, and iPhone - The Omni ...
