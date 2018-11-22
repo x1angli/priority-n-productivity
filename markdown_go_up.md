@@ -13,9 +13,19 @@ Here is a group of links for you to better use Markdown
 * __ReText__: a cross-platform desktop powerful editor for Markdown and reStructuredText. It is based on [pyqt](https://riverbankcomputing.com/software/pyqt/intro). 
 	* Link: https://github.com/retext-project/retext
 
+* __mou__:  a Markdown editor for developers, on Mac OS X. Features live preview, sync scroll, auto save, powerful actions, auto pair, custom themes and CSS, HTML and PDF export, enhanced CJK support and more.
+	* Link:http://25.io/mou/
+
 ## Online editors
 * __Fidus Writer__: an online collaborative editor especially made for academics who need to use citations and/or formulas  that supports citations, collaborative editing, semantic editing and publishing in multiple locations. It's backed by Python.
 	* Link: https://github.com/fiduswriter/fiduswriter
+
+* __Dilinger__: a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. It does not support Latex syntax yet. It's written in Node.js
+	* Link: https://dillinger.io/	
+
+* __马克飞象__: a commercial Evernote extension. But you can still use it as a standalone online editor
+	* Link: https://maxiang.io/
+
 
 ## Markdown renderers embeded in a static HTML webpage
 With the following  tool, you can just include a single line of JavaScript reference code such as `<script src="...." />`  in your HTML to instantaneously render markdown contents on-the-fly.
@@ -27,10 +37,18 @@ With the following  tool, you can just include a single line of JavaScript refer
 * __markdown page__: Another one-line JS includer for a single static web page with just markdown syntax.
 	* Link: https://github.com/oscarmorrison/md-page
 
+* __showdown.js__: Yet another one-line JS includer for a single static web page with just markdown syntax.
+	* Link: https://github.com/showdownjs/showdown
+
+
 
 ##   Markdown Extensions  
 * __MathJax__: A JavaScript display engine for mathematics that works in all browsers. It's not dedicated to Markdown only, but for generic HTML webpages that needs to render math contents with LaTeX syntax. 
 	* Link: https://www.mathjax.org/
+
+* __MultiMarkdown__: supports Math, metadata, etc...
+	* Link (syntax): https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide#footnotes
+	* Link: https://github.com/fletcher/MultiMarkdown/
 
 * __markdeep__: an extension of Markdown syntax, plus a static .js file, that supports diagrams, calendars, equations, and other features
     * Link: https://casual-effects.com/markdeep/ 
