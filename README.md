@@ -1,4 +1,4 @@
-# It is the priorITy
+# priorITy and productivITy
 
 With the ever evolving technology in our world, it is imperative to boost one's productivity, and hence, improve everday's IT skills. 
 
