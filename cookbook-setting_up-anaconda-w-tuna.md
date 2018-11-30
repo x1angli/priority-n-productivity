@@ -31,7 +31,7 @@ Due to poor internet connection in certain regions, using integrated tools such 
         ``` 
         pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 
-        pip install --upgrade pip
+        python -m pip install --upgrade pip
         # Alternatively, use `python -m pip install --upgrade pip`
 
 
