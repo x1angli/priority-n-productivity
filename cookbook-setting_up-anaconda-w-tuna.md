@@ -5,7 +5,7 @@ Anaconda 是一个用于科学计算的“全家桶”，支持 Linux, Mac, Wind
 
 由于国际出口带宽的瓶颈限制，下载和使用Anaconda是一件苦差事。安装文件本身就达到600MB，第三方包会更大。如果不用本文中提到的方法加速，一方面用户的等待时间会很长，另一方面一旦出错就会前功尽弃，导致用户或初学者很有挫折感。本指南就是通过TUNA的镜像来解决上述问题，从而提升用户体验和生产力。
 
-By (its website)[https://www.anaconda.com/],  "Anaconda is The Most Popular Python Data Science Platform". 
+By [its website](https://www.anaconda.com/),  "Anaconda is The Most Popular Python Data Science Platform". 
 
 Due to poor internet connection in certain regions, using integrated tools such as Anaconda is always painful, especially consider the hefty size of 600MB for its installer (much less to say about 3rd-party packages/modules). Most users might be frustrated. This instruction is written to solve this issue. The main idea behind the following approach: use a mirror site to accelerate the download process to enhance user experience and boost productivity.
 
@@ -13,7 +13,7 @@ Due to poor internet connection in certain regions, using integrated tools such 
 1.  Download and install Anaconda from TUNA's mirror 从 TUNA 的镜像下载和安装 Anaconda
     1.  Visit 访问 https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
     1.  Chosse the Anaconder version (preferrably the latest one), and pick up the version that matches your OS. 先选择Anaconda的版本（建议选择最新的，页面的最下方），并且选择与自己操作系统对应的
-        1.  As of writing this instruction, the latest version is 5.3, and I use 64-bit Windows, so I picked up 在写这篇指南时，最新的版本是5.3.0，并且我用64位Windows，所以我选了这个版本 (Anaconda3-5.3.0-Windows-x86_64.exe)[https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-5.3.0-Windows-x86_64.exe]
+        1.  As of writing this instruction, the latest version is 5.3, and I use 64-bit Windows, so I picked up 在写这篇指南时，最新的版本是5.3.0，并且我用64位Windows，所以我选了这个版本 [Anaconda3-5.3.0-Windows-x86_64.exe](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-5.3.0-Windows-x86_64.exe)
     1.  Download and install it 下载安装之
 
 
@@ -32,17 +32,17 @@ Due to poor internet connection in certain regions, using integrated tools such 
         pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 
         python -m pip install --upgrade pip
-        # Alternatively, use `python -m pip install --upgrade pip`
+        :: Alternatively, use `python -m pip install --upgrade pip`
 
 
         conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
         conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
         conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
         
-        # (Optional) Use conda-forge channel 
-        # (Start of block) 
+        :: (Optional) Use conda-forge channel 
+        :: (Start of block) 
         conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
-        # (End of block)
+        :: (End of block)
         
         conda config --set show_channel_urls yes
         
@@ -53,7 +53,7 @@ Due to poor internet connection in certain regions, using integrated tools such 
         conda update jupyter numpy sympy scipy matplotlib
 
         
-        # Installing pytorch
+        :: Installing pytorch
         conda install pytorch
         
         pip install torchvision
