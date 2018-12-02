@@ -43,7 +43,12 @@ https://aotu.io/
 https://dzone.com/links
 
 
-# Algorithm
+# Visualizers, Explainers, Infocharts
+
+## Regular Expression (RegEx) Visualizer
+### regex101
+Online regex explainer and tester.
+* https://regex101.com/
 
 ## Algorithm Visualizer 
 
