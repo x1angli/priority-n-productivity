@@ -3,6 +3,7 @@ https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
 * [NotionHQ](https://www.notion.so/) a note-taking application with markdown support that also integrates tasks, wikis, and databases. The aim is to be an all-in-one workspace for note-taking, project management and task management. 
     * [Gitbook](https://www.gitbook.com/)
     * [VuePress](https://vuepress.vuejs.org/). 
+    * [Notejoy](https://notejoy.com/)
 * [Pocket](https://getpocket.com/) as read-it-later list
 * [Snippet Store](https://github.com/ZeroX-DG/SnippetStore) for snippet management, alternatives include
     * Snippets feature shipped in editors / IDEs 
@@ -22,7 +23,7 @@ https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
 
 ### Office-like Tools  ###  
 * [AirTable](https://airtable.com/) a spreadsheet-database hybrid, with the features of a database but applied to a spreadsheet.
-
+   * [Smartsheet](https://www.smartsheet.com/) 
 
 ### GTD Tools  ###  
 * [TickTick 滴答清单](https://ticktick.com) task management for Android, iPhone, iPad,  Mac,  Windows,  Chrome, Firefox, Android Wear,  Apple Watch
