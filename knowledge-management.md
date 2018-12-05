@@ -1,6 +1,6 @@
 ## How I organize my knowledge as a Software Engineer
 https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387 
-* [NotionHQ](https://www.notion.so/) as the base of Knowledge management, alternatives include
+* [NotionHQ](https://www.notion.so/) a note-taking application with markdown support that also integrates tasks, wikis, and databases. The aim is to be an all-in-one workspace for note-taking, project management and task management. 
     * [Gitbook](https://www.gitbook.com/)
     * [VuePress](https://vuepress.vuejs.org/). 
 * [Pocket](https://getpocket.com/) as read-it-later list
@@ -19,6 +19,10 @@ https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
 * [XMind ZEN](https://www.xmind.net/zen/) A mind-map drawing software
 
 ![Other writing tools](writing_tools.jpg)
+
+### Office-like Tools  ###  
+* [AirTable](https://airtable.com/) a spreadsheet-database hybrid, with the features of a database but applied to a spreadsheet.
+
 
 ### GTD Tools  ###  
 * [TickTick 滴答清单](https://ticktick.com) task management for Android, iPhone, iPad,  Mac,  Windows,  Chrome, Firefox, Android Wear,  Apple Watch
