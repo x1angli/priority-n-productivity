@@ -71,7 +71,8 @@ by Dr Steven Halim, and Dr Felix Halim
 by David Galles  @ USFCA
 * https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 
-
+### All-in-one animation for LeetCode problems (Chinese)  
+* https://github.com/MisterBooo/LeetCodeAnimation
 
 
 # History / Miscellaneous
