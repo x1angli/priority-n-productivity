@@ -21,6 +21,15 @@ https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
 
 ![Other writing tools](writing_tools.jpg)
 
+### Drawing & Design Tools ####
+* [Sketch](https://www.sketchapp.com/)
+** [Lunacy, Sketch for Windows](https://icons8.com/lunacy)
+** [Installing Sketech on top of VM on top of Windows](https://www.youtube.com/watch?v=YmqtE8jzDlQ)
+* [Avocode](https://avocode.com/) Open designs without design tools. Export images without preparing layers. Click on layers to get code.
+* [Figma](https://www.figma.com/)
+
+
+
 ### Office-like Tools  ###  
 * [AirTable](https://airtable.com/) a spreadsheet-database hybrid, with the features of a database but applied to a spreadsheet.
    * [Smartsheet](https://www.smartsheet.com/) 
