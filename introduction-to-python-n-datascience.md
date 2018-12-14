@@ -46,7 +46,45 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/
 * https://jakevdp.github.io/PythonDataScienceHandbook/index.html
     * 这个是我认为不错的，里面介绍了IPython的使用，NumPy和Pandas作为数据和统计的基础包，Matplotlib画图，还有最重要的机器学习，所以建议有兴趣的同学精读
 
-### 2.4 rLabbe的Karlman Filters教程
+### 2.2.1 一个小例子
+```
+
+import numpy as np 
+
+list2d= [
+    [1,2],
+    [3,4],
+    [5,6],    
+]
+array2d = np.array(list2d)
+matrix2d = np.matrix(list2d)
+
+# ========= #
+print(list2d * 5)
+print(array2d * 5)
+print(matrix2d * 5)
+
+# ========= #
+
+# print(list2d + 3) # Error! 
+print(list2d + [3])
+print(array2d + 3)
+print(array2d + [3])
+
+# ========= #
+print(np.matmul(array2d, array2d.T))
+print(array2d.dot(array2d.T))
+print(np.dot(array2d, array2d.T))
+print(array2d @ array2d.T)
+print(matrix2d @ matrix2d.T)
+
+# --- but --- #
+# print(array2d * array2d.T) # Error!!!
+print(array2d * array2d) # Hadamard product (a.k.a entrywise product)
+print(matrix2d * matrix2d.T) # still performing dot-product
+```
+
+### 2.3 rLabbe的Karlman Filters教程
 * https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
     * 注意：上面这个教程比较详细和综合，建议有的放矢
 * 图解卡尔曼滤波（英文）  http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures
