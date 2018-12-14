@@ -36,9 +36,9 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/
 
 ### 2.1 Python教程
 * https://www.w3schools.com/python/
-** 看到“File Handling”就可以了
+    * 看到“File Handling”就可以了
 * https://docs.python.org/3/tutorial/
-** 注意：这是官方的python教程，特别详细（rong2 chang2），建议有的放矢
+    * 注意：这是官方的python教程，特别详细（rong2 chang2），建议有的放矢
 
 ### 2.2 numpy教程
 * https://docs.scipy.org/doc/numpy-1.15.0/user/quickstart.html
@@ -49,5 +49,5 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/
 
 ### 2.4 rLabbe的Karlman Filters教程
 * https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
-** 注意：上面这个教程比较详细和综合，建议有的放矢
+    * 注意：上面这个教程比较详细和综合，建议有的放矢
 
