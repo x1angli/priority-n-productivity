@@ -4,7 +4,7 @@
 
 ### 1.1 安装Anaconda全家桶，并且相应地设置
 Anaconda全家桶集成了Python语言，numpy+scipy+matplotlib等最常用的数学包，Jupyter交互式执行器，Spyder和VSCode的下载器，
-请按照 [这篇cookbook](https://github.com/x1angli/priority-n-productivity/blob/master/cookbook-setting_up-anaconda-w-tuna.md) 里的
+请按照 [这篇cookbook](cookbook-setting_up-anaconda-w-tuna.md) https://github.com/x1angli/priority-n-productivity/blob/master/cookbook-setting_up-anaconda-w-tuna.md里的
 
 #### 1.1.1 从TUNA上下载和安装Anaconda全家桶
 https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
