@@ -40,14 +40,14 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/
 * https://docs.python.org/3/tutorial/
     * 注意：这是官方的python教程，特别详细（rong2 chang2），建议有的放矢
 
-### 2.2 numpy教程
+### 2.2 numpy教程 与 数据科学
 * https://docs.scipy.org/doc/numpy-1.15.0/user/quickstart.html
 * https://www.tutorialspoint.com/numpy/numpy_arithmetic_operations.htm
-
-### 2.3 数学科学
 * https://jakevdp.github.io/PythonDataScienceHandbook/index.html
+    * 这个是我认为不错的，里面介绍了IPython的使用，NumPy和Pandas作为数据和统计的基础包，Matplotlib画图，还有最重要的机器学习，所以建议有兴趣的同学精读
 
 ### 2.4 rLabbe的Karlman Filters教程
 * https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
     * 注意：上面这个教程比较详细和综合，建议有的放矢
-
+* 图解卡尔曼滤波（英文）  http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures
+    * 图解卡尔曼滤波（中文翻译）  https://blog.csdn.net/u010720661/article/details/63253509
