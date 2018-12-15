@@ -19,7 +19,7 @@ https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
 照cookbook里的做就行了，做的时候需要注意路径需要改成自己想要的
 
 ### 1.2 更新和设置python
-在python命令行下，以管理员权限运行下列命令
+在管理员权限的Windows或者其他操作系统的命令行（cli）下，运行下列命令
 
      python -m ensurepip --default-pip
      python -m pip install --upgrade pip
@@ -35,24 +35,25 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/
 ## 2. 常见教程
 
 ### 2.1 Python教程
-* https://www.w3schools.com/python/
+* [W3学校教程](https://www.w3schools.com/python/)
     * 看到“File Handling”就可以了
-* https://docs.python.org/3/tutorial/
-    * 注意：这是官方的python教程，特别详细（rong2 chang2），建议有的放矢
-* http://book.pythontips.com
-    * 这是一个具备一定基础后的进阶教程，但却很实用
+* [官方的python教程——全套](https://docs.python.org/3/tutorial/)
+    * 注意：这是全套教程，所以特别详细（冗长），建议有的放矢
+* [Python的技巧](http://book.pythontips.com)
+    * 这是一个具备一定基础后的进阶教程，却很实用
 
 ### 2.2 numpy教程 与 数据科学
-* https://docs.scipy.org/doc/numpy-1.15.0/user/quickstart.html
-* https://www.tutorialspoint.com/numpy/numpy_arithmetic_operations.htm
-* https://jakevdp.github.io/PythonDataScienceHandbook/index.html
-    * 这个是我认为不错的，里面介绍了IPython的使用，NumPy和Pandas作为数据和统计的基础包，Matplotlib画图，还有最重要的机器学习，所以建议有兴趣的同学精读
+* [Numpy官方教程](https://docs.scipy.org/doc/numpy-1.15.0/user/quickstart.html)
+* [TutorialsPoint的教程](https://www.tutorialspoint.com/numpy/numpy_arithmetic_operations.htm)
+* [Python DataScience Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+    * 强烈推荐：里面介绍了几个重要模块，包括IPython的使用，NumPy和Pandas作为数据和统计的基础包，Matplotlib画图，还有最重要的机器学习，所以建议有兴趣的同学精读
 
-### 2.3 rLabbe的Karlman Filters教程
-* https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
-    * 注意：上面这个教程比较详细和综合，建议有的放矢
-* 图解卡尔曼滤波（英文）  http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures
-    * 图解卡尔曼滤波（中文翻译）  https://blog.csdn.net/u010720661/article/details/63253509
+### 2.3 卡尔曼卢滤波教程
+* [rLabbe的Karlman Filters教程](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+    * 注意：上面这个教程比较全面，建议有的放矢
+* [图解卡尔曼滤波（英文）](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures)
+    * 强烈推荐：推荐的原因是把学习曲线比较陡的Kalman滤波给讲明白了
+    * [图解卡尔曼滤波（中文翻译）](https://blog.csdn.net/u010720661/article/details/63253509)
 
 
 ## 3 关于Python的知识点：
