@@ -1,4 +1,4 @@
-# Recap：今天课程的总结
+# A recitation lecture on Python and Data Science / 一节有关于Python和数据科学的实用讲座
 
 ## 1. 安装python与准备环境
 
@@ -39,6 +39,8 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/
     * 看到“File Handling”就可以了
 * https://docs.python.org/3/tutorial/
     * 注意：这是官方的python教程，特别详细（rong2 chang2），建议有的放矢
+* http://book.pythontips.com
+    * 这是一个具备一定基础后的进阶教程，但却很实用
 
 ### 2.2 numpy教程 与 数据科学
 * https://docs.scipy.org/doc/numpy-1.15.0/user/quickstart.html
@@ -46,9 +48,17 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/
 * https://jakevdp.github.io/PythonDataScienceHandbook/index.html
     * 这个是我认为不错的，里面介绍了IPython的使用，NumPy和Pandas作为数据和统计的基础包，Matplotlib画图，还有最重要的机器学习，所以建议有兴趣的同学精读
 
-### 2.2.1 一个小例子
-```
+### 2.3 rLabbe的Karlman Filters教程
+* https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
+    * 注意：上面这个教程比较详细和综合，建议有的放矢
+* 图解卡尔曼滤波（英文）  http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures
+    * 图解卡尔曼滤波（中文翻译）  https://blog.csdn.net/u010720661/article/details/63253509
 
+
+## 3 关于Python的知识点：
+
+### 3.1 矩阵操作的一些小例子（需要自己动手并实践）
+```
 import numpy as np 
 
 list2d= [
@@ -84,8 +94,6 @@ print(array2d * array2d) # Hadamard product (a.k.a entrywise product)
 print(matrix2d * matrix2d.T) # still performing dot-product
 ```
 
-### 2.3 rLabbe的Karlman Filters教程
-* https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
-    * 注意：上面这个教程比较详细和综合，建议有的放矢
-* 图解卡尔曼滤波（英文）  http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures
-    * 图解卡尔曼滤波（中文翻译）  https://blog.csdn.net/u010720661/article/details/63253509
+### 3.2 “@”在函数定义的应用
+在Python中，“@”表示一种Decorator（函数的装饰器），用了它就表示需要我们需要按照一种预定的方式去修改紧随其后的函数
+具体可以以“Python decorator”关键字去Google搜索
