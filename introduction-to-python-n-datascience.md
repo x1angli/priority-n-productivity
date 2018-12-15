@@ -98,3 +98,6 @@ print(matrix2d * matrix2d.T) # still performing dot-product
 ### 3.2 “@”在函数定义的应用
 在Python中，“@”表示一种Decorator（函数的装饰器），用了它就表示需要我们需要按照一种预定的方式去修改紧随其后的函数
 具体可以以“Python decorator”关键字去Google搜索
+
+### 3.3 List Comprehension列表推导式
+（略）
