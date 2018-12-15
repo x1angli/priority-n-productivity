@@ -2,6 +2,12 @@
 
 ## 1. 安装python与准备环境
 
+### 1.0 远程的Jupyter，免去本地安装之苦
+[Google Colab](https://colab.research.google.com)
+是Google公司做的一款小产品，能够在浏览器里直接运行，这样就可以略过以下的内容……
+
+
+
 ### 1.1 安装Anaconda全家桶，并且相应地设置
 Anaconda全家桶集成了Python语言，numpy+scipy+matplotlib等最常用的数学包，Jupyter交互式执行器，Spyder和VSCode的下载器，
 请按照 [这篇cookbook](cookbook-setting_up-anaconda-w-tuna.md) https://github.com/x1angli/priority-n-productivity/blob/master/cookbook-setting_up-anaconda-w-tuna.md里的
