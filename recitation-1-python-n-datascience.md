@@ -4,10 +4,12 @@
 
 ### 1.0 远程的Jupyter，免去本地安装之苦
 __直接运行[Google Colab](https://colab.research.google.com)__
-是Google公司做的一款小产品，能够在浏览器里直接运行，这样就可以略过以下的内容……
+
+Google Colab 是Google公司做的一款小产品，能够在浏览器里直接运行，这样就可以略过以下的内容……
 
 ### 1.1 安装Anaconda全家桶，并且相应地设置
 Anaconda全家桶集成了Python语言，numpy+scipy+matplotlib等最常用的数学包，Jupyter交互式执行器，Spyder和VSCode的下载器，
+
 __请一步步按照 [这篇cookbook](cookbook-setting_up-environment-for-data_science.md) 里完成__
 
 ### 1.2 更新和设置python
