@@ -86,8 +86,8 @@ Due to poor internet connection in certain regions, using integrated tools such 
         conda install tensorflow-gpu
 
   * __方法3) msi/exe方式：（Windows Only）__
-    去　https://www.lfd.uci.edu/~gohlke/pythonlibs/#tensorflow
-    下载安装文件，并在本地安装
+  
+     去 https://www.lfd.uci.edu/~gohlke/pythonlibs/#tensorflow 下载安装文件，并在本地安装
     
 ### Install Caffee
     conda install caffe-gpu
