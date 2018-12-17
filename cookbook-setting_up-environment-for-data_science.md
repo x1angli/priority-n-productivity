@@ -1,4 +1,4 @@
-This is intended for newbies to setup an Anaconda environment within mainland China.
+This is intended for newbies to setup an environment for data scientists and engineers located in mainland China.
 
 ### 目标 / Motivation: ###
 Anaconda 是一个用于科学计算的“全家桶”，支持 Linux, Mac, Windows, 包含了Python，包含了Jupyter Notebook，更集成了众多流行的科学计算、数据分析的包。
@@ -12,12 +12,12 @@ Due to poor internet connection in certain regions, using integrated tools such 
 ## Installing and configuring Anaconda 
 1.  Download and install Anaconda from TUNA's mirror 从 TUNA 的镜像下载和安装 Anaconda
     1.  Visit 访问 https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
-    1.  Chosse the Anaconder version (preferrably the latest one), and pick up the version that matches your OS. 先选择Anaconda的版本（建议选择最新的，页面的最下方），并且选择与自己操作系统对应的
+    1.  Chosse the Anaconder version (preferrably the latest one), and pick up the version that matches your OS. 先选择Anaconda的版本（建议选择最新的，页面的最下方），并且选择与自己操作系统对应的版本
         1.  As of writing this instruction, the latest version is 5.3, and I use 64-bit Windows, so I picked up 在写这篇指南时，最新的版本是5.3.0，并且我用64位Windows，所以我选了这个版本 [Anaconda3-5.3.0-Windows-x86_64.exe](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-5.3.0-Windows-x86_64.exe)
     1.  Download and install it 下载安装之
 
 
-1.  Setting up channels, and install PyTorch 设置相应的“通道”，下载和安装PyTorch
+1.  Setting up channels 设置相应的“通道”，下载和安装
 
     说明：Anaconda 的 `conda` 命令是一个类似于 `pip` 的第三方包管理器，里面有“channel（通道）”这种概念，所谓的通道，就是一组包名和相应的来源网址。Anaconda在刚安装完成时，默认是从官方网站下载，这样会导致速度比较慢。我们可以将其设置为TUNA的通道，这样就会快很多。
 
@@ -27,22 +27,20 @@ Due to poor internet connection in certain regions, using integrated tools such 
 
     1.  Run the following commands
 
-        执行下列命令（注意，这期间有可能会中断或者提示，请留意相应的信息）
-        ``` 
+    执行下列命令（注意，这期间有可能会中断或者提示，请留意相应的信息）
+
         pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 
         python -m pip install --upgrade pip
-        :: Alternatively, use `python -m pip install --upgrade pip`
-
 
         conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
         conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
-        conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
         
+        :: (Deprecated "pro" channel)
+        :: conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/pro/
+
         :: (Optional) Use conda-forge channel 
-        :: (Start of block) 
-        conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
-        :: (End of block)
+        :: conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
         
         conda config --set show_channel_urls yes
         
@@ -52,16 +50,30 @@ Due to poor internet connection in certain regions, using integrated tools such 
         
         conda update jupyter numpy sympy scipy matplotlib
 
+### Setting up PyTorch
+
+        conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
         
-        :: Installing pytorch
         conda install pytorch
         
         pip install torchvision
 
+### Setting up Tensorflow
+        
+  * __方法1) pip安装方式（推荐）：__
+   
+        :: Current release for CPU-only
+        pip install tensorflow
+
+        :: GPU package for CUDA-enabled GPU cards
+        pip install tensorflow-gpu
         ```
-    
-    
-## Change the Jupyter start-up folder
+        
+  * __方法2) 下载msi安装方式：__
+    https://www.lfd.uci.edu/~gohlke/pythonlibs/#tensorflow
+
+
+### Change the Jupyter start-up folder
 
 If you're using a Windows System, you might encouter difficulties in setting the default path for Jupyter Notebook. Current information available online is pretty scattered. Below there is a working solution tested by me. 
 
