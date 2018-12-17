@@ -3,26 +3,12 @@
 ## 1. 安装python与准备环境
 
 ### 1.0 远程的Jupyter，免去本地安装之苦
-[Google Colab](https://colab.research.google.com)
+__直接运行[Google Colab](https://colab.research.google.com)__
 是Google公司做的一款小产品，能够在浏览器里直接运行，这样就可以略过以下的内容……
-
-
 
 ### 1.1 安装Anaconda全家桶，并且相应地设置
 Anaconda全家桶集成了Python语言，numpy+scipy+matplotlib等最常用的数学包，Jupyter交互式执行器，Spyder和VSCode的下载器，
-请按照 [这篇cookbook](cookbook-setting_up-anaconda-w-tuna.md) https://github.com/x1angli/priority-n-productivity/blob/master/cookbook-setting_up-anaconda-w-tuna.md里的
-
-#### 1.1.1 从TUNA上下载和安装Anaconda全家桶
-https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
-
-#### 1.1.2 设置conda的channels
-照上面的cookbook里的做就行了
-需要将main+free+pro这三个，或者将main+free这两个conda channel指向TUNA的镜像
-如果需要，也可以把pytorch或者更多的conda channel指向TUNA的镜像
-（至于为什么这么锁碎，为什么不是三并一的Anaconda，可以参照 [这里](https://github.com/tuna/issues/issues/307#issuecomment-374014053) 以及 [这里](https://github.com/tuna/issues/issues/417#issuecomment-434544876) ） 
-
-#### 1.1.3 设置Jupyter的起始目录
-照cookbook里的做就行了，做的时候需要注意路径需要改成自己想要的
+__请一步步按照 [这篇cookbook](cookbook-setting_up-environment-for-data_science.md) 里完成__
 
 ### 1.2 更新和设置python
 在管理员权限的Windows或者其他操作系统的命令行（cli）下，运行下列命令
