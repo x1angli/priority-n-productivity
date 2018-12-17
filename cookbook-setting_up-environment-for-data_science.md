@@ -9,7 +9,13 @@ By [its website](https://www.anaconda.com/),  "Anaconda is The Most Popular Pyth
 
 Due to poor internet connection in certain regions, using integrated tools such as Anaconda is always painful, especially consider the hefty size of 600MB for its installer (much less to say about 3rd-party packages/modules). Most users might be frustrated. This instruction is written to solve this issue. The main idea behind the following approach: use a mirror site to accelerate the download process to enhance user experience and boost productivity.
 
-## Installing and configuring Anaconda 
+## TL'DR 简短版 ##
+ 
+如果你只是一个轻度的学习者，想在有限的时间内大致接触一下，我建议用在线版的 Google Colab
+* https://colab.research.google.com
+* https://colab.research.google.com/notebooks/welcome.ipynb
+ 
+## Install and configure Anaconda 
 1.  Download and install Anaconda from TUNA's mirror 从 TUNA 的镜像下载和安装 Anaconda
     1.  Visit 访问 https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
     1.  Chosse the Anaconder version (preferrably the latest one), and pick up the version that matches your OS. 先选择Anaconda的版本（建议选择最新的，页面的最下方），并且选择与自己操作系统对应的版本
@@ -17,7 +23,7 @@ Due to poor internet connection in certain regions, using integrated tools such 
     1.  Download and install it 下载安装之
 
 
-1.  Setting up channels 设置相应的“通道”，下载和安装
+1.  Setup channels 设置相应的“通道”，下载和安装
 
     说明：Anaconda 的 `conda` 命令是一个类似于 `pip` 的第三方包管理器，里面有“channel（通道）”这种概念，所谓的通道，就是一组包名和相应的来源网址。Anaconda在刚安装完成时，默认是从官方网站下载，这样会导致速度比较慢。我们可以将其设置为TUNA的通道，这样就会快很多。
 
@@ -49,28 +55,45 @@ Due to poor internet connection in certain regions, using integrated tools such 
         conda update anaconda
         
         conda update jupyter numpy sympy scipy matplotlib
+        
+        :: Alternatively, run the following lines of code
+        conda install scipy
+        pip install --upgrade requests 
+        pip install --upgrade sklearn pandas pandas-datareader h5py matplotlib  
+        pip install --upgrade pillow
+        pip install --upgrade tensorflow==1.12.0
+        pip install --upgrade keras==2.2.4
 
-### Setting up PyTorch
+
+### Install PyTorch
 
         conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
-        
         conda install pytorch
-        
         pip install torchvision
 
-### Setting up Tensorflow
+### Install Tensorflow
         
-  * __方法1) pip安装方式（推荐）：__
+  * __方法1) pip方式（推荐）：__
    
         :: Current release for CPU-only
-        pip install tensorflow
+        pip install --upgrade tensorflow
 
         :: GPU package for CUDA-enabled GPU cards
-        pip install tensorflow-gpu
+        pip install --upgrade tensorflow-gpu
         ```
+  * __方法2) conda方式（推荐）：__
         
-  * __方法2) 下载msi安装方式：__
-    https://www.lfd.uci.edu/~gohlke/pythonlibs/#tensorflow
+        conda install tensorflow-gpu
+
+  * __方法3) msi/exe方式：（Windows Only）__
+    去　https://www.lfd.uci.edu/~gohlke/pythonlibs/#tensorflow
+    下载安装文件，并在本地安装
+    
+### Install Caffee
+    conda install caffe-gpu
+
+### Install MxNet
+    conda install mxnet-gpu
 
 
 ### Change the Jupyter start-up folder
