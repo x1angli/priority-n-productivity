@@ -50,11 +50,11 @@ Due to poor internet connection in certain regions, using integrated tools such 
         
         conda config --set show_channel_urls yes
         
-        conda update conda
+        conda update -y conda
         
-        conda update anaconda
+        conda update -y anaconda
         
-        conda update jupyter numpy sympy scipy matplotlib
+        conda update -y jupyter numpy sympy scipy matplotlib
         
         :: Alternatively, run the following lines of code
         conda install scipy
