@@ -50,10 +50,8 @@ Due to poor internet connection in certain regions, using integrated tools such 
         
         conda config --set show_channel_urls yes
         
-        conda update -y conda
-        
-        conda update -y anaconda
-        
+        conda update -y conda anaconda
+                
         conda update -y jupyter numpy sympy scipy matplotlib
         
         :: (Optional) Run the following lines of code
