@@ -58,7 +58,6 @@ Due to poor internet connection in certain regions, using integrated tools such 
         :: pip install --upgrade requests 
         :: pip install --upgrade pandas pandas-datareader  
         :: pip install --upgrade pillow
-        :: pip install keras 
         :: pip install sklearn
 
 
@@ -70,21 +69,24 @@ Due to poor internet connection in certain regions, using integrated tools such 
 
 ### Install Tensorflow
 
-  * __方法1) conda方式（推荐）：__
-        
+  * __方法1) conda方式（不推荐）：__
+     
+     不推荐的原因在于会像[这里](https://www.reddit.com/r/tensorflow/comments/9qlo2s/anaconda_stuck_on_windows/)一样，在Solving Environment那里死循环。
+      
         conda install tensorflow-gpu
+        
 
-  * __方法2) msi/exe方式：（Windows Only）__
+  * __方法2) msi/exe方式：（适合Windows）__
   
      去 https://www.lfd.uci.edu/~gohlke/pythonlibs/#tensorflow 下载安装文件，并在本地安装
 
-  * __方法3) pip方式（貌似在TUNA镜像时无效）：__
-   
-        :: Current release for CPU-only
-        pip install --upgrade tensorflow
+  * __方法3) pip方式：（适合Linux及MacOS）__
+     
+     先访问 https://mirror.tuna.tsinghua.edu.cn/help/tensorflow/ ，选择与自己系统对应的版本并运行相应的设置sh命令，最后执行`pip install` ————如果上来不调整任何设置直接执行`pip install`，多半会失败。   
 
-        :: GPU package for CUDA-enabled GPU cards
-        pip install --upgrade tensorflow-gpu
+  * __方法4) pip方式：（适合Windows）__
+     
+     先访问 https://mirrors.tuna.tsinghua.edu.cn/tensorflow/windows/ ，找到与需要的版本，然后下载相应的.whl文件，最后再在本地执行`pip install some-package.whl`
         
         
 ### Install Caffee
