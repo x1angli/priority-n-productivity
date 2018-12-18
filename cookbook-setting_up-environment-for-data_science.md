@@ -57,11 +57,11 @@ Due to poor internet connection in certain regions, using integrated tools such 
         conda update -y jupyter numpy sympy scipy matplotlib
         
         :: (Optional) Run the following lines of code
-        pip install --upgrade requests 
-        pip install --upgrade pandas pandas-datareader  
-        pip install --upgrade pillow
-        pip install keras 
-        pip install sklearn
+        :: pip install --upgrade requests 
+        :: pip install --upgrade pandas pandas-datareader  
+        :: pip install --upgrade pillow
+        :: pip install keras 
+        :: pip install sklearn
 
 
 ### Install PyTorch
