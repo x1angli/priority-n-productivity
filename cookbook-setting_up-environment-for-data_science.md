@@ -79,13 +79,9 @@ Due to poor internet connection in certain regions, using integrated tools such 
   
      去 https://www.lfd.uci.edu/~gohlke/pythonlibs/#tensorflow 下载安装文件，并在本地安装
 
-  * __方法3) pip方式：（适合Linux及MacOS）__
+  * __方法3) pip方式：（适合Linux, MacOS, 及Windows）__
      
-     先访问 https://mirror.tuna.tsinghua.edu.cn/help/tensorflow/ ，选择与自己系统对应的版本并运行相应的设置sh命令，最后执行`pip install` ————如果上来不调整任何设置直接执行`pip install`，多半会失败。   
-
-  * __方法4) pip方式：（适合Windows）__
-     
-     先访问 https://mirrors.tuna.tsinghua.edu.cn/tensorflow/windows/ ，找到与需要的版本，然后下载相应的.whl文件，最后再在本地执行`pip install some-package.whl`
+     先访问 https://mirrors.tuna.tsinghua.edu.cn/tensorflow/ ，找到与自己系统对应的版本的路径，然后下载相应的.whl文件，最后再在本地执行`pip install some-package.whl`
         
         
 ### Install Caffee
