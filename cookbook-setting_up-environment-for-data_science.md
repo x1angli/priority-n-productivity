@@ -56,13 +56,12 @@ Due to poor internet connection in certain regions, using integrated tools such 
         
         conda update -y jupyter numpy sympy scipy matplotlib
         
-        :: Alternatively, run the following lines of code
-        conda install scipy
+        :: (Optional) Run the following lines of code
         pip install --upgrade requests 
-        pip install --upgrade sklearn pandas pandas-datareader h5py matplotlib  
+        pip install --upgrade pandas pandas-datareader  
         pip install --upgrade pillow
-        pip install --upgrade tensorflow==1.12.0
-        pip install --upgrade keras==2.2.4
+        pip install keras 
+        pip install sklearn
 
 
 ### Install PyTorch
@@ -72,23 +71,24 @@ Due to poor internet connection in certain regions, using integrated tools such 
         pip install torchvision
 
 ### Install Tensorflow
+
+  * __方法1) conda方式（推荐）：__
         
-  * __方法1) pip方式（推荐）：__
+        conda install tensorflow-gpu
+
+  * __方法2) msi/exe方式：（Windows Only）__
+  
+     去 https://www.lfd.uci.edu/~gohlke/pythonlibs/#tensorflow 下载安装文件，并在本地安装
+
+  * __方法3) pip方式（貌似在TUNA环境下无效）：__
    
         :: Current release for CPU-only
         pip install --upgrade tensorflow
 
         :: GPU package for CUDA-enabled GPU cards
         pip install --upgrade tensorflow-gpu
-        ```
-  * __方法2) conda方式（推荐）：__
         
-        conda install tensorflow-gpu
-
-  * __方法3) msi/exe方式：（Windows Only）__
-  
-     去 https://www.lfd.uci.edu/~gohlke/pythonlibs/#tensorflow 下载安装文件，并在本地安装
-    
+        
 ### Install Caffee
     conda install caffe-gpu
 
