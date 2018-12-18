@@ -54,15 +54,6 @@ With the following  tool, you can just include a single line of JavaScript refer
     * Link: https://casual-effects.com/markdeep/ 
 
 
-## Markdown parsers / SDKs
-* __pandoc__: A well-known python structured text parser that supports multiple formats.
-	* http://pandoc.org/
-
-* __pymarkup__: This module provides a python wrapper around various text markup languages such as Markdown, reStructuredText and Textile.
-	* Link: https://github.com/retext-project/pymarkups
-
-* __kramdown__: a free MIT-licensed Ruby library for parsing and converting a superset of Markdown
-	* Link: https://kramdown.gettalong.org/
 
 ## Dynamic website generators 
 The following tools loads markdown contents and renders them in HTML format
@@ -73,3 +64,22 @@ The following tools loads markdown contents and renders them in HTML format
 * __Jekyll__: https://jekyllrb.com/
 * __Middleman__: https://middlemanapp.com/
 * __HamDown__: https://github.com/inem/hamdown
+
+
+## Markdown parsers / SDKs
+* __pandoc__: A well-known python structured text parser that supports multiple formats.
+	* http://pandoc.org/
+
+* __pymarkup__: This module provides a python wrapper around various text markup languages such as Markdown, reStructuredText and Textile.
+	* Link: https://github.com/retext-project/pymarkups
+
+* __kramdown__: a free MIT-licensed Ruby library for parsing and converting a superset of Markdown
+	* Link: https://kramdown.gettalong.org/
+
+## Markdown mobile APPs
+* __MarkNote__: An open source makrdown note-taking application for Android
+	* Source: https://github.com/Shouheng88/MarkNote
+	* Download: https://www.coolapk.com/apk/178276
+	* Google Play Store: https://play.google.com/store/apps/details?id=me.shouheng.notepal 
+
+
