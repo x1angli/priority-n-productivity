@@ -73,8 +73,7 @@ Due to poor internet connection in certain regions, using integrated tools such 
      
      不推荐的原因在于会像[这里](https://www.reddit.com/r/tensorflow/comments/9qlo2s/anaconda_stuck_on_windows/)一样，在Solving Environment那里死循环。
       
-        conda install tensorflow-gpu
-        
+     执行`conda install tensorflow-gpu`或`conda install tensorflow`
 
   * __方法2) msi/exe方式：（适合Windows）__
   
