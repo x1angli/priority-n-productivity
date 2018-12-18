@@ -80,7 +80,7 @@ Due to poor internet connection in certain regions, using integrated tools such 
   
      去 https://www.lfd.uci.edu/~gohlke/pythonlibs/#tensorflow 下载安装文件，并在本地安装
 
-  * __方法3) pip方式（貌似在TUNA环境下无效）：__
+  * __方法3) pip方式（貌似在TUNA镜像时无效）：__
    
         :: Current release for CPU-only
         pip install --upgrade tensorflow
