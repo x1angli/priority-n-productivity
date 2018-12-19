@@ -39,7 +39,7 @@
 3. **在客户端本地生成key和csr，并且手动验证——失败**
    由于笔者用的Win的客户端（欢迎鄙视），无法使用稳定且文档丰富的certbot，于是
    1. 下载了一个[Certify SSL Manager](https://certifytheweb.com/)， 装上， 先是琢磨了很多时间，发现对多个域名的支持不够好，于是只留一个“*.yourdomain.name”，接着虽然生成了证书文件，但是软件的证书文件是一个，而群晖DSM的导入界面却需要两个文件：一个含私钥的.key，另一个是证书链。试着用openssl作格式转换和文件分割，然后一直格式出错，遂放弃……
-   2. 试着在cygwin上用一些其他的轻量级的基于.sh的客户端，无果——依然是同样的原因，需要下载这样或那样的linux包依赖
+   2. 试着在MinGW上用一些其他的轻量级的基于.sh的客户端，无果——依然是同样的原因，需要下载这样或那样的linux包依赖
 4. **在客户端使用pip方式安装certbot——成功**
    客户端已经完整的python，于是用`pip install certbot`一次性成功安装certbot（比较amaze的一点是在pip下能成功安装一个cli直接执行的命令）。安装虽然顺利，但是部署过程依然又是小曲折：
    1. 需要运行`certbot certonly --manual -d yourdoman.name -d www.yourdoman.name --preferred-challenges "dns"`
