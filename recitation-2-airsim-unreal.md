@@ -17,7 +17,7 @@
 去 https://www.unrealengine.com/download 下载Epic Game Launcher。点左侧的“Unreal Engine”，再点右侧的“Library”。由于AirSim指定了**4.18.3**版，我们就用这个版本。点击这个版本之后就会启动相应的下载+安装流程。安装需要下载好几个G的文件并解压，这时候可以去做别的事。
 
 注意：
-1. 安装完了之后在这个界面 点击4.18引擎，并且选“set to current”
+1. 安装完了之后在这个界面 点击4.18引擎，并且选“Set Current”
 ![Set Current](assets/unreal-set_current.jpg)
 
 ### 3. 构建AirSim
