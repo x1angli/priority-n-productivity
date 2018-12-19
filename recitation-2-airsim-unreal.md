@@ -5,4 +5,5 @@
 
 安装的时候要注意：
 1. 记得把Windows SDK要装上。Airsim指定是8.1版，为了稳妥起见勾上8.1，可能还需要勾上10或者更高版本。
-1. 
+1. 记得把“Development with C++”给勾上
+![Visual Studio Installer Development with cplusplus](assets/vs_cplusplus.jpg)
