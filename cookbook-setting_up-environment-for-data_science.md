@@ -69,20 +69,26 @@ Due to poor internet connection in certain regions, using integrated tools such 
 
 ### Install Tensorflow
 
-  * __方法1) conda方式（不推荐）：__
+  * __方法1) pip方式：__
      
-     不推荐的原因在于会像[这里](https://www.reddit.com/r/tensorflow/comments/9qlo2s/anaconda_stuck_on_windows/)一样，在Solving Environment那里死循环。
-      
-     执行`conda install tensorflow-gpu`或`conda install tensorflow`
+     操作：在将pip设置成指向TUNA或其他相对比较快的仓库后，运行`pip install tensorflow`或`pip install tensorflow-gpu`
 
   * __方法2) msi/exe方式：（适合Windows）__
   
-     去 https://www.lfd.uci.edu/~gohlke/pythonlibs/#tensorflow 下载安装文件，并在本地安装
+     操作：去 https://www.lfd.uci.edu/~gohlke/pythonlibs/#tensorflow 下载安装文件，并在本地安装
 
-  * __方法3) pip方式：（适合Linux, MacOS, 及Windows）__
+  * __方法3) 手动安装方式：（适合Linux, MacOS, 及Windows）__
      
-     先访问 https://mirrors.tuna.tsinghua.edu.cn/tensorflow/ ，找到与自己系统对应的版本的路径，然后下载相应的.whl文件，最后再在本地执行`pip install some-package.whl`
-        
+     操作：先访问 https://mirrors.tuna.tsinghua.edu.cn/tensorflow/ ，找到与自己系统对应的版本的路径，然后下载相应的.whl文件，最后再在本地执行`pip install some-package.whl` 
+     
+     不推荐的原因：TensorFlow已经移至PyPI，也就是说TUNA的PyPI镜像已经自动包括了tensorflow，而这个专门的tensorflow不再被维护和更新，只是因历史遗留问题存在。
+     
+  * __方法4) conda方式（不推荐）：__
+     
+     方法：执行`conda install tensorflow-gpu`或`conda install tensorflow`        
+
+     不推荐的原因：如果用conda更新，有可能像[这里](https://www.reddit.com/r/tensorflow/comments/9qlo2s/anaconda_stuck_on_windows/)一样，在“Solving Environment”那里死住出不来，即使禁用Windows Defender也没用。
+      
         
 ### Install Caffee
     conda install caffe-gpu
