@@ -82,4 +82,7 @@ The following tools loads markdown contents and renders them in HTML format
 	* Download: https://www.coolapk.com/apk/178276
 	* Google Play Store: https://play.google.com/store/apps/details?id=me.shouheng.notepal 
 
-
+## References and Tutorials:
+* __commonmark.org__
+	* Cheetsheet: https://commonmark.org/help/
+	* Interactive Tutorial: https://commonmark.org/help/tutorial/
