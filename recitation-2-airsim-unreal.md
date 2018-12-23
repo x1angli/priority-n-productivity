@@ -22,28 +22,39 @@
 
 ### 3. 构建AirSim
 
+1. 首先，**一定一定要把Windows系统的语言给改成“English - United States”**，因为任何别的语言都会导致Windows SDK的UCRT的编译出错
+![Set Locale](assets/win_locale.jpg)
+
 1. 开始菜单，点击“x64 Native Tools Command Prompt for VS 2017”，
 
-    1.1. 最好是右键之，并点击“以管理员方式运行”
+    2.1. 最好是右键之，并点击“以管理员方式运行”
     
 1. 进入一个硬盘空间宽裕的目录，运行`git clone https://github.com/Microsoft/AirSim.git`
+
+1. （可做可不做）如果你有代码洁癖，你可以用[这个工具](https://github.com/x1angli/convert2utf/)或别的工具把git已经下载到本地的文件的编码强制改成UTF-8，以确保编码一致性。比如下面的文件：
+    
+        AirSim/AirLib/include/common/Settings.hpp
+        AirSim/MavLinkCom/mavlink/mavlink_sha256.h 
+
+1. 如果你在大陆的上网环境，请打开科学上网方案；否则会卡壳。
 
 1. 等待git下载完毕后，执行如下命令
     
         cd AirSim
-        chcp 1252
         build.cmd
     
-    3.1. 注意：如果在编译过程中如果遇到代码页出错，有可能是`chcp 1252`不起作用，这时候需要把Windows的默认locale设置成“英语（美国）”并重启动
 
 ### 4. 构建一个Unreal下的工程
 
 最后，需要为小车建立一个Unreal下的工程。AirSim有一个自带的“Blocks”工程，这是为了学习用所搭建的最小化的工程；当然还有一些其他的工程，感兴趣的可以见 [这里](https://github.com/Microsoft/AirSim/releases)
 
-1. 在`AirSim\Unreal\Environments\Blocks`目录下，执行`chcp 1252`和`update_from_git.bat`. 完了会生成一个.sln文件
+1. 在`AirSim\Unreal\Environments\Blocks`目录下，执行`update_from_git.bat`. 完了会生成一个.sln文件
+
 1. 在Visual Studio 2017中打开那个Blocks目录下新生成的.sln文件
-3. 确定“Blocks”工程是“startup project”, 并且“build configuration”设置成了“DebugGame_Editor”与“Win64”. 按下F5键.
-4. 在Unreal Editor中，按下“Play”按钮，就能操控小车了
+
+1. 确定“Blocks”工程是“startup project”, 并且“build configuration”设置成了“DebugGame_Editor”与“Win64”. 按下F5键.
+
+1. 在Unreal Editor中，按下“Play”按钮，就能操控小车了
 
 
 
