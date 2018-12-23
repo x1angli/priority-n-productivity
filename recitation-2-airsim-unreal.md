@@ -48,6 +48,8 @@
 
 最后，需要为小车建立一个Unreal下的工程。AirSim有一个自带的“Blocks”工程，这是为了学习用所搭建的最小化的工程；当然还有一些其他的工程，感兴趣的可以见 [这里](https://github.com/Microsoft/AirSim/releases)
 
+1. 确保语言依然是“English - United States”，以及科学上网开启
+
 1. 在`AirSim\Unreal\Environments\Blocks`目录下，执行`update_from_git.bat`. 完了会生成一个.sln文件
 
 1. 在Visual Studio 2017中打开那个Blocks目录下新生成的.sln文件
