@@ -5,7 +5,7 @@
 去 https://visualstudio.microsoft.com/downloads/ 上面下载免费的Visual Studio Community，并且安装之。注意这是Visual Studio，不是Visual Studio Code。
 
 注意：
-1. 记得把Windows SDK要装上。Airsim指定是8.1版，为了稳妥起见勾上“Windows 8.1 SDK and UCRT SDK”，可能还需要勾上“Windows 10 SDK”。
+1. 记得把Windows SDK要装上。Airsim指定是8.1版，为了稳妥起见勾上“Windows 8.1 SDK and UCRT SDK”（实测可能不需要）。
 1. 记得把“Development with C++”给勾上
 
 ![Visual Studio Installer Development with cplusplus](assets/vs_cplusplus.jpg)
@@ -36,7 +36,7 @@
         AirSim/AirLib/include/common/Settings.hpp
         AirSim/MavLinkCom/mavlink/mavlink_sha256.h 
 
-1. 如果你在大陆的上网环境，请打开科学上网方案；否则会卡壳。
+1. 如果你在大陆的上网环境，请打开科学上网方案；否则会因为找不到文件永久卡住，无法继续。
 
 1. 等待git下载完毕后，执行如下命令
     
