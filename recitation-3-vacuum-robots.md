@@ -6,5 +6,7 @@ http://dontvacuum.me/talks/topics.html
 https://github.com/dgiese/dustcloud
 一个dustcloud，模拟厂商的云服务器，给机器人下指令用的。
 
-https://dgiese.scripts.mit.edu/talks/HITCON14CMT/hitcon14-iot-reveng-101-xiaomi.pdf
-逆向工程小米的吸尘器
+* 逆向工程小米的吸尘器
+  * [官方链接](https://dgiese.scripts.mit.edu/talks/HITCON14CMT/hitcon14-iot-reveng-101-xiaomi.pdf)
+  * [本地下载](assets/hitcon14-iot-reveng-101-xiaomi.pdf)
+
