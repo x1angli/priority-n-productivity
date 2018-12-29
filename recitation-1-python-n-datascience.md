@@ -31,6 +31,8 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/
 ### 2.1 Python教程
 * [W3学校教程](https://www.w3schools.com/python/)
     * 看到“File Handling”就可以了
+* [廖雪峰的Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+    * 有一个交互式的网页内嵌python解释器，可以边学边练
 * [官方的python教程——全套](https://docs.python.org/3/tutorial/)
     * 注意：这是全套教程，所以特别详细（冗长），建议有的放矢
 * [Python的技巧](http://book.pythontips.com)
