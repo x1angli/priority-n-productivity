@@ -51,6 +51,10 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/
     * 强烈推荐：推荐的原因是把学习曲线比较陡的Kalman滤波给讲明白了
     * [图解卡尔曼滤波（中文翻译）](https://blog.csdn.net/u010720661/article/details/63253509)
 
+### 2.4 科学计算教程
+* [Scientific Python 101](https://scientific-python-101.readthedocs.io/)
+* [Scientific Python 102](https://python-102.readthedocs.io/)
+
 
 ## 3 关于Python的知识点：
 
@@ -96,4 +100,7 @@ print(matrix2d * matrix2d.T) # still performing dot-product
 具体可以以“Python decorator”关键字去Google搜索
 
 ### 3.3 List Comprehension列表推导式
+（略）
+
+### 3.4 其他语法糖
 （略）
