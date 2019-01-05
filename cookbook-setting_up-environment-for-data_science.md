@@ -14,7 +14,12 @@ Due to poor internet connection in certain regions, using integrated tools such 
 如果你只是一个轻度的学习者，想在有限的时间内大致接触一下，我建议用在线版的 Google Colab
 * https://colab.research.google.com
 * https://colab.research.google.com/notebooks/welcome.ipynb
- 
+
+## 前言
+
+**在安装Python前，强烈建议不再使用Python 2 ， 而是使用Py3**
+虽然几乎目前所有主要的开源 Python 包现在都同时支持 Python 3.x 和 Python 2.7；但Python 2.7 将于 2020 年退休，已陆续有一大批 Python 项目宣布将在 2020 年之前放弃对 Python 2.7 的支持，包括 pandas、Zulip、IPython、NumPy 等等
+
 ## Install and configure Anaconda 
 1.  Download and install Anaconda from TUNA's mirror 从 TUNA 的镜像下载和安装 Anaconda
     1.  Visit 访问 https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
