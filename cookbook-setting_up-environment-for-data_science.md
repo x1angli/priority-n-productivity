@@ -19,6 +19,7 @@ Due to poor internet connection in certain regions, using integrated tools such 
 
 **在安装Python前，强烈建议不再使用Python 2 ， 而是使用Py3**
 虽然几乎目前所有主要的开源 Python 包现在都同时支持 Python 3.x 和 Python 2.7；但Python 2.7 将于 2020 年退休，已陆续有一大批 Python 项目宣布将在 2020 年之前放弃对 Python 2.7 的支持，包括 pandas、Zulip、IPython、NumPy 等等
+参见：https://python3statement.org/
 
 ## Install and configure Anaconda 
 1.  Download and install Anaconda from TUNA's mirror 从 TUNA 的镜像下载和安装 Anaconda
