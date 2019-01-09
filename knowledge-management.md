@@ -4,6 +4,7 @@ https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
     * [Gitbook](https://www.gitbook.com/)
     * [VuePress](https://vuepress.vuejs.org/). 
     * [Notejoy](https://notejoy.com/)
+* [Trilium Notes](https://github.com/zadam/trilium) is a Node-based hierarchical note taking application with focus on building large personal knowledge bases
 * [Pocket](https://getpocket.com/) as read-it-later list
 * [Snippet Store](https://github.com/ZeroX-DG/SnippetStore) for snippet management, alternatives include
     * Snippets feature shipped in editors / IDEs 
