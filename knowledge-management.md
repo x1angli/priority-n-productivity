@@ -23,13 +23,45 @@ https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
 
 ### Drawing & Design Tools ####
 * [Sketch](https://www.sketchapp.com/)
-** [Lunacy, Sketch for Windows](https://icons8.com/lunacy)
-** [Installing Sketech on top of VM on top of Windows](https://www.youtube.com/watch?v=YmqtE8jzDlQ)
-* [Avocode](https://avocode.com/) Open designs without design tools. Export images without preparing layers. Click on layers to get code.
+   * [Lunacy](https://icons8.com/lunacy) 
+      - A Sketch alternative for Windows 
+   - Video Tutorial Installing Sketech on top of VM on top of Windows : [watch](https://www.youtube.com/watch?v=YmqtE8jzDlQ)
+* Draw.io
+   * Desktop: https://www.draw.io/
+   * Online Live: https://about.draw.io/integrations/#integrations_offline
+* [Avocode](https://avocode.com/) 
+    - Open designs without design tools. Export images without preparing layers. Click on layers to get code.
 * [Figma](https://www.figma.com/)
-
-
-
+* Pencil
+   * Desktop: https://pencil.evolus.vn/   
+   
+#### Process / Workflow / UML Diagram Tools
+* [ProcessOn](https://www.processon.com/)
+* [yEd](https://www.yworks.com/products/yed)
+   * Desktop: https://www.yworks.com/products/yed
+   * Online Live: https://www.yworks.com/products/yed-live
+* Dia
+   * Desktop: http://dia-installer.de/ 
+* Inkscape   
+   * Desktop: https://inkscape.org/
+* Whimsical
+   * Online Live: https://whimsical.co/   
+* PlantUML
+   * Online Live: http://www.plantuml.com/plantuml/
+* 迅捷画图
+   * Online Live: https://www.liuchengtu.com/
+* Visual Paradigm Online
+   * Online Live: https://online.visual-paradigm.com   
+* Creately
+   * Online Live: https://creately.com/
+   
+#### MindMap Tools
+* 百度脑图
+   * Online Live: http://naotu.baidu.com/
+* Coggle
+   * Online Live: https://coggle.it
+   
+   
 ### Office-like Tools  ###  
 * [AirTable](https://airtable.com/) a spreadsheet-database hybrid, with the features of a database but applied to a spreadsheet.
    * [Smartsheet](https://www.smartsheet.com/) 
