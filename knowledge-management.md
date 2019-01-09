@@ -6,7 +6,7 @@ https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
     * [Notejoy](https://notejoy.com/)
 * [Trilium Notes](https://github.com/zadam/trilium) is a Node-based hierarchical note taking application with focus on building large personal knowledge bases
 * [Pocket](https://getpocket.com/) as read-it-later list
-* [Snippet Store](https://github.com/ZeroX-DG/SnippetStore) for snippet management, alternatives include
+* [Snippet Store](https://github.com/ZeroX-DG/SnippetStore) is a snippet management tool developed by Nguyen Viet Hung. It's both a standalone binary and a plugin for VS Code. It supports various kinds of programming languages. Its alternatives include: 
     * Snippets feature shipped in editors / IDEs 
     * GitHub Gists
     * [BoostNote](https://boostnote.io/)
