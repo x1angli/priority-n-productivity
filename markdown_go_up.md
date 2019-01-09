@@ -5,6 +5,10 @@ Here is a group of links for you to better use Markdown
 	* Link: https://typora.io/
 	* Remarks: This is really a nice tool. It would be better if it supports split-panel with both markdown source code and rendered WYSIWYG displayed side-by-side. Also, you have to explicitly turn on the "In-line Math" switch.
 
+* __Boostnote__: An open-source markdown editor for developers on Mac, Windows and Linux. 
+	* Link: https://boostnote.io/
+	* Github: https://github.com/BoostIO/Boostnote
+        - Built with Electron, React + Redux, Webpack, and CSSModules.
 * __Gitbook's Editor__: Writing books using git in combination with Markdown or Asciidoc. LaTeX is supported.
 	* Download Link for executable binaries (available for Windows / Mac / Linux): https://legacy.gitbook.com/editor
 	* Installation instruction for the node.js: https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md
