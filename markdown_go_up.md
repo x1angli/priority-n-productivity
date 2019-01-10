@@ -46,7 +46,7 @@ With the following  tool, you can just include a single line of JavaScript refer
 
 
 
-##   Markdown Extensions  
+## Markdown Extensions  
 * __MathJax__: A JavaScript display engine for mathematics that works in all browsers. It's not dedicated to Markdown only, but for generic HTML webpages that needs to render math contents with LaTeX syntax. 
 	* Link: https://www.mathjax.org/
 
@@ -68,8 +68,11 @@ The following tools loads markdown contents and renders them in HTML format
 * __Jekyll__: https://jekyllrb.com/
 * __Middleman__: https://middlemanapp.com/
 * __HamDown__: https://github.com/inem/hamdown
-
-
+* __Docusaurus__: 
+An easy to Maintain Open Source Documentation Websites. It is based on Node.js (React) that converts a directory of Markdown files (along with specified folder structure) to a dynamic, searchable website
+	* Link: https://docusaurus.io/ 
+	* Github Repo: https://github.com/facebook/Docusaurus
+	
 ## Markdown parsers / SDKs
 * __pandoc__: A well-known python structured text parser that supports multiple formats.
 	* http://pandoc.org/
