@@ -48,5 +48,10 @@ Assuming you are using Tex Live
 * Forget CJK, use UTF-8 or Unicode instead
 * Install and use ctex macro package (here, "ctex" is a macro's name, it's not the CTeX compiler.
 
+## Using LaTeX on your website
+Here are a list of math typesetting tools for the web
+* Katex: https://katex.org/, https://github.com/KaTeX/KaTeX
+* MathJax: https://www.mathjax.org/, https://github.com/mathjax/mathjax
+
 # References: 
 1. [ 《如何使用 LaTeX 排版论文》](https://github.com/tuna/thulib-latex-talk/raw/master/latex-talk.pdf), by 陈晟祺, retreived on Nov 03, 2018. 
