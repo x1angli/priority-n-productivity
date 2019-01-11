@@ -80,3 +80,32 @@ func split(sum int) (x, y int) {
 
 ### Exported names
 In Go, a name is exported if it begins with a capital letter
+
+### Loop iterates
+The `range` form of the for loop iterates over a slice or map.
+
+```
+package main
+import "fmt"
+
+var pow = []int{1, 2, 4, 8, 16, 32, 64, 128}
+func main() {
+    for i, v := range pow {
+        fmt.Printf("2**%d = %d\n", i, v)
+    }
+    for _, value := range pow {
+		fmt.Printf("%d\n", value)
+	}
+
+}
+```
+
+#### Test that a key in a map:
+Test that a key is present in a map with a two-value assignment:
+```elem, ok = m[key]```
+If `key` is in `m`, `ok` is `true`. If not, `ok` is `false`.
+
+### Type(class) methods
+Go does not have classes. However, you can define methods on types. A method is a function with a special receiver argument.The receiver appears in its own argument list between the `func` keyword and the method name.
+
+
