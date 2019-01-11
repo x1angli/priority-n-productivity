@@ -3,6 +3,8 @@ This article contains random, unorganized notes about Golang
 ### Slices are like references to arrays
 Unlike Python, where slices are clones of the original arrays, Golang's slices are array references Changing the elements of a slice modifies the corresponding elements of its underlying array.
 
+And, the capacity of a slice is the number of elements in the underlying array, counting from the first element in the slice. So, the `cap(s)` is always the length of the underlying array.
+
 ```
 package main
 import "fmt"
@@ -41,10 +43,10 @@ var (
 )
 
 func main() {
-	fmt.Println(v)
-  p1.X = 1e9  // note here
-	fmt.Println(p1)
-  fmt.Println(p2)
+    fmt.Println(v)
+    p1.X = 1e9  // note here
+    fmt.Println(p1)
+    fmt.Println(p2)
 }
 ```
 
