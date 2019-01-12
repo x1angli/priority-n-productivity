@@ -58,7 +58,8 @@ https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
 * Creately
    * Online Live: https://creately.com/
 * [Graphviz](https://www.graphviz.org/)
-    - An open source graph visualization software representing structural information as diagrams of abstract graphs and networks. It has important applications in networking, bioinformatics,  software engineering, and other technical domains
+   * Desktop (Win, Mac, Ubuntu, Fedora, etc.) https://www.graphviz.org/download/
+   - An open source graph visualization software representing structural information as diagrams of abstract graphs and networks. It has important applications in networking, bioinformatics,  software engineering, and other technical domains
     
 #### MindMap Tools
 * 百度脑图
