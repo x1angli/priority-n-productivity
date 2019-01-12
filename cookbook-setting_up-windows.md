@@ -1,5 +1,22 @@
 Setting up Windows (here, I mean Windows 10) can be frustrating and time consuming. In this cookbook I will list all the trivialities I encountered when using Windows
 
+## Windows Console-style Software Package Management
+Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of sulutions that Windows users can install software
+
+### Chocolatey
+* Link: https://chocolatey.org/
+
+### Scoop
+* Link: https://scoop.sh/
+* Github Repo: https://github.com/lukesampson/scoop
+
+Scoop 在 __用户目录__ 下创建了一个名为 scoop 的文件夹，并默认将软件安装到这个相对独立且隔离（isolated and independent）的环境下，从而保证环境的统一和路径不被污染。
+scoop 通过 shim 来软链接一些应用，这样的设计让应用之间不会互相干扰。
+
+__前提__ 
+1.PowerShell >= 3
+2.正常、稳定地访问 GitHub
+
 ## Changing Terminal Fonts
 ### Solution 1: Default code page 
 __TL'DR:__ If you're a Win 10 user like me, just use [CMDer](http://cmder.net/) as an alternative of Windows' default Command Prompt, as it is more configurable.
