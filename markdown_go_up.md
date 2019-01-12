@@ -79,7 +79,7 @@ An easy to Maintain Open Source Documentation Websites. It is based on Node.js (
 	* Github Repo: https://github.com/facebook/Docusaurus
 
 	
-## Markdown parsers / SDKs
+## Markdown parsers / converters / SDKs
 * __pandoc__: A well-known python structured text parser that supports multiple formats.
 	* http://pandoc.org/
 
@@ -88,9 +88,10 @@ An easy to Maintain Open Source Documentation Websites. It is based on Node.js (
 
 * __kramdown__: a free MIT-licensed Ruby library for parsing and converting a superset of Markdown
 	* Link: https://kramdown.gettalong.org/
-	
+
+### Markdown presentation slide decks 
 * __markdeck__:
-converts a markdown to a clean, local-hosted, html5 slide deck (PPT-style presentation deck). It takes \*.md files in markdown format and the assets subdir and renders a html5 slidedeck, using pandoc as converter and reveal.js as the presenter framework.
+converts a markdown to a clean, local-hosted, html5 slide deck (PPT-style presentation deck). It takes \*.md files in markdown format and the assets subdir and renders a html5 slidedeck, using pandoc as converter and reveal.js as the presenter framework. It's based on markdown, pandoc, reveal.js, plantuml, ditaamini, asciitosvg, graphviz, asciinema, decktape, vega-lite, mathjax-pandoc-filter, and font-awesome.
 	* Link: https://arnehilmann.github.io/markdeck/
 	* Github Repo: https://github.com/arnehilmann/markdeck	
 	
