@@ -6,6 +6,10 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
 ### Chocolatey
 * Link: https://chocolatey.org/
 
+#### Boxstarter (a virtual machine-like tool)
+* Link: https://boxstarter.org/
+> Boxstarter leverages Chocolatey packages to automate the installation of software and create repeatable, scripted Windows environments. Chocolatey makes installing software very easy with no user intervention. Boxstarter enhances Chocolatey's functionality and provides an environment that is optimized for installing a complete environment on a fresh OS install, as well as some other specific scenarios.
+
 ### Scoop
 * Link: https://scoop.sh/
 * Github Repo: https://github.com/lukesampson/scoop
