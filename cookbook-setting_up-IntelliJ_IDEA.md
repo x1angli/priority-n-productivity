@@ -6,13 +6,13 @@
     
     "Editor" -> "General" -> "Appearance" tab -> "Show line numbers"
     
-    https://www.tutorialdocs.com/upload/2019/01/idea-configurations-11.gif
+![](https://www.tutorialdocs.com/upload/2019/01/idea-configurations-11.gif)
     
 #### 1. Automatic building / compiling
    
     "Build, Execution, Deployment" -> "Compiler" tab -> check "Build project automatically"
     
-    https://www.tutorialdocs.com/upload/2019/01/idea-configurations-03.png
+![](https://www.tutorialdocs.com/upload/2019/01/idea-configurations-03.png)
     
 #### 2. Case insensitive completion
 
@@ -22,19 +22,19 @@
 
     "Editor" -> "General" -> "Auto Import" tab -> "Insert imports on paste: " choose "All"; check both "Add unambiguous imports on the fly" and "Optimize imports on the fly" 
     
-    https://www.tutorialdocs.com/upload/2019/01/idea-configurations-04.png
+![](https://www.tutorialdocs.com/upload/2019/01/idea-configurations-04.png)
    
 #### 4. Show quick documentation / Hover prompt (when the mouse cursor hovers on a class, the Java-doc of such class will pop-up)
 
     "Editor" -> "General" -> check "Show quick documentaton on mouse move"
     
-    https://www.tutorialdocs.com/upload/2019/01/idea-configurations-06.png
+![](https://www.tutorialdocs.com/upload/2019/01/idea-configurations-06.png)
 
 #### 5. Show tabs in multiple rows (so that filenames will be displayed in full)
 
     "Editor" -> "General" -> "Editor Tabs" tab -> uncheck "Show tabs in one row"
 
-    https://www.tutorialdocs.com/upload/2019/01/idea-configurations-10.png
+![](https://www.tutorialdocs.com/upload/2019/01/idea-configurations-10.png)
     
 #### 6. UTF-8 encoding
 
