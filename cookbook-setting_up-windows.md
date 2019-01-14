@@ -15,24 +15,24 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
 
       choco install totalcommander -y
       choco install ccleaner -y
-      choco install ecm -y
+      choco install shmnview shellmenunew shexview -y
       
       choco install chrome -y
       choco install firefox -y
-      
+      choco install youtube-dl -y
+
       choco install adobereader -y
       choco install flashplayerplugin -y
       choco install paint.net -y
       choco install inkscape -y
-      choco install youtube-dl -y
       
       choco install cmder -y
       choco install sysinternals -y
-      choco install putty.install
+      choco install putty.install -y
 
-      choco install git.install
-      choco install python3
-      choco install golang
+      choco install git.install -y
+      choco install python3 -y
+      choco install golang -y
       choco install vscode -y
       choco install jdk11 -y
       choco install intellijidea-ultimate -y
