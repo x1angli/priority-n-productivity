@@ -11,22 +11,25 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
       choco install 7zip.install -y
       choco install notepadplusplus.install -y
       choco install dropbox -y
-      choco install keepass
+      choco install keepass -y
 
-      choco install cmder -y
       choco install totalcommander -y
-      choco install ccleaner
-      choco install sysinternals
+      choco install ccleaner -y
+      choco install ecm -y
       
       choco install chrome -y
       choco install firefox -y
       
       choco install adobereader -y
       choco install flashplayerplugin -y
-      choco install paint.net
-      choco install youtube-dl
+      choco install paint.net -y
+      choco install inkscape -y
+      choco install youtube-dl -y
       
+      choco install cmder -y
+      choco install sysinternals -y
       choco install putty.install
+
       choco install git.install
       choco install python3
       choco install golang
