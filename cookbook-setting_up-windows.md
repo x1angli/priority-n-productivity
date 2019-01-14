@@ -6,6 +6,35 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
 ### Chocolatey
 * Link: https://chocolatey.org/
 
+* List of my software packages
+
+        choco install 7zip.install -y
+        choco install notepadplusplus.install -y
+        choco install dropbox -y
+        choco install keepass
+
+        choco install cmder -y
+        choco install totalcommander -y
+        choco install ccleaner
+        choco install sysinternals
+        
+        choco install chrome -y
+        choco install firefox -y
+        
+        choco install adobereader -y
+        choco install flashplayerplugin -y
+        choco install paint.net
+        choco install youtube-dl
+        
+        choco install putty.install
+        choco install git.install
+        choco install python3
+        choco install golang
+        choco install vscode -y
+        choco install jdk11 -y
+        choco install intellijidea-ultimate -y
+        :choco install springtoolsuite -y 
+
 #### Boxstarter (a virtual machine-like tool)
 * Link: https://boxstarter.org/
 > Boxstarter leverages Chocolatey packages to automate the installation of software and create repeatable, scripted Windows environments. Chocolatey makes installing software very easy with no user intervention. Boxstarter enhances Chocolatey's functionality and provides an environment that is optimized for installing a complete environment on a fresh OS install, as well as some other specific scenarios.
