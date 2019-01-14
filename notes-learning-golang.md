@@ -105,7 +105,18 @@ Test that a key is present in a map with a two-value assignment:
 ```elem, ok = m[key]```
 If `key` is in `m`, `ok` is `true`. If not, `ok` is `false`.
 
-### Type(class) methods
+### receiver methods
 Go does not have classes. However, you can define methods on types. A method is a function with a special receiver argument.The receiver appears in its own argument list between the `func` keyword and the method name.
 
+    func (v Vertex) Abs() float64 {
+        return math.Sqrt(v.X*v.X + v.Y*v.Y)
+    }
 
+
+#### pointer receivers
+Methods with pointer receivers can modify the value to which the receiver points (as Scale does here). Since methods often need to modify their receiver, pointer receivers are more common than value receivers.
+
+    func (v *Vertex) Scale(f float64) {
+        v.X = v.X * f
+        v.Y = v.Y * f
+    }
