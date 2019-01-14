@@ -38,6 +38,11 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
       choco install intellijidea-ultimate -y
       :choco install springtoolsuite -y 
 
+* What packages/software that cannot be installed by choco?
+      * Instant messengers, such as Wechat, QQ International, Dingtalk, AliWangwang
+      * Thunder Downloader (迅雷下载)
+      * Input Methods (IMEs) such as 精灵五笔
+
 #### Boxstarter (a virtual machine-like tool)
 * Link: https://boxstarter.org/
 > Boxstarter leverages Chocolatey packages to automate the installation of software and create repeatable, scripted Windows environments. Chocolatey makes installing software very easy with no user intervention. Boxstarter enhances Chocolatey's functionality and provides an environment that is optimized for installing a complete environment on a fresh OS install, as well as some other specific scenarios.
