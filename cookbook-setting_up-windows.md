@@ -37,6 +37,7 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
       choco install jdk11 -y
       choco install intellijidea-ultimate -y
       :choco install springtoolsuite -y 
+      :choco install anaconda -y 
 
 * What packages/software that cannot be installed by choco?
       * Instant messengers, such as Wechat, QQ International, Dingtalk, AliWangwang
