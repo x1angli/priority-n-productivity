@@ -10,18 +10,18 @@ package main
 import "fmt"
 
 func main() {
-	names := [4]string{
-		"John",
-		"Paul",
-		"George",
-		"Ringo",
-	}
+    names := [4]string{
+        "John",
+        "Paul",
+        "George",
+        "Ringo",
+    }
 
-	a := names[0:2]
-	b := names[1:3]
+    a := names[0:2]
+    b := names[1:3]
 
-	b[0] = "XXX"
-	fmt.Println(a, b)
+    b[0] = "XXX"
+    fmt.Println(a, b)
 }
 ```
 
@@ -33,13 +33,13 @@ package main
 import "fmt"
 
 type Vertex struct {
-	X, Y int
+    X, Y int
 }
 
 var (
-	v = Vertex{1, 2}
-	p1 = &v
-	p2  = &Vertex{1, 2} // has type *Vertex
+    v = Vertex{1, 2}
+    p1 = &v
+    p2  = &Vertex{1, 2} // has type *Vertex
 )
 
 func main() {
@@ -62,19 +62,19 @@ Deferred function calls are pushed onto a stack. When a function returns, its de
 C's while is spelled for in Go.
 
 ```
-	sum := 1
-	for sum < 1000 {
-		sum += sum
-	}
-	fmt.Println(sum)
+    sum := 1
+    for sum < 1000 {
+        sum += sum
+    }
+    fmt.Println(sum)
 ```
 
 ### Named return falues for function
 ```
 func split(sum int) (x, y int) {
-	x = sum * 4 / 9
-	y = sum - x
-	return
+    x = sum * 4 / 9
+    y = sum - x
+    return
 }
 ```
 
@@ -94,8 +94,8 @@ func main() {
         fmt.Printf("2**%d = %d\n", i, v)
     }
     for _, value := range pow {
-		fmt.Printf("%d\n", value)
-	}
+        fmt.Printf("%d\n", value)
+    }
 
 }
 ```
@@ -111,12 +111,18 @@ Go does not have classes. However, you can define methods on types. A method is 
     func (v Vertex) Abs() float64 {
         return math.Sqrt(v.X*v.X + v.Y*v.Y)
     }
+    var v Vertex
+    v.Scale(5)  // OK
+    p := &v
+    p.Scale(10) // OK
 
-
-#### pointer receivers
+#### pointer receiver methods
 Methods with pointer receivers can modify the value to which the receiver points (as Scale does here). Since methods often need to modify their receiver, pointer receivers are more common than value receivers.
 
     func (v *Vertex) Scale(f float64) {
         v.X = v.X * f
         v.Y = v.Y * f
     }
+    var v Vertex
+    ScaleFunc(v, 5)  // Compile error!
+    ScaleFunc(&v, 5) // OK
