@@ -25,6 +25,8 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
       choco install flashplayerplugin -y
       choco install paint.net -y
       choco install inkscape -y
+      choco install k-litecodecpackfull -y
+      choco install potplayer -y
       
       choco install cmder -y
       choco install sysinternals -y
