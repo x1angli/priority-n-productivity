@@ -69,9 +69,9 @@ Due to poor internet connection in certain regions, using integrated tools such 
 
 ### Install PyTorch
 
-        conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
-        conda install pytorch
-        pip install torchvision
+    conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
+    conda install pytorch
+    pip install torchvision
 
 ### Install Tensorflow
 
