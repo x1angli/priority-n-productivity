@@ -8,32 +8,32 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
 
 * List of my software packages
 
-        choco install 7zip.install -y
-        choco install notepadplusplus.install -y
-        choco install dropbox -y
-        choco install keepass
+      choco install 7zip.install -y
+      choco install notepadplusplus.install -y
+      choco install dropbox -y
+      choco install keepass
 
-        choco install cmder -y
-        choco install totalcommander -y
-        choco install ccleaner
-        choco install sysinternals
-        
-        choco install chrome -y
-        choco install firefox -y
-        
-        choco install adobereader -y
-        choco install flashplayerplugin -y
-        choco install paint.net
-        choco install youtube-dl
-        
-        choco install putty.install
-        choco install git.install
-        choco install python3
-        choco install golang
-        choco install vscode -y
-        choco install jdk11 -y
-        choco install intellijidea-ultimate -y
-        :choco install springtoolsuite -y 
+      choco install cmder -y
+      choco install totalcommander -y
+      choco install ccleaner
+      choco install sysinternals
+      
+      choco install chrome -y
+      choco install firefox -y
+      
+      choco install adobereader -y
+      choco install flashplayerplugin -y
+      choco install paint.net
+      choco install youtube-dl
+      
+      choco install putty.install
+      choco install git.install
+      choco install python3
+      choco install golang
+      choco install vscode -y
+      choco install jdk11 -y
+      choco install intellijidea-ultimate -y
+      :choco install springtoolsuite -y 
 
 #### Boxstarter (a virtual machine-like tool)
 * Link: https://boxstarter.org/
@@ -82,6 +82,3 @@ b) The ‘Height’ value determines the number of lines that are stored in memo
 #### Enhance the contrast
 The default  RGB (Red, Green, Blue) values for the foreground fonts are 192. We can increase these values to a larger one like 230.
 Also, we can make the background darker by decreasing its RGB values.
-
-
-
