@@ -25,6 +25,7 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
       choco install flashplayerplugin -y
       choco install paint.net -y
       choco install inkscape -y
+      
       choco install k-litecodecpackfull -y
       choco install potplayer -y
       
@@ -40,6 +41,9 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
       choco install intellijidea-ultimate -y
       :choco install springtoolsuite -y 
       :choco install anaconda -y 
+
+* Note regarding choco
+      * Potplayer does NOT ship with all the necessary codecs, so we have to install K-lite Codec Pack as a complement to it.
 
 * What packages/software that cannot be installed by choco?
       * Instant messengers, such as Wechat, QQ International, Dingtalk, AliWangwang
@@ -57,9 +61,9 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
 Scoop 在 __用户目录__ 下创建了一个名为 scoop 的文件夹，并默认将软件安装到这个相对独立且隔离（isolated and independent）的环境下，从而保证环境的统一和路径不被污染。
 scoop 通过 shim 来软链接一些应用，这样的设计让应用之间不会互相干扰。
 
-__前提__ 
+__Prerequisites__ 
 1.PowerShell >= 3
-2.正常、稳定地访问 GitHub
+2.Stable and reliable access to GitHub (especially in mainland China)
 
 ## Changing Terminal Fonts
 ### Solution 1: Default code page 
