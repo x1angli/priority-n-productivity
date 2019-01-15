@@ -15,7 +15,8 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
 
       choco install totalcommander -y
       choco install ccleaner -y
-      choco install shmnview shellmenunew shexview -y
+      choco install ecm -y
+      choco install shmnview shellmenunew -y
       
       choco install chrome -y
       choco install firefox -y
@@ -42,13 +43,15 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
       :choco install springtoolsuite -y 
       :choco install anaconda -y 
 
-* Note regarding choco
-      * Potplayer does NOT ship with all the necessary codecs, so we have to install K-lite Codec Pack as a complement to it.
+#### Note regarding choco
+    * Potplayer does NOT ship with all the necessary codecs, so we have to install either [K-Lite Codec Pack Full](https://chocolatey.org/packages/k-litecodecpackfull) or [K-Lite Codec Pack Mega](https://chocolatey.org/packages/k-litecodecpackmega) as a complement.
+    * New items added by [Easy Context Menu](https://chocolatey.org/packages/ecm) are "extended" item, i.e. you have to press "Shift" key while popping up the context menu to see the item. 
+        * To toggle between an "extended" item and a "regular" item, simply adding or removing a string key named "Extended" in its registry editor.
 
-* What packages/software that cannot be installed by choco?
-      * Instant messengers, such as Wechat, QQ International, Dingtalk, AliWangwang
-      * Thunder Downloader (迅雷下载)
-      * Input Methods (IMEs) such as 精灵五笔
+#### What packages/software that cannot be installed by choco?
+    * Instant messengers, such as Wechat, QQ International, Dingtalk, AliWangwang
+    * Thunder Downloader (迅雷下载)
+    * Input Methods (IMEs) such as 精灵五笔
 
 #### Boxstarter (a virtual machine-like tool)
 * Link: https://boxstarter.org/
