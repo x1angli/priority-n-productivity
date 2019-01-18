@@ -11,7 +11,7 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
       choco install 7zip.install -y
       choco install notepadplusplus.install -y
       choco install dropbox -y
-      choco install keepass -y
+      choco install keeweb -y
 
       choco install totalcommander -y
       choco install ccleaner -y
@@ -45,6 +45,7 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
 
 #### Note regarding choco
     * Potplayer does NOT ship with all the necessary codecs, so we have to install either [K-Lite Codec Pack Full](https://chocolatey.org/packages/k-litecodecpackfull) or [K-Lite Codec Pack Mega](https://chocolatey.org/packages/k-litecodecpackmega) as a complement.
+    * Here, I'd prefer the Electron Node.js based [KeeWeb](https://keeweb.info/) over the classic C# based [KeePass](https://keepass.info/)
     * New items added by [Easy Context Menu](https://chocolatey.org/packages/ecm) are "extended" item, i.e. you have to press "Shift" key while popping up the context menu to see the item. 
         * To toggle between an "extended" item and a "regular" item, simply adding or removing a string key named "Extended" in its registry editor.
 
