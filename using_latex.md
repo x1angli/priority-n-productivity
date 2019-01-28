@@ -26,15 +26,14 @@ even more powerful formats (or packages).
 
 <sub>Excerpted from http://dante.ctan.org/tex-archive/info/luatex/lualatex-doc/lualatex-doc.pdf</sub>
 
-## Recommended systems / combinations
+## Toolkit
 
-1. The combination of __"Texlive + Texmaker"__ 
+#### The combination of __"Texlive + Texmaker"__ 
 [Texmaker](http://www.xm1math.net/texmaker/) is a Free cross-platform JIT LaTeX editor. 
 
-1. "TeXStudio + XeLaTeX" that are shipped in TeXStudio
+#### "TeXStudio + XeLaTeX"
+that are shipped in TeXStudio
 
-
-### Extensions
 
 #### LuaTex (Engine)
 http://www.luatex.org/
@@ -44,6 +43,9 @@ an extended version of pdfTeX using Lua as an embedded scripting language. The L
 #### FontSpec
 https://ctan.org/pkg/fontspec
 Fontspec is a package for XELATEX and LuaLATEX.
+
+#### pythontex
+The pythontex package allows one to display, execute, and execute & display code in LaTeX. It was originally written for python but now supports quite a few languages.
 
 ## What online editors are there?
 
@@ -73,3 +75,4 @@ Here are a list of math typesetting tools for the web
 
 # References: 
 1. [ 《如何使用 LaTeX 排版论文》](https://github.com/tuna/thulib-latex-talk/raw/master/latex-talk.pdf), by 陈晟祺, retreived on Nov 03, 2018. 
+1. [How We Wrote a Textbook](http://tim.hibal.org/blog/how-we-wrote-a-textbook/)
