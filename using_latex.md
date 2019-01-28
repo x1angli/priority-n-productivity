@@ -27,6 +27,17 @@ There are two types of editors: dedicated ones and generic ones.
 
 1. "TeXStudio + XeLaTeX" that are shipped in TeXStudio
 
+
+### Extensions
+
+#### LuaTex
+http://www.luatex.org/
+an extended version of pdfTeX using Lua as an embedded scripting language. The LuaTeX project's main objective is to provide an open and configurable variant of TeX while at the same time offering downward compatibility. It provides better fonts and font tools
+
+#### FontSpec
+https://ctan.org/pkg/fontspec
+Fontspec is a package for XELATEX and LuaLATEX.
+
 ## What online editors are there?
 
 There are a bunch of online TeX editors/IDEs: OverLeaf, ShareLaTeX 
