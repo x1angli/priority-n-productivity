@@ -20,6 +20,12 @@ There are two types of editors: dedicated ones and generic ones.
 * Dedicated TeX editors: TeXworks, WinEdt, TeXmaker, XeLaTeX
 * Generic editors (with TeX plugins/extensions): VIM, Emacs, VS Code, Sublime, Atom
 
+## Engine and Format?
+> Actually, a format is more or less like a document class or a package, except it is associated with a particular command name. Imagine there is a command latex-article that would do the same as latex, except you wouldn't need to say `\documentclass{article}` at the beginning of your file. Similarly, in current distributions, the command pdflatex is the same as the command pdftex except that you don't need to put the instructions to load LATEX at the beginning of your source file. This is convenient, and slightly more efficient too.Formats are great because they implement powerful commands using the basic tools an engine provides. However the power of the format is sometimes limited by the engine's tools set, so people started developing more powerful engines so that other people can implement
+even more powerful formats (or packages). 
+
+<sub>Excerpted from http://dante.ctan.org/tex-archive/info/luatex/lualatex-doc/lualatex-doc.pdf</sub>
+
 ## Recommended systems / combinations
 
 1. The combination of __"Texlive + Texmaker"__ 
@@ -30,8 +36,9 @@ There are two types of editors: dedicated ones and generic ones.
 
 ### Extensions
 
-#### LuaTex
+#### LuaTex (Engine)
 http://www.luatex.org/
+LuaLATEX is the LuaTEX engine with the LATEX format
 an extended version of pdfTeX using Lua as an embedded scripting language. The LuaTeX project's main objective is to provide an open and configurable variant of TeX while at the same time offering downward compatibility. It provides better fonts and font tools
 
 #### FontSpec
