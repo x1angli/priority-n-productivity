@@ -47,6 +47,10 @@ Fontspec is a package for XELATEX and LuaLATEX.
 #### pythontex
 The pythontex package allows one to display, execute, and execute & display code in LaTeX. It was originally written for python but now supports quite a few languages.
 
+#### TikZ
+TikZ and PGF are TeX packages for creating graphics programmatically. TikZ is build on top of PGF and allows you to create sophisticated graphics in a rather intuitive and easy manner
+Note: julia code via pythontex can also generates TikZ.
+
 ## What online editors are there?
 
 There are a bunch of online TeX editors/IDEs: OverLeaf, ShareLaTeX 
