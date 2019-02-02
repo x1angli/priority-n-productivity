@@ -100,8 +100,12 @@ An easy to Maintain Open Source Documentation Websites. It is based on Node.js (
 * __markdeck__:
 converts a markdown to a clean, local-hosted, html5 slide deck (PPT-style presentation deck). It takes \*.md files in markdown format and the assets subdir and renders a html5 slidedeck, using pandoc as converter and reveal.js as the presenter framework. It's based on markdown, pandoc, reveal.js, plantuml, ditaamini, asciitosvg, graphviz, asciinema, decktape, vega-lite, mathjax-pandoc-filter, and font-awesome.
     * Link: https://arnehilmann.github.io/markdeck/
-    * Github Repo: https://github.com/arnehilmann/markdeck    
+    * Github Repo: https://github.com/arnehilmann/markdeck
     
+* __nodeppt__:
+It converts a markdown to a clean, local-hosted, html5 slide deck (PPT-style presentation deck). It's based on webslides、webpack、markdown-it、posthtml
+    * Link: http://js8.in/nodeppt
+    * Github Repo: https://github.com/ksky521/nodeppt 
 
 ## Markdown mobile APPs
 * __MarkNote__: An open source makrdown note-taking application for Android
