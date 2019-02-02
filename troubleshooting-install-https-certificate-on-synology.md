@@ -54,4 +54,16 @@
 3. 虽然管理的web界面已经配置并关联了证书，但是客户端浏览器在访问的时候还是需要隔一段时间才会不显示红色（有可能是隔天），这个大概是chrome浏览器的设置
 
 ### 5. 后记的后记 ###
-由于通过let's encrypt申请的免费证书只有3个月，最好设置成自动renew证书，而这种方式则依赖于群晖DSM自带的Let's Encrypt证书的自动更新模块，进而依赖于80端口的开放，故而做好开通80端口的规划。
+由于通过let's encrypt申请的免费证书只有3个月，最好设置成自动renew证书，而这种方式则依赖于群晖DSM自带的Let's Encrypt证书的自动更新模块，进而依赖于80端口的开放，故而做好开通80端口的规划。可以用群晖的“控制面板 / 任务计划 / 新增 / 计划的任务 / 用户自定义的脚本”
+
+### 6. 后记^3
+
+看到另外有人用acme的协议做了一套.sh脚本。
+
+acme默认通过在DNS记录中加入信息的方式验证，这样更适合在80端口被封或者是多级子网内的群晖。这一点与前面certbot用DNS challenge的原因类似。
+
+* [攻略](http://www.up4dev.com/2018/05/29/synology-ssl-wildcard-cert-update/)
+* 原repo：[Neilpang的Github](https://github.com/Neilpang/acme.sh/tree/master/dnsapi)
+* 衍生repo：[andyzhshg的Github](https://github.com/andyzhshg/syno-acme)
+* 参考[群晖 Let's Encrypt 证书的自动更新](http://www.up4dev.com/2017/09/11/synology-ssl-cert-update/)
+
