@@ -9,6 +9,10 @@ Here is a group of links for you to better use Markdown
     * Link: https://boostnote.io/
     * Github: https://github.com/BoostIO/Boostnote
         - Built with Electron, React + Redux, Webpack, and CSSModules.
+
+* __Notable__: An Electron-based markdown note-taking app. the app isn't bloated, the app has a pretty interface, tags are indefinitely nestable and can import Evernote note
+    * Github: https://github.com/fabiospampinato/notable
+        
 * __Gitbook's Editor__: Writing books using git in combination with Markdown or Asciidoc. LaTeX is supported.
     * Download Link for executable binaries (available for Windows / Mac / Linux): https://legacy.gitbook.com/editor
     * Installation instruction for the node.js: https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md
