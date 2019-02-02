@@ -24,7 +24,7 @@ https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
 * [Grammarly](https://www.grammarly.com/) An online grammar checking, spell checking, and plagiarism detection platform
 * [XMind ZEN](https://www.xmind.net/zen/) A mind-map drawing software
 
-![Other writing tools](writing_tools.jpg)
+![Other writing tools](assets/writing_tools.jpg)
 
 ### Drawing & Design Tools 
 * [Sketch](https://www.sketchapp.com/)
