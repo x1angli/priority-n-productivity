@@ -59,7 +59,6 @@
 ### 6. 后记^3
 
 看到另外有人用acme的协议做了一套.sh脚本。
-
 acme默认通过在DNS记录中加入信息的方式验证，这样更适合在80端口被封或者是多级子网内的群晖。这一点与前面certbot用DNS challenge的原因类似。
 
 * [攻略](http://www.up4dev.com/2018/05/29/synology-ssl-wildcard-cert-update/)
@@ -67,3 +66,4 @@ acme默认通过在DNS记录中加入信息的方式验证，这样更适合在8
 * 衍生repo：[andyzhshg的Github](https://github.com/andyzhshg/syno-acme)
 * 参考[群晖 Let's Encrypt 证书的自动更新](http://www.up4dev.com/2017/09/11/synology-ssl-cert-update/)
 
+此外，Traefik是一个把端口映射到二级域名的具备服务发现机制的动态路由，会自动自动申请微服务的HTTPS证书
