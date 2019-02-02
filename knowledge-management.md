@@ -1,5 +1,7 @@
 ## How I organize my knowledge as a Software Engineer
 https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387 
+
+### Note-taking tools
 * [NotionHQ](https://www.notion.so/) a note-taking application with markdown support that also integrates tasks, wikis, and databases. The aim is to be an all-in-one workspace for note-taking, project management and task management. 
     * [Gitbook](https://www.gitbook.com/)
     * [VuePress](https://vuepress.vuejs.org/). 
@@ -16,13 +18,15 @@ https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
 * [Diigo](https://www.diigo.com/index) for website highlights and annotations
 * [MarginNote](https://www.marginnote.com/) An in-depth PDF and EPUB reading, learning, managing and note taking
 
-### Writing Tools ####
+![Comparison Table of some note-taking tools](https://raw.githubusercontent.com/fabiospampinato/notable/master/resources/comparison/table.png)
+
+### Writing Tools
 * [Grammarly](https://www.grammarly.com/) An online grammar checking, spell checking, and plagiarism detection platform
 * [XMind ZEN](https://www.xmind.net/zen/) A mind-map drawing software
 
 ![Other writing tools](writing_tools.jpg)
 
-### Drawing & Design Tools ####
+### Drawing & Design Tools 
 * [Sketch](https://www.sketchapp.com/)
    * [Lunacy](https://icons8.com/lunacy) 
       - A Sketch alternative for Windows 
@@ -38,7 +42,7 @@ https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
 
 
    
-#### Process / Workflow / UML Diagram Tools
+### Process / Workflow / UML Diagram Tools
 * [ProcessOn](https://www.processon.com/)
 * [yEd](https://www.yworks.com/products/yed)
    * Desktop: https://www.yworks.com/products/yed
@@ -61,7 +65,7 @@ https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
    * Desktop (Win, Mac, Ubuntu, Fedora, etc.) https://www.graphviz.org/download/
    - An open source graph visualization software representing structural information as diagrams of abstract graphs and networks. It has important applications in networking, bioinformatics,  software engineering, and other technical domains
     
-#### MindMap Tools
+### MindMap Tools
 * 百度脑图
    * Online Live: http://naotu.baidu.com/
 * Coggle
