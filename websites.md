@@ -12,9 +12,20 @@
 * http://www.atool.org/
 * 透明图片、resize剪裁大小、PHP代码格式化工具、字符串base64编码解码(UTF8)、在线MD5破解……
 
+### nicetool
+* http://www.nicetool.net/
+* 本机已安装字体查看
 
 ## 生活工具
 
 ### atool
 * http://www.atool.org/
-* 在线生成高考准考证图片（恶搞用）、生理期计算、在线查询银行卡号归属信息工具……
+* 在线生成高考准考证图片（用于恶搞）、生理期计算、在线查询银行卡号归属信息工具……
+
+### nicetool
+* http://www.nicetool.net/
+* 王思聪微薄制成（用于恶搞）、对对联、姓名批量生成
+
+### 911查询
+* https://www.911cha.com/
+* （呵呵……这类网站还是放一下吧）
