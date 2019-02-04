@@ -1,4 +1,4 @@
-# Favorite Websites For　Soft Geeks 为软极客推荐的网站
+# Favorite Websites For Soft Geeks 为软极客推荐的网站
 
 本文将一些网站推荐给大家，目标群体是软极客。所谓的软极客（相对于CHD上动不动就烧个几万几十万的设备的硬极客而言）是指一群对效率工具等方面的奇技淫巧有兴趣的盆有
 
