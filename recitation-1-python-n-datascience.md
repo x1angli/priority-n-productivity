@@ -108,4 +108,6 @@ print(matrix2d * matrix2d.T) # still performing dot-product
 ## 4. 后记
 在写完本文的时候，发现Jupyter Lab已经可以使用了，还能和JupyterHub共用以实现Google Colab的功能
 * 文档: https://jupyterlab.readthedocs.io
+* 安装: https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
+* Github: https://github.com/jupyterlab/jupyterlab
 * Medium上的介绍: https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906
