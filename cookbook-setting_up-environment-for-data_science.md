@@ -66,6 +66,12 @@ Due to poor internet connection in certain regions, using integrated tools such 
         :: pip install --upgrade pillow
         :: pip install sklearn
 
+### Install Kite 
+[kite](https://kite.com/) is an AI-powered Python co-pilot. It integrates with most Python code editors and uses machine learning to
+turbocharge the programming experience.
+* Download: https://kite.com/download
+* Pycharm Plugin: https://github.com/kiteco/plugins/tree/master/intellij
+* VS Code Plugin: https://github.com/kiteco/plugins/tree/master/vscode
 
 ### Install PyTorch
 
