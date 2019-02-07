@@ -35,3 +35,7 @@
 #### 九歌
 * 计算机诗词创作系统  by 清华大学自然语言处理与社会人文计算实验室 
 * https://jiuge.thunlp.cn/
+
+#### 自动对对联
+* https://ai.binwang.me/couplet/
+* https://github.com/wb14123/seq2seq-couplet
