@@ -39,3 +39,13 @@
 #### 自动对对联
 * https://ai.binwang.me/couplet/
 * https://github.com/wb14123/seq2seq-couplet
+
+## 音视频下载工具
+
+#### iiiLab视频解析站
+* 快手、微博、秒拍、小咖秀、晃咖、微视、全民小视频、全民K歌、美拍、趣多拍、网易云音乐、陌陌、Instagram、映客、小影、YouTube
+* https://video.iiilab.com/
+
+#### youtube下载
+* 使用方法：打开youtube的网站，找到想要下载的视频，再修改域名的URL，加上“1s”，使之成为youtube1s
+    * 例如，原视频是 https://www.youtube.com/watch?v=ygARoqMJyto ，那么打开https://www.youtube1s.com/watch?v=ygARoqMJyto （最终会被跳转到 https://youtubemultidownloader.net/watch?v=ygARoqMJyto ）一般点开蓝色的分辨率即可
