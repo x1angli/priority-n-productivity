@@ -48,4 +48,4 @@
 
 #### youtube下载
 * 使用方法：打开youtube的网站，找到想要下载的视频，再修改域名的URL，加上“1s”，使之成为youtube1s
-    * 例如，原视频是 https://www.youtube.com/watch?v=ygARoqMJyto ，那么打开https://www.youtube1s.com/watch?v=ygARoqMJyto （最终会被跳转到 https://youtubemultidownloader.net/watch?v=ygARoqMJyto ）一般点开蓝色的分辨率即可
+    * 例如，原视频是 https://www.youtube.com/watch?v=ygARoqMJyto ，那么打开https://www.youtube1s.com/watch?v=ygARoqMJyto （最终会被跳转到 https://youtubemultidownloader.net/watch?v=ygARoqMJyto ）点击需要下载的分辨率对应的按钮即可
