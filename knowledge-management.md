@@ -17,6 +17,8 @@ https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
     * [Cheatography](https://cheatography.com/) contains Markdown-formatted cheatsheets
 * [Diigo](https://www.diigo.com/index) for website highlights and annotations
 * [MarginNote](https://www.marginnote.com/) An in-depth PDF and EPUB reading, learning, managing and note taking
+* [VSCode Notebook](https://github.com/aviaryan/VSCodeNotebook) Taking notes with VSCode
+
 
 ![Comparison Table of some note-taking tools](https://raw.githubusercontent.com/fabiospampinato/notable/master/resources/comparison/table.png)
 
