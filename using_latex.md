@@ -80,3 +80,4 @@ Here are a list of math typesetting tools for the web
 # References: 
 1. [ 《如何使用 LaTeX 排版论文》](https://github.com/tuna/thulib-latex-talk/raw/master/latex-talk.pdf), by 陈晟祺, retreived on Nov 03, 2018. 
 1. [How We Wrote a Textbook](http://tim.hibal.org/blog/how-we-wrote-a-textbook/)
+1. [上海交通大学 XeLaTeX 学位论文及课程论文模板](https://github.com/sjtug/SJTUThesis)
