@@ -43,7 +43,7 @@ Due to poor internet connection in certain regions, using integrated tools such 
 
         pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 
-        python -m pip install --upgrade pip
+        python -m pip install -U --force-reinstall pip
 
         conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
         conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
