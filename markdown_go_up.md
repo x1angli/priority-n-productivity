@@ -31,10 +31,23 @@ Here is a group of links for you to better use Markdown
  * a Markdown editor for developers, on Mac OS X. Features live preview, sync scroll, auto save, powerful actions, auto pair, custom themes and CSS, HTML and PDF export, enhanced CJK support and more.
  * Link: http://25.io/mou/
 
+## Text editor plugins / extensions
+### VSCode plugins
+
+#### Markdown Support for Visual Studio Code
+ * Provide features like: keyboard shortcuts (toggle bold, italic, code span, strikethrough and heading), list editing, TOC, Print Markdown to HTML, Math
+ 
+#### Markdown Preview Github Styling
+ * Changes VS Code's built-in markdown preview to match Github's styling
+ * Link: https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles
+
+
 ## Online editors
 #### Fidus Writer
  * an online collaborative editor especially made for academics who need to use citations and/or formulas  that supports citations, collaborative editing, semantic editing and publishing in multiple locations. It's backed by Python.
+ * This extension only styles the markdown preview. Use this extension pack to add support for other Github-specific markdown features
  * Link: https://github.com/fiduswriter/fiduswriter
+ 
 
 #### Dilinger
  * a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. It does not support Latex syntax yet. It's written in Node.js
@@ -141,11 +154,13 @@ The following tools loads markdown contents and renders them in HTML format
 * https://yhatt.github.io/marp/
 
 ## Markdown mobile APPs
+
 #### MarkNote
  * An open source makrdown note-taking application for Android
  * Source: https://github.com/Shouheng88/MarkNote
  * Download: https://www.coolapk.com/apk/178276
  * Google Play Store: https://play.google.com/store/apps/details?id=me.shouheng.notepal 
+
 
 ## References and Tutorials
 
