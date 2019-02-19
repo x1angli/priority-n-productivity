@@ -4,6 +4,12 @@
 
 ## 开发/美工/产品经理类工具
 
+### 聚合、导航类网站
+#### 289w导航
+* http://www.289w.com/index.php?m=Index&a=design
+设计类网站集合，字体设计、配色方案、资源下载、网站模板、平面设计
+
+### 在线工具集toolkit
 #### tool.lu
 * https://tool.lu
 * 开发、站长、极客等类目的工具。包括正则表达式、html转md、sql代码在线美化、占位图片集、在线DNS查询、在线Whois查询……
@@ -16,9 +22,14 @@
 * http://www.nicetool.net/
 * 本机已安装字体查看
 
-#### 289w导航
-* http://www.289w.com/index.php?m=Index&a=design
-设计类网站集合，字体设计、配色方案、资源下载、网站模板、平面设计
+### 在线图片小工具
+#### carbon
+* https://carbon.now.sh
+* 给一段代码高亮（支持N种语言的语法），并在背景上加上阴影（装X必备）
+
+#### mockuphone
+* https://mockuphone.com/#ios
+* 给UI出的图片加上手机/iPad的外壳，这样能体现出更真实的mockup的效果
 
 ## 生活工具
 
@@ -54,4 +65,3 @@
 * 使用方法：打开youtube的网站，找到想要下载的视频，再修改域名的URL，加上“1s”，使之成为youtube1s
     * 例如，原视频是 https://www.youtube.com/watch?v=ygARoqMJyto ，那么打开https://www.youtube1s.com/watch?v=ygARoqMJyto （最终会被跳转到 https://youtubemultidownloader.net/watch?v=ygARoqMJyto ）点击需要下载的分辨率对应的按钮即可
     
-##
