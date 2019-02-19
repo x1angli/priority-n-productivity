@@ -31,6 +31,12 @@
 * https://mockuphone.com/#ios
 * 给UI出的图片加上手机/iPad的外壳，这样能体现出更真实的mockup的效果
 
+#### Dynamic Dummy Image Generator
+* 一个生成指定宽度、高度、前景文字的工具
+* https://dummyimage.com/
+* https://github.com/kingkool68/dummyimage
+
+
 ## 生活工具
 
 #### atool
