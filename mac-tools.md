@@ -4,11 +4,20 @@
 * Alfred boosts your efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. Features: clipboard history, snippets, file searching, web searching, calculator, spell checker, workflows
 * https://www.alfredapp.com/
 
-### Gif recording
+### Image tools
+#### PicGo （图床）
+* A simple & beautiful tool for pictures uploading built by electron-vue. It supports Github, Imgur, Aliyun OSS, etc...
+* https://github.com/Molunerfinn/picgo
+* https://picgo.github.io/PicGo-Doc/ (Chinese)
+* https://molunerfinn.com/PicGo/ (Chinese)
+* https://github.com/PicGo/Awesome-PicGo
+
 #### Gifox for Mac
+* Gif Recording tool
 * Website: https://gifox.io/
 
 #### Kap for mac
+* Gif Recording tool
 * Website: https://getkap.co/
 
 ### Screenshots
