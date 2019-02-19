@@ -16,6 +16,10 @@
 * http://www.nicetool.net/
 * 本机已安装字体查看
 
+#### 289w导航
+* http://www.289w.com/index.php?m=Index&a=design
+设计类网站集合，字体设计、配色方案、资源下载、网站模板、平面设计
+
 ## 生活工具
 
 #### atool
@@ -49,3 +53,5 @@
 #### youtube下载
 * 使用方法：打开youtube的网站，找到想要下载的视频，再修改域名的URL，加上“1s”，使之成为youtube1s
     * 例如，原视频是 https://www.youtube.com/watch?v=ygARoqMJyto ，那么打开https://www.youtube1s.com/watch?v=ygARoqMJyto （最终会被跳转到 https://youtubemultidownloader.net/watch?v=ygARoqMJyto ）点击需要下载的分辨率对应的按钮即可
+    
+##
