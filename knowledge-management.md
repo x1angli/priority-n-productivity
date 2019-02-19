@@ -2,10 +2,10 @@
 https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387 
 
 ### Note-taking tools
-* [NotionHQ](https://www.notion.so/) a note-taking application with markdown support that also integrates tasks, wikis, and databases. The aim is to be an all-in-one workspace for note-taking, project management and task management. 
-    * [Gitbook](https://www.gitbook.com/)
-    * [VuePress](https://vuepress.vuejs.org/). 
-    * [Notejoy](https://notejoy.com/)
+* [Notion](https://www.notion.so/) a note-taking application with markdown support that also integrates TBD, task management(like Trello), wiki, and CRM. The aim is to be an all-in-one workspace for note-taking, project management and task management. It supports multiple types of embedding. 
+* [Gitbook](https://www.gitbook.com/)
+* [VuePress](https://vuepress.vuejs.org/). 
+* [Notejoy](https://notejoy.com/)
 * [Trilium Notes](https://github.com/zadam/trilium) is a Node-based hierarchical note taking application with focus on building large personal knowledge bases
 * [Pocket](https://getpocket.com/) as read-it-later list
 * [Snippet Store](https://github.com/ZeroX-DG/SnippetStore) is a snippet management tool developed by Nguyen Viet Hung. It's both a standalone binary and a plugin for VS Code. It supports various kinds of programming languages. Its alternatives include: 
