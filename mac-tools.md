@@ -1,3 +1,8 @@
+## Productivity Tools
+
+#### Alfred
+* Alfred boosts your efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. Features: clipboard history, snippets, file searching, web searching, calculator, spell checker, workflows
+* https://www.alfredapp.com/
 
 ### Gif recording
 #### Gifox for Mac
