@@ -81,12 +81,18 @@ Here is a group of links for you to better use Markdown
 
 
 
-## Markdown Extensions  
+## Markdown Extensions 
+
+### MathJax
+
 #### MathJax
  * A JavaScript display engine for mathematics that works in all browsers. It's not dedicated to Markdown only, but for generic HTML webpages that needs to render math contents with LaTeX syntax. 
  * Link: https://www.mathjax.org/
  * Source Repo: https://github.com/mathjax/mathjax
-    
+
+#### TeX All the Things
+An extension which lets you enable LaTeX on any website (including Github). Typesets any LaTeX found on webpages using MathJax (http://www.mathjax.org/).
+
 #### KaTex
  * A JavaScript engine for mathematics that is similar to MathJax. But since the render is performed synchronously and doesn’t need to reflow the webpage, the webpage rendering speed is faster than MathJax
  * Link: https://katex.org/
