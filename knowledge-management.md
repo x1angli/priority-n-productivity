@@ -26,6 +26,10 @@ https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
 * [Grammarly](https://www.grammarly.com/) An online grammar checking, spell checking, and plagiarism detection platform
 * [XMind ZEN](https://www.xmind.net/zen/) A mind-map drawing software
 
+#### 小恐龙公文排版助手 for Word
+* 根据《党政机关公文格式国家标准》(GB/T 9704—2012)的格式要求，快速设置页面版式、快速设置常用文字格式、插入常用符号、版记、公文页码。支持对文字的快速排版，中文首行缩进2字符、删除空白，断句重排等。
+* https://www.appinn.com/xiaokonglong-gongwen-zhushou/
+
 ![Other writing tools](assets/writing_tools.jpg)
 
 ### Drawing & Design Tools 
