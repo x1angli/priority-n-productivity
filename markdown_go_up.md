@@ -23,6 +23,11 @@ Here is a group of links for you to better use Markdown
  * Installation instruction for the node.js: https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md
  * Remarks: ~~it has a side-by-side editor, with the left panel showing Markdown source code and the right panel showing WYSIWYG preview.~~ It's official website claims it's equipped with a side-by-side editor but actually I could find it. 
 
+#### Hve Notes
+* It's both a desktop Markdown editor and Github publisher
+* Link: https://hvenotes.fehey.com/
+* Github: https://github.com/hve-notes/hve-notes
+
 #### ReText
  * a cross-platform desktop powerful editor for Markdown and reStructuredText. It is based on [pyqt](https://riverbankcomputing.com/software/pyqt/intro). 
  * Link: https://github.com/retext-project/retext
@@ -119,6 +124,12 @@ The following tools loads markdown contents and renders them in HTML format
  * An easy to Maintain Open Source Documentation Websites. It is based on Node.js (React) that converts a directory of Markdown files (along with specified folder structure) to a dynamic, searchable website
  * Link: https://docusaurus.io/ 
  * Github Repo: https://github.com/facebook/Docusaurus
+ 
+#### Hve Notes
+* It's both a desktop Markdown editor and Github publisher
+* Link: https://hvenotes.fehey.com/
+* Sample: https://fehey.com/
+
 
 ## Markdown parsers / converters / SDKs
 
