@@ -68,11 +68,16 @@ https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
    - An open source graph visualization software representing structural information as diagrams of abstract graphs and networks. It has important applications in networking, bioinformatics,  software engineering, and other technical domains
     
 ### MindMap Tools
-* 百度脑图
-   * Online Live: http://naotu.baidu.com/
-* Coggle
-   * Online Live: https://coggle.it
-   
+
+| Tool Name      | Description | URL                        |
+|----------------|-------------|----------------------------|
+| 百度脑图        |             | http://naotu.baidu.com     | 
+| Coggle         |             | https://coggle.it          |   
+| Freeplane      |             | https://www.freeplane.org/ |
+| Heimer         | Qt-based    | https://github.com/juzzlin/Heimer |
+| FreeMind       | Java-based  |                            |
+| View Your Mind |             | www.insilmaril.de/vym      |
+
    
 ### Office-like Tools  
 * [AirTable](https://airtable.com/) a spreadsheet-database hybrid, with the features of a database but applied to a spreadsheet.
