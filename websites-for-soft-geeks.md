@@ -63,6 +63,17 @@
 * https://www.911cha.com/
 * （呵呵……这类网站还是放一下吧）
 
+## 自然图片工具  
+#### This person does not exist
+用AI生成人脸
+* Link: https://thispersondoesnotexist.com/
+
+#### This waifu does not exist
+用AI生成二次元（anime）人脸
+* Link: http://www.thiswaifudoesnotexist.net/
+* Dataset: https://www.gwern.net/Danbooru2018
+* Engine: https://github.com/NVlabs/stylegan
+
 ## NLP自然语言工具
 
 #### 九歌
