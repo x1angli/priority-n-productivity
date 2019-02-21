@@ -10,7 +10,7 @@
 #### 少数派
 * https://sspai.com/
 
-#### CnBeta
+#### CNBeta
 * www.cnbeta.com
 
 
@@ -63,7 +63,13 @@
 * https://www.911cha.com/
 * （呵呵……这类网站还是放一下吧）
 
-## 自然图片工具  
+## 图片工具
+### 动图工具
+#### nodtotherhythm
+让图片唱起歌来，唱歌幅度可定义，歌曲随机生成。
+* Link: http://nodtotherhythm.com/make
+
+### 自然图片工具  
 #### This person does not exist
 用AI生成人脸
 * Link: https://thispersondoesnotexist.com/
@@ -73,6 +79,7 @@
 * Link: http://www.thiswaifudoesnotexist.net/
 * Dataset: https://www.gwern.net/Danbooru2018
 * Engine: https://github.com/NVlabs/stylegan
+
 
 ## NLP自然语言工具
 
