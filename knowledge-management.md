@@ -1,7 +1,14 @@
-## How I organize my knowledge as a Software Engineer
+## All
+
+#### How I organize my knowledge as a Software Engineer
 https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387 
 
-### Note-taking tools
+#### Station: One app to rule them all
+A very powerful  smart browser for busy people. A single place for all of your web applications. It also keeps you stay focused. It even allows you to run multiple accounts. 
+* Aggregates Google Drive, Gmail, Google Calendar, Evernote, Trello, Slack, Dropbox...etc. Almost anything that supports google account and more
+* https://getstation.com/
+
+## Note-taking tools
 * [Notion](https://www.notion.so/) a note-taking application with markdown support that also integrates TBD, task management(like Trello), wiki, and CRM. The aim is to be an all-in-one workspace for note-taking, project management and task management. It supports multiple types of embedding. 
 * [Gitbook](https://www.gitbook.com/)
 * [VuePress](https://vuepress.vuejs.org/). 
@@ -22,8 +29,9 @@ https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
 
 ![Comparison Table of some note-taking tools](https://raw.githubusercontent.com/fabiospampinato/notable/master/resources/comparison/table.png)
 
-### Writing Tools
+## Writing Tools
 
+#### Other writing tools
 ![Other writing tools](assets/writing_tools.jpg)
 
 #### Grammarly
@@ -35,7 +43,7 @@ An online grammar checking, spell checking, and plagiarism detection platform
 * https://www.appinn.com/xiaokonglong-gongwen-zhushou/
 
 
-### Drawing & Design Tools 
+## Drawing & Design Tools 
 * [Sketch](https://www.sketchapp.com/)
    * [Lunacy](https://icons8.com/lunacy) 
       - A Sketch alternative for Windows 
@@ -49,8 +57,6 @@ An online grammar checking, spell checking, and plagiarism detection platform
 * Pencil
    * Desktop: https://pencil.evolus.vn/  
 
-
-   
 ### Process / Workflow / UML Diagram Tools
 * [ProcessOn](https://www.processon.com/)
 * [yEd](https://www.yworks.com/products/yed)
@@ -94,6 +100,8 @@ An online grammar checking, spell checking, and plagiarism detection platform
 ### Office-like Tools  
 * [AirTable](https://airtable.com/) a spreadsheet-database hybrid, with the features of a database but applied to a spreadsheet.
    * [Smartsheet](https://www.smartsheet.com/) 
+
+## Productivity Tools
 
 ### GTD Tools  
 * [TickTick 滴答清单](https://ticktick.com) task management for Android, iPhone, iPad,  Mac,  Windows,  Chrome, Firefox, Android Wear,  Apple Watch
