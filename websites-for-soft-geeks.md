@@ -39,9 +39,18 @@
 * https://carbon.now.sh
 * 给一段代码高亮（支持N种语言的语法），并在背景上加上阴影（装X必备）
 
+#### BrowserFrame
+给图片（如网页截图）加上浏览器的外壳（类似于相框的效果），既可以本地上传，也可以直接输入网址
+* https://browserframe.com/
+
+#### ScreenGuru
+输入一个网址，输出一个带浏览器边框的网页截图
+* https://screen.guru/
+* https://github.com/premieroctet/screen-guru
+
 #### mockuphone
+给UI出的图片加上手机/iPad或其他平板的外壳（类似于相框的效果），这样能体现出更真实的mockup的效果
 * https://mockuphone.com/#ios
-* 给UI出的图片加上手机/iPad的外壳，这样能体现出更真实的mockup的效果
 
 #### Dynamic Dummy Image Generator
 * 一个生成指定宽度、高度、前景文字的工具
