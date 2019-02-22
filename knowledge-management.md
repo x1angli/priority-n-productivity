@@ -18,7 +18,7 @@ https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
 * [Diigo](https://www.diigo.com/index) for website highlights and annotations
 * [MarginNote](https://www.marginnote.com/) An in-depth PDF and EPUB reading, learning, managing and note taking
 * [VSCode Notebook](https://github.com/aviaryan/VSCodeNotebook) Taking notes with VSCode
-
+* [Zeal](https://zealdocs.org/) an offline documentation browser for software developers. It takes specified software documentation as input and aggregates them into a [single docset](https://kapeli.com/docsets), generates an index, and then you can use it as a one-stop search site. Available at [here](https://zealdocs.org/download.html)
 
 ![Comparison Table of some note-taking tools](https://raw.githubusercontent.com/fabiospampinato/notable/master/resources/comparison/table.png)
 
