@@ -23,14 +23,17 @@ https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
 ![Comparison Table of some note-taking tools](https://raw.githubusercontent.com/fabiospampinato/notable/master/resources/comparison/table.png)
 
 ### Writing Tools
-* [Grammarly](https://www.grammarly.com/) An online grammar checking, spell checking, and plagiarism detection platform
-* [XMind ZEN](https://www.xmind.net/zen/) A mind-map drawing software
-
-#### 小恐龙公文排版助手 for Word
-* 根据《党政机关公文格式国家标准》(GB/T 9704—2012)的格式要求，快速设置页面版式、快速设置常用文字格式、插入常用符号、版记、公文页码。支持对文字的快速排版，中文首行缩进2字符、删除空白，断句重排等。
-* https://www.appinn.com/xiaokonglong-gongwen-zhushou/
 
 ![Other writing tools](assets/writing_tools.jpg)
+
+#### Grammarly
+An online grammar checking, spell checking, and plagiarism detection platform
+* https://www.grammarly.com/
+
+#### 小恐龙公文排版助手 for Word
+一个Word的插件。能根据《党政机关公文格式国家标准》(GB/T 9704—2012)的格式要求，快速设置页面版式、快速设置常用文字格式、插入常用符号、版记、公文页码。支持对文字的快速排版，中文首行缩进2字符、删除空白，断句重排等。
+* https://www.appinn.com/xiaokonglong-gongwen-zhushou/
+
 
 ### Drawing & Design Tools 
 * [Sketch](https://www.sketchapp.com/)
@@ -63,6 +66,9 @@ https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
    * Online Live: http://www.plantuml.com/plantuml/
 * 迅捷画图
    * Online Live: https://www.liuchengtu.com/
+* ProcessON
+   * Online Live: https://www.processon.com/
+   * 在线协作作图 支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图
 * Visual Paradigm Online
    * Online Live: https://online.visual-paradigm.com   
 * Creately
@@ -75,8 +81,10 @@ https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387
 
 | Tool Name      | Description | URL                        |
 |----------------|-------------|----------------------------|
+| XMind: ZEN | commercial software | https://www.xmind.net/zen/ |
 | Freeplane      |             | https://www.freeplane.org/ |
 | 百度脑图        |             | http://naotu.baidu.com     | 
+| ProcessOn |  | https://www.processon.com/ |
 | Coggle         |             | https://coggle.it          |   
 | Heimer         | Qt-based    | https://github.com/juzzlin/Heimer |
 | FreeMind       | Java-based  | https://sourceforge.net/projects/freemind/ |
