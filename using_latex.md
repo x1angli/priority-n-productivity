@@ -57,6 +57,8 @@ There are a bunch of online TeX editors/IDEs: OverLeaf, ShareLaTeX
 
 It's recommended to use online editors to test water before you make a full plunge into your local environment. 
 
+#### codecogs' editor
+https://www.codecogs.com/latex/eqneditor.php
 
 ## Setting up TUNA
 
