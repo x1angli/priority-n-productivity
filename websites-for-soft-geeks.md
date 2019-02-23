@@ -15,48 +15,7 @@
 
 
 ## 开发/美工/产品经理类工具
-
-### 聚合、导航类网站
-#### 289w导航
-* http://www.289w.com/index.php?m=Index&a=design
-设计类网站集合，字体设计、配色方案、资源下载、网站模板、平面设计
-
-### 在线工具集toolkit
-#### tool.lu
-* https://tool.lu
-* 开发、站长、极客等类目的工具。包括正则表达式、html转md、sql代码在线美化、占位图片集、在线DNS查询、在线Whois查询……
-
-#### atool
-* http://www.atool.org/
-* 透明图片、resize剪裁大小、PHP代码格式化工具、字符串base64编码解码(UTF8)、在线MD5破解……
-
-#### nicetool
-* http://www.nicetool.net/
-* 本机已安装字体查看
-
-### 在线图片小工具
-#### carbon
-* https://carbon.now.sh
-* 给一段代码高亮（支持N种语言的语法），并在背景上加上阴影（装X必备）
-
-#### BrowserFrame
-给图片（如网页截图）加上浏览器的外壳（类似于相框的效果），既可以本地上传，也可以直接输入网址
-* https://browserframe.com/
-
-#### ScreenGuru
-输入一个网址，输出一个带浏览器边框的网页截图
-* https://screen.guru/
-* https://github.com/premieroctet/screen-guru
-
-#### mockuphone
-给UI出的图片加上手机/iPad或其他平板的外壳（类似于相框的效果），这样能体现出更真实的mockup的效果
-* https://mockuphone.com/#ios
-
-#### Dynamic Dummy Image Generator
-* 一个生成指定宽度、高度、前景文字的工具
-* https://dummyimage.com/
-* https://github.com/kingkool68/dummyimage
-
+跳转到 [这里](websites-for-UI_UX_designers.md)
 
 ## 生活工具
 
