@@ -25,6 +25,7 @@ A very powerful  smart browser for busy people. A single place for all of your w
 * [Diigo](https://www.diigo.com/index) for website highlights and annotations
 * [MarginNote](https://www.marginnote.com/) An in-depth PDF and EPUB reading, learning, managing and note taking
 * [VSCode Notebook](https://github.com/aviaryan/VSCodeNotebook) Taking notes with VSCode
+* [Dash](https://kapeli.com/dash) API Documentation Browser and Code Snippet Manager, Dash stores snippets of code and instantly searches offline documentation sets for 200+ APIs, 100+ cheat sheets and more. for Mac and iOS only
 * [Zeal](https://zealdocs.org/) an offline documentation browser for software developers. It takes specified software documentation as input and aggregates them into a [single docset](https://kapeli.com/docsets), generates an index, and then you can use it as a one-stop search site. Available at [here](https://zealdocs.org/download.html)
 
 ![Comparison Table of some note-taking tools](https://raw.githubusercontent.com/fabiospampinato/notable/master/resources/comparison/table.png)
@@ -103,8 +104,9 @@ An online grammar checking, spell checking, and plagiarism detection platform
 
 ## Productivity Tools
 
-### GTD Tools  
+### GTD Tools 
 * [TickTick 滴答清单](https://ticktick.com) task management for Android, iPhone, iPad,  Mac,  Windows,  Chrome, Firefox, Android Wear,  Apple Watch
+* [OmniPlan](https://www.omnigroup.com/omniplan/)
 * [OmniFocus](https://www.omnigroup.com/omnifocus/) task management for Mac, iPad, and iPhone - The Omni ...
 
 ### Personal Finance 
