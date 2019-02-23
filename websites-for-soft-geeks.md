@@ -127,3 +127,30 @@
 * 使用方法：打开youtube的网站，找到想要下载的视频，再修改域名的URL，加上“1s”，使之成为youtube1s
     * 例如，原视频是 https://www.youtube.com/watch?v=ygARoqMJyto ，那么打开https://www.youtube1s.com/watch?v=ygARoqMJyto （最终会被跳转到 https://youtubemultidownloader.net/watch?v=ygARoqMJyto ）点击需要下载的分辨率对应的按钮即可
     
+### 命令行类工具 terminal / cli / console / shell
+
+#### z
+fast directory jumping tool that is faster than autojump
+
+#### zsh
+a shell better than bash. It supports themes and plug-ins
+https://ohmyz.sh/
+https://github.com/robbyrussell/oh-my-zsh
+
+#### antigen
+http://antigen.sharats.me
+https://github.com/zsh-users/antigen
+
+#### asciinema
+Records terminal screen
+
+#### git-extras
+supports commands like
+* `git ingnore <filename>`
+* `git undo`
+* `git show-tree`
+https://github.com/tj/git-extras
+
+#### mycli
+mysql admin terminal console
+
