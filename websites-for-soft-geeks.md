@@ -100,7 +100,24 @@
 * https://ai.binwang.me/couplet/
 * https://github.com/wb14123/seq2seq-couplet
 
-## 音视频下载工具
+## 网络类工具
+
+### DNS类工具
+
+#### SwitchHosts
+一款快速切换 Hosts 工具，支持 Win，Mac 和 Linux
+* Introduction: https://oldj.github.io/SwitchHosts/
+* Download: https://github.com/oldj/SwitchHosts/releases
+* Source Repo: https://github.com/oldj/SwitchHosts/
+
+#### Regional IP Addresses
+当前的国内网络的网段
+* Source Repo: https://github.com/x1angli/regional-ip-addresses
+* 输出结果数据: 
+    * https://github.com/x1angli/regional-ip-addresses/blob/master/output/CN-ipv4.txt
+    * https://github.com/x1angli/regional-ip-addresses/blob/master/output/CN-ipv6.txt
+    
+### 音视频下载工具
 
 #### iiiLab视频解析站
 * 快手、微博、秒拍、小咖秀、晃咖、微视、全民小视频、全民K歌、美拍、趣多拍、网易云音乐、陌陌、Instagram、映客、小影、YouTube
