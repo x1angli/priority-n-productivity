@@ -26,6 +26,9 @@
 * __Command + Shift + 4__: Take a snapshot of a designated region on screen
 * __Command + Shift + 4 + spacebar__: Take a video of a designated region on screen
 
+#### snipaste
+https://www.snipaste.com/
+
 ### Command-line Tools (CLI tools)
 See Power Up Your Command Line: 
 * https://darrenburns.net/posts/tools/, https://darrenburns.net/posts/more-tools, https://darrenburns.net/posts/even-more-tools
