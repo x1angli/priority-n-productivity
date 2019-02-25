@@ -14,6 +14,7 @@ Multi-Clipboard
 #### IDM
 One-stop Download tool
 
+## Image and Video
 ### Screenshots
 #### snipaste
 https://www.snipaste.com/
@@ -22,10 +23,39 @@ https://www.snipaste.com/
 #### LICEcap
 Seems to be better than GifCam
 
-### Image tools
+### Image Uploading
 #### PicGo （图床）
 * A simple & beautiful tool for pictures uploading built by electron-vue. It supports Github, Imgur, Aliyun OSS, etc...
 * https://github.com/Molunerfinn/picgo
 * https://picgo.github.io/PicGo-Doc/ (Chinese)
 * https://molunerfinn.com/PicGo/ (Chinese)
 * https://github.com/PicGo/Awesome-PicGo
+
+
+
+## 命令行类工具 terminal / cli / console / shell
+
+#### z
+fast directory jumping tool that is faster than autojump
+
+#### zsh
+a shell better than bash. It supports themes and plug-ins
+https://ohmyz.sh/
+https://github.com/robbyrussell/oh-my-zsh
+
+#### antigen
+http://antigen.sharats.me
+https://github.com/zsh-users/antigen
+
+#### asciinema
+Records terminal screen
+
+#### git-extras
+supports commands like
+* `git ingnore <filename>`
+* `git undo`
+* `git show-tree`
+https://github.com/tj/git-extras
+
+#### mycli
+mysql admin terminal console
