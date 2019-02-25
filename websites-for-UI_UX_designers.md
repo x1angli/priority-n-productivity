@@ -10,13 +10,17 @@
 * https://tool.lu
 * 开发、站长、极客等类目的工具。包括正则表达式、html转md、sql代码在线美化、占位图片集、在线DNS查询、在线Whois查询……
 
+#### nicetool
+* http://www.nicetool.net/
+* 查看本机已安装字体
+
 #### atool
 * http://www.atool.org/
 * 透明图片、resize剪裁大小、PHP代码格式化工具、字符串base64编码解码(UTF8)、在线MD5破解……
 
-#### nicetool
-* http://www.nicetool.net/
-* 本机已安装字体查看
+#### bejson
+* https://www.bejson.com/
+json检验、json高亮、MD5加密、Base64编解码、escape、URL编解码……
 
 ### 在线图片小工具
 #### carbon
@@ -55,6 +59,10 @@ https://balsamiq.com/wireframes/
 #### ColorSpark
 Randomly generates a color (or gradient)
 * https://colorspark.app/
+
+#### jPicker
+jPicker - A jQuery Color Picker Plugin.
+http://www.digitalmagicpro.com/jPicker/
 
 ### Icons
 #### 60 CSS arrows
