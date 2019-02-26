@@ -93,12 +93,3 @@
 http://tool.yovisun.com/grabvideo/
 能下载很多网站的视频
 
-## 学术类工具
-#### 学术期刊影响因子及分类分区目录
-http://tool.yovisun.com/journal/
-
-#### Sci可用网址链接
-http://tool.yovisun.com/scihub/
-
-#### WordCounter 英文论文单词统计
-http://www.wordcounter.net
