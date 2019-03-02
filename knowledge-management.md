@@ -112,3 +112,8 @@ An online grammar checking, spell checking, and plagiarism detection platform
 ### Personal Finance 
 * ~~__HomeBank__ (deprecated)
    * Github: https://github.com/timonier/homebank
+   
+### Web Bookmark Tools
+#### 云收藏
+* http://favorites.ren/
+* https://github.com/cloudfavorites/favorites-web
