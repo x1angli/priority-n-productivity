@@ -113,6 +113,16 @@ An online grammar checking, spell checking, and plagiarism detection platform
 * ~~__HomeBank__ (deprecated)
    * Github: https://github.com/timonier/homebank
    
+### File Sharing / File Hosting tools
+#### BitSend
+https://bitsend.jp/?setLang=en
+
+#### UploadOne
+https://upl.one/
+
+#### Zippy Share
+https://www.zippyshare.com/
+   
 ### Web Bookmark Tools
 #### 云收藏
 * http://favorites.ren/
