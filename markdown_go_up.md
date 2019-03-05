@@ -156,7 +156,7 @@ The following tools loads markdown contents and renders them in HTML format
  * http://mistune.readthedocs.io/
  * https://github.com/lepture/mistune
 
-### Markdown presentation slide decks 
+### Markdown pitch deck (slides) generator 
 #### markdeck
  * It converts a markdown to a clean, local-hosted, html5 slide deck (PPT-style presentation deck). It takes \*.md files in markdown format and the assets subdir and renders a html5 slidedeck, using pandoc as converter and reveal.js as the presenter framework. It's based on markdown, pandoc, reveal.js, plantuml, ditaamini, asciitosvg, graphviz, asciinema, decktape, vega-lite, mathjax-pandoc-filter, and font-awesome.
  * Link: https://arnehilmann.github.io/markdeck/
@@ -169,6 +169,11 @@ The following tools loads markdown contents and renders them in HTML format
  
 #### marp
 * https://yhatt.github.io/marp/
+
+### Markdown resume (curriculum vitae) generator
+
+#### 冷熊简历（中文）
+* Link: http://cv.ftqq.com/#
 
 ## Markdown mobile APPs
 
