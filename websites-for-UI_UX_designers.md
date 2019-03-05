@@ -47,9 +47,17 @@ https://balsamiq.com/wireframes/
 * https://mockuphone.com/#ios
 
 #### Dynamic Dummy Image Generator
-* 一个生成指定宽度、高度、前景文字的工具
+ 一个生成指定宽度、高度、前景文字的工具
 * https://dummyimage.com/
 * https://github.com/kingkool68/dummyimage
+
+
+### AI/DL-based from mock-ups to artifact generator / 用人工智能/深度学习生成UI产物 
+#### Screenshot to Code
+输入一张截图，输出HTML。将设计模型转换为静态网站的神经网络的工具
+* https://github.com/emilwallner/Screenshot-to-code
+* How it works: https://medium.freecodecamp.org/how-you-can-train-an-ai-to-convert-your-design-mockups-into-html-and-css-cc7afd82fed4
+
 
 ### Color pallets
 #### Top 12 Web-Based Color Tools for Web Designers
