@@ -4,6 +4,12 @@
 * Alfred boosts your efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. Features: clipboard history, snippets, file searching, web searching, calculator, spell checker, workflows
 * https://www.alfredapp.com/
 
+#### chunkwm
+tiling window manager for macOS
+* https://koekeishiya.github.io/chunkwm/
+* https://github.com/koekeishiya/chunkwm
+
+
 ### Image tools
 #### PicGo （图床）
 * A simple & beautiful tool for pictures uploading built by electron-vue. It supports Github, Imgur, Aliyun OSS, etc...
@@ -29,7 +35,7 @@
 #### snipaste
 https://www.snipaste.com/
 
-### Command-line Tools (CLI tools)
+### Terminal / Command-line Tools (CLI tools)
 See Power Up Your Command Line: 
 * https://darrenburns.net/posts/tools/, https://darrenburns.net/posts/more-tools, https://darrenburns.net/posts/even-more-tools
 
