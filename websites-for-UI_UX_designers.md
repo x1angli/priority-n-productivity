@@ -53,6 +53,16 @@ https://balsamiq.com/wireframes/
 
 
 ### AI/DL-based from mock-ups to artifact generator / 用人工智能/深度学习生成UI产物 
+
+#### Logojoy
+https://logojoy.com/
+
+#### Hatchful 
+https://hatchful.shopify.com/
+
+#### LOGO控 / Logoko
+* Link: https://www.logoko.com.cn/
+
 #### Screenshot to Code
 输入一张截图，输出HTML。将设计模型转换为静态网站的神经网络的工具
 * https://github.com/emilwallner/Screenshot-to-code
