@@ -40,7 +40,18 @@
 让图片唱起歌来，唱歌幅度可定义，歌曲随机生成。
 * Link: http://nodtotherhythm.com/make
 
-### 自然图片工具  
+### 图片生成工具 / Picture generation tools  
+
+### Logo生成工具
+#### Logojoy
+https://logojoy.com/
+
+#### Hatchful 
+https://hatchful.shopify.com/
+
+#### LOGO控 / Logoko
+* Link: https://www.logoko.com.cn/
+
 #### This person does not exist
 用AI生成人脸
 * Link: https://thispersondoesnotexist.com/
