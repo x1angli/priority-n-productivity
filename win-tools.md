@@ -14,6 +14,12 @@ Multi-Clipboard
 #### IDM
 One-stop Download tool
 
+#### Motrix
+A full-featured download manager
+Support downloading HTTP, FTP, BitTorrent, Magnet, Baidu Net Disk etc.
+https://motrix.app/
+https://github.com/agalwood/Motrix
+
 ## Image and Video
 ### Screenshots
 #### snipaste
