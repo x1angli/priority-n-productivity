@@ -9,6 +9,14 @@ tiling window manager for macOS
 * https://koekeishiya.github.io/chunkwm/
 * https://github.com/koekeishiya/chunkwm
 
+### Network Tools
+
+#### Motrix
+A full-featured download manager
+Support downloading HTTP, FTP, BitTorrent, Magnet, Baidu Net Disk etc.
+https://motrix.app/
+https://github.com/agalwood/Motrix
+
 
 ### Image tools
 #### PicGo （图床）
