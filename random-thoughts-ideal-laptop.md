@@ -1,4 +1,5 @@
-# Random Thoughts on an Ideal Laptop 关于心目中理想笔记本的一点随便想法
+# Random Thoughts on an Ideal Laptop 
+# 关于心目中理想笔记本的一点随便想法
 
 * 屏幕：
   * 雾面屏：笔记本经常在外面使用，光源不可控，经常会有点光源（incident light）打在屏幕上，故雾面屏是必须，镜面屏必然有反光。
