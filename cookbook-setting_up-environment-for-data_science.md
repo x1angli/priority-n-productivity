@@ -17,7 +17,7 @@ Due to poor internet connection in certain regions, using integrated tools such 
 
 ## 前言
 
-**在安装Python前，强烈建议不再使用Python 2 ， 而是使用Py3**
+#### 抛弃Python 2，投靠Python 3
 虽然几乎目前所有主要的开源 Python 包现在都同时支持 Python 3.x 和 Python 2.7；但Python 2.7 将于 2020 年退休，已陆续有一大批 Python 项目宣布将在 2020 年之前放弃对 Python 2.7 的支持，包括 pandas、Zulip、IPython、NumPy 等等
 参见：https://python3statement.org/
 
@@ -59,6 +59,8 @@ Due to poor internet connection in certain regions, using integrated tools such 
         conda update -y conda anaconda
                 
         conda update -y jupyter numpy sympy scipy matplotlib
+        
+        conda install -y jupyterlab
         
         :: (Optional) Run the following lines of code
         :: pip install --upgrade requests 
