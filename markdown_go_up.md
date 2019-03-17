@@ -62,7 +62,11 @@ Here is a group of links for you to better use Markdown
  * a commercial Evernote extension. But you can still use it as a standalone online editor
  * Link: https://maxiang.io/
 
-
+#### 微信公众号排版编辑器
+ * 介绍：https://mp.weixin.qq.com/s/pn0LzyfgUj6rGUfVHUksjg
+ * 在线版: https://lab.lyric.im/wxformat/
+ * Github repo: https://github.com/lyricat/wechat-format
+ 
 ## Markdown renderers embeded in a static HTML webpage
  * With the following  tool, you can just include a single line of JavaScript reference code such as `<script src="...." />`  in your HTML to instantaneously render markdown contents on-the-fly.
 
