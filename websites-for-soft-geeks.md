@@ -14,10 +14,7 @@
 * www.cnbeta.com
 
 
-## 开发/美工/产品经理类工具
-跳转到 [这里](websites-for-UI_UX_designers.md)
-
-## 生活工具
+## 工具集
 
 #### atool
 * http://www.atool.org/
@@ -34,6 +31,14 @@
 * http://tool.yovisun.com/
 * 计量单位换算器、智能快递查询、数字转换成大写、未来一小时天气精准查询、经纬度查询两点距离
 
+#### 脚本之家在线工具
+* http://tools.jb51.net/
+
+## 文本工具
+#### Unicode Character Detector
+输入一段英文文字，把其中非ANSI的Unicode的字符给高亮出来
+https://www.textmagic.com/free-tools/unicode-detector
+ 
 ## 图片工具
 ### 动图工具
 #### nodtotherhythm
@@ -105,7 +110,10 @@ https://hatchful.shopify.com/
 * 使用方法：打开youtube的网站，找到想要下载的视频，再修改域名的URL，加上“1s”，使之成为youtube1s
     * 例如，原视频是 https://www.youtube.com/watch?v=ygARoqMJyto ，那么打开https://www.youtube1s.com/watch?v=ygARoqMJyto （最终会被跳转到 https://youtubemultidownloader.net/watch?v=ygARoqMJyto ）点击需要下载的分辨率对应的按钮即可
 
-#### YoviSun工具集
+#### YoviSun
 http://tool.yovisun.com/grabvideo/
 能下载很多网站的视频
+
+## 开发/美工/产品经理类工具
+跳转到 [这里](websites-for-UI_UX_designers.md)
 
