@@ -38,7 +38,7 @@
 #### Unicode Character Detector
 输入一段英文文字，把其中非ANSI的Unicode的字符给高亮出来
 https://www.textmagic.com/free-tools/unicode-detector
- 
+
 ## 图片工具
 ### 动图工具
 #### nodtotherhythm
@@ -66,6 +66,15 @@ https://hatchful.shopify.com/
 * Link: http://www.thiswaifudoesnotexist.net/
 * Dataset: https://www.gwern.net/Danbooru2018
 * Engine: https://github.com/NVlabs/stylegan
+
+## 声音工具
+### 声音生成工具
+
+#### generative.fm
+用AI生成背景音乐
+This site is a collection of generative music pieces which can be listened to. The term "generative music" has been used especially by Brian Eno to describe music which changes continuously and is created by a system. Such systems often generate music for as long as one is willing to listen.
+* https://generative.fm/
+* https://github.com/generative-music/generative.fm
 
 
 ## NLP自然语言工具
