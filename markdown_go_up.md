@@ -158,7 +158,7 @@ The following tools loads markdown contents and renders them in HTML format
 #### pandoc
  * A well-known python structured text parser that supports multiple formats.
  * http://pandoc.org/
-
+    * Tips: [Customizing pandoc to generate beautiful pdfs from markdown](https://learnbyexample.github.io/tutorial/ebook-generation/customizing-pandoc/) 
 #### pymarkup
  * This module provides a python wrapper around various text markup languages such as Markdown, reStructuredText and Textile.
  * Link: https://github.com/retext-project/pymarkups
