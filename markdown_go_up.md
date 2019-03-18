@@ -39,6 +39,12 @@ Here is a group of links for you to better use Markdown
 ## Text editor plugins / extensions
 ### VSCode plugins
 
+#### Markdown All in One
+ * Link: https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+ 
+#### Markdown+Math
+ * Link: https://marketplace.visualstudio.com/items?itemName=goessner.mdmath
+
 #### Markdown Support for Visual Studio Code
  * Provide features like: keyboard shortcuts (toggle bold, italic, code span, strikethrough and heading), list editing, TOC, Print Markdown to HTML, Math
  
@@ -48,11 +54,21 @@ Here is a group of links for you to better use Markdown
 
 
 ## Online editors
+#### Md2All （推荐）
+Markdown排版利器，支持 "一键排版" 、自定义css、80多种代码高亮。能让Markdown内容，无需作任何调整就能一键复制到微信公众号、博客园、掘金、知乎、csdn、51cto、WordPress、hexo……等平台，并且保留源代码高亮的样式。支持把图片自动上传到云图床。支持Latex数学公式在公众号等平台完美显示。
+ * 介绍：https://www.cnblogs.com/garyyan/p/8329343.html
+ * 在线版: http://md.aclickall.com/
+
+#### 微信公众号排版编辑器
+ * 介绍：https://mp.weixin.qq.com/s/pn0LzyfgUj6rGUfVHUksjg
+ * 在线版: https://lab.lyric.im/wxformat/
+ * Github repo: https://github.com/lyricat/wechat-format
+
+
 #### Fidus Writer
  * an online collaborative editor especially made for academics who need to use citations and/or formulas  that supports citations, collaborative editing, semantic editing and publishing in multiple locations. It's backed by Python.
  * This extension only styles the markdown preview. Use this extension pack to add support for other Github-specific markdown features
  * Link: https://github.com/fiduswriter/fiduswriter
- 
 
 #### Dilinger
  * a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. It does not support Latex syntax yet. It's written in Node.js
@@ -62,10 +78,6 @@ Here is a group of links for you to better use Markdown
  * a commercial Evernote extension. But you can still use it as a standalone online editor
  * Link: https://maxiang.io/
 
-#### 微信公众号排版编辑器
- * 介绍：https://mp.weixin.qq.com/s/pn0LzyfgUj6rGUfVHUksjg
- * 在线版: https://lab.lyric.im/wxformat/
- * Github repo: https://github.com/lyricat/wechat-format
  
 ## Markdown renderers embeded in a static HTML webpage
  * With the following  tool, you can just include a single line of JavaScript reference code such as `<script src="...." />`  in your HTML to instantaneously render markdown contents on-the-fly.
