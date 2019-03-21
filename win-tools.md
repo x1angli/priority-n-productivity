@@ -1,3 +1,7 @@
+## Aggregated by others
+#### Awesome Windows
+https://github.com/Awesome-Windows/Awesome
+
 ## Productivity Tools
 #### WOX
 Similar to [Alfred](https://www.alfredapp.com/) on Mac. It's a one-stop launcher on Windows
@@ -9,6 +13,13 @@ https://github.com/Wox-launcher/Wox
 Multi-Clipboard
 
 ## Network Tools
+
+### DNS
+
+#### Acrylic DNS Proxy
+A local DNS proxy which caches the responses coming from your DNS servers and helps you fight unwanted ads through a custom HOSTS file
+http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome
+
 ### Download tool
 
 #### IDM
@@ -26,8 +37,18 @@ https://github.com/agalwood/Motrix
 https://www.snipaste.com/
 
 ### Screen Recording
+#### Open Broadcaster Software 
+Free and open source software for video recording and live streaming. 
+https://obsproject.com/
+
+#### ScreenToGif
+To record a selected area of your screen and save it as a gif or video
+http://www.screentogif.com/
+
 #### LICEcap
-Seems to be better than GifCam
+Animated screen captures and save them directly to .GIF
+http://www.cockos.com/licecap/
+
 
 ### Image Uploading
 #### PicGo （图床）
