@@ -1,3 +1,9 @@
+## Aggregated by others
+
+#### Awesome Mac
+https://wangchujiang.com/awesome-mac/
+https://github.com/jaywcjlove/awesome-mac
+
 ## Productivity Tools
 
 #### Alfred
