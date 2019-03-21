@@ -57,3 +57,10 @@ See Power Up Your Command Line:
 
 #### fzf
 * Github: https://github.com/junegunn/fzf
+
+#### mas-cli
+* Github: https://github.com/mas-cli/mas
+* Homebrew: `brew install mas`
+A simple command line interface for the Mac App Store. Designed for scripting and automation.
+
+
