@@ -101,3 +101,8 @@ b) The ‘Height’ value determines the number of lines that are stored in memo
 #### Enhance the contrast
 The default  RGB (Red, Green, Blue) values for the foreground fonts are 192. We can increase these values to a larger one like 230.
 Also, we can make the background darker by decreasing its RGB values.
+
+
+## References
+#### Win10 Initial Setup Script
+https://github.com/Disassembler0/Win10-Initial-Setup-Script
