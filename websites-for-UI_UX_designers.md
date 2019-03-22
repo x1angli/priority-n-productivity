@@ -78,6 +78,10 @@ https://hatchful.shopify.com/
 * https://1stwebdesigner.com/web-based-color-tools/
 * https://zhuanlan.zhihu.com/p/56525701
 
+#### Color Picker
+pick a suite of colors for an integrated theme
+https://colorsupplyyy.com/app
+
 #### ColorSpark
 Randomly generates a color (or gradient)
 * https://colorspark.app/
