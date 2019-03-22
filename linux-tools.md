@@ -3,5 +3,5 @@
  - https://github.com/coolshellx/articles/blob/master/00-How.To.Set.Up.An.High.Efficient.Working.Enviornment.md
 
 #### bspwm
-https://github.com/baskerville/bspwm
-A tiling window manager based on binary space partitioning
+ - https://github.com/baskerville/bspwm
+ - A tiling window manager based on binary space partitioning
