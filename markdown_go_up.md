@@ -167,6 +167,12 @@ The following tools loads markdown contents and renders them in HTML format
  * a free MIT-licensed Ruby library for parsing and converting a superset of Markdown
  * Link: https://kramdown.gettalong.org/
 
+### Python parsers
+
+#### mistletoe
+ * A fast, extensible and spec-compliant Markdown parser in pure Python.
+ * https://github.com/miyuchina/mistletoe
+
 #### mistune
  * The fastest markdown parser in pure Python with renderer feature. 
  * http://mistune.readthedocs.io/
