@@ -31,7 +31,10 @@ Support downloading HTTP, FTP, BitTorrent, Magnet, Baidu Net Disk etc.
 https://motrix.app/
 https://github.com/agalwood/Motrix
 
-## Image and Video
+## Image and Video Tools
+### Drawing
+#### InkScape
+
 ### Screenshots
 #### snipaste
 https://www.snipaste.com/
