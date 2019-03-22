@@ -79,6 +79,19 @@ Here are a list of math typesetting tools for the web
 * Katex: https://katex.org/, https://github.com/KaTeX/KaTeX
 * MathJax: https://www.mathjax.org/, https://github.com/mathjax/mathjax
 
+## Vim and Latex
+#### Taking math notes using Vim and Latex
+How I'm able to take notes in mathematics lectures using LaTeX and Vim
+https://castel.dev/post/lecture-notes-1/
+* The LaTeX plugin in Vim： vimtex
+   * https://github.com/lervag/vimtex
+   * It is based on LaTeX-Box and it shares a similar goal: to provide a simple and lightweight LaTeX plugin. It provides syntax highlighting, table of contents view, synctex, etc. 
+* The plugin config manager: vim-plug
+   * https://github.com/junegunn/vim-plug
+* utilsnips:
+   * UltiSnips is the ultimate solution for snippets in Vim. It has tons of features and is very fast.
+   * https://github.com/SirVer/ultisnips
+
 # References: 
 1. [ 《如何使用 LaTeX 排版论文》](https://github.com/tuna/thulib-latex-talk/raw/master/latex-talk.pdf), by 陈晟祺, retreived on Nov 03, 2018. 
 1. [How We Wrote a Textbook](http://tim.hibal.org/blog/how-we-wrote-a-textbook/)
