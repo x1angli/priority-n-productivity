@@ -25,6 +25,31 @@ Due to poor internet connection in certain regions, using integrated tools such 
 channel是conda的一个独特的概念，（独特是指，在pip中没有这个概念），channel就是分发渠道的意思，你可以理解为是一些conda包的集合。一个package在不同的channel可以共用同一名称，但是可以提供不同的内容。比如同一款包，其作也许会在某个channel会分发商用的版本，而在其他的channel中发布免费版。conda有几个主要的channel如free, main, pro, conda-forge。前面三个由anaconda背后的continuum自己维护，因此anaconda又把这三个channel并在一起成了一个大的Anaconda Repository(repository的概念和channel一致)。当前，pro这个channel已经决定要淡出。详见https://repo.continuum.io/pkgs/
 
 
+## Ubuntu的Python
+```
+sudo python3 -m pip uninstall pip && sudo apt install python3-pip --reinstall
+python3 -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pip -U
+```
+
+把/usr/bin/pip3
+```
+import sys
+from pip import main
+if __name__ == '__main__':
+     sys.exit(main())
+```     
+     
+改为:
+```
+import sys
+from pip import __main__
+if __name__ == '__main__':
+     sys.exit(__main__._main())
+```
+注意，最后一个main()函数前有一个underscore..
+
+
+
 ## Install and configure Anaconda 
 1.  Download and install Anaconda from TUNA's mirror 从 TUNA 的镜像下载和安装 Anaconda
     1.  Visit 访问 https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
