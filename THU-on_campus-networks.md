@@ -46,3 +46,27 @@
 219.223.176.0/20
 ```
 
+## 在非清华的IP段下载图书馆数据库文章
+
+### 1. eproxy校外访问系统：
+http://eproxy2.lib.tsinghua.edu.cn/login
+(校外访问系统仅供用户在校外访问数据库使用，校内IP地址不能使用本系统 如果系统提示“您的IP地址被列入黑名单”，有可能是您属于校内IP，或者使用了校内代理或VPN)
+
+### 2. 基于Shibboleth校外访问
+* 基于Shibboleth校外访问：IEEE/IET Electronic Library(IEL)全文 （访问指南）
+* 基于Shibboleth校外访问：Web of Science （访问指南）
+* 基于Shibboleth校外访问：Nature全文 （访问指南）
+* 基于Shibboleth校外访问：Elsevier ScienceDirect （访问指南）
+* 基于Shibboleth校外访问：EBSCO全文 （访问指南）
+* 基于Shibboleth校外访问：RSC全文 （访问指南）
+
+### 3. SSL VPN：
+可访问服务器设在清华校内的电子资源，包括电子资源的清华镜像站点。
+
+### 4. 假期数据库远程漫游访问服务：
+EBSCO平台（访问指南、apk程序），库客数字音乐图书馆（访问指南），读秀学术搜索（访问指南），中国知网（VPN方式）,新东方多媒体学习库（访问指南）
+
+### 5. IEEE Xplore数据库
+IEEE Xplore数据库提供Remote Access方式（只适合移动设备，如笔记本电脑、手机等）：读者预先在校内IP范围内完成移动设备的配置，之后90天内可使用配置好的移动设备在校外访问IEEE Xplore数据库（超过90天需重新配置）。IEEE Xplore原则上不限制配置设备的台数，但建议优先配置笔记本电脑。具体配置方法请参考《IEEE Xplore的Remote Access设置》文档。
+
+参见：http://lib.tsinghua.edu.cn/database/visit_outside.html
