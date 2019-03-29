@@ -126,3 +126,6 @@ http://tool.yovisun.com/grabvideo/
 ## 开发/美工/产品经理类工具
 跳转到 [这里](websites-for-UI_UX_designers.md)
 
+## 有趣的小游戏
+#### 一些github上小游戏的汉化集
+https://likexia.gitee.io/game/index.html
