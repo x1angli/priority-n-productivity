@@ -78,6 +78,11 @@ This site is a collection of generative music pieces which can be listened to. T
 
 
 ## NLP自然语言工具
+#### 汉字笔画书写顺序 
+Chinese character stroke order animations and practice quizzes
+* https://chanind.github.io/hanzi-writer
+* https://github.com/chanind/hanzi-writer
+
 #### 中文诗歌主页 中华古诗词数据库
 教科书选诗 花间集 南唐二主词 古诗十九首 唐诗三百首 宋词三百首
 另外包含一些UI，比如“诗词周历”等
