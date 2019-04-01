@@ -54,16 +54,27 @@ Here is a group of links for you to better use Markdown
 
 
 ## Online editors
+
+### 微信
+#### 小胡子哥的WXMarkdown
+* http://md.barretlee.com/
+* https://github.com/barretlee/online-markdown
+
+#### ironmaxi
+ * https://md.ironmaxi.com/
+ * https://github.com/hadeshe93/irm-markdowner
+
+#### lyric.im
+ * 介绍：https://mp.weixin.qq.com/s/pn0LzyfgUj6rGUfVHUksjg
+ * 在线版: https://lab.lyric.im/wxformat/
+ * Github repo: https://github.com/lyricat/wechat-format
+
 #### Md2All （推荐）
 Markdown排版利器，支持 "一键排版" 、自定义css、80多种代码高亮。能让Markdown内容，无需作任何调整就能一键复制到微信公众号、博客园、掘金、知乎、csdn、51cto、WordPress、hexo……等平台，并且保留源代码高亮的样式。支持把图片自动上传到云图床。支持Latex数学公式在公众号等平台完美显示。
  * 介绍：https://www.cnblogs.com/garyyan/p/8329343.html
  * 在线版: http://md.aclickall.com/
 
-#### 微信公众号排版编辑器
- * 介绍：https://mp.weixin.qq.com/s/pn0LzyfgUj6rGUfVHUksjg
- * 在线版: https://lab.lyric.im/wxformat/
- * Github repo: https://github.com/lyricat/wechat-format
-
+### others
 
 #### Fidus Writer
  * an online collaborative editor especially made for academics who need to use citations and/or formulas  that supports citations, collaborative editing, semantic editing and publishing in multiple locations. It's backed by Python.
