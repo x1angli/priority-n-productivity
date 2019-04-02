@@ -7,8 +7,8 @@ https://github.com/jaywcjlove/awesome-mac
 ## Cool and Fancy
 #### Pock: Display macOS Dock in Touch Bar
 Display macOS Dock in Touch Bar
-https://pock.pigigaldi.com/
-https://github.com/pigigaldi/Pock
+* https://pock.pigigaldi.com/
+* https://github.com/pigigaldi/Pock
 
 ## Productivity Tools
 
