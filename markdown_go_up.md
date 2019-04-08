@@ -32,9 +32,15 @@ Here is a group of links for you to better use Markdown
  * a cross-platform desktop powerful editor for Markdown and reStructuredText. It is based on [pyqt](https://riverbankcomputing.com/software/pyqt/intro). 
  * Link: https://github.com/retext-project/retext
 
+### MacOS-only editors
 #### mou
  * a Markdown editor for developers, on Mac OS X. Features live preview, sync scroll, auto save, powerful actions, auto pair, custom themes and CSS, HTML and PDF export, enhanced CJK support and more.
  * Link: http://25.io/mou/
+ 
+#### MacDown
+ * an open source Markdown editor for macOS, released under the MIT License. It is heavily influenced by Mou. 
+ * Link: https://macdown.uranusjr.com/
+
 
 ## Text editor plugins / extensions
 ### VSCode plugins
