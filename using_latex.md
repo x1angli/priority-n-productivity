@@ -79,7 +79,7 @@ Here are a list of math typesetting tools for the web
 * Katex: https://katex.org/, https://github.com/KaTeX/KaTeX
 * MathJax: https://www.mathjax.org/, https://github.com/mathjax/mathjax
 
-## Vim and Latex
+### Vim and Latex
 #### Taking math notes using Vim and Latex
 How I'm able to take notes in mathematics lectures using LaTeX and Vim
 https://castel.dev/post/lecture-notes-1/
@@ -91,6 +91,11 @@ https://castel.dev/post/lecture-notes-1/
 * utilsnips:
    * UltiSnips is the ultimate solution for snippets in Vim. It has tons of features and is very fast.
    * https://github.com/SirVer/ultisnips
+
+### OCR and Latex
+#### MathPix Snip
+https://mathpix.com/
+This powerful tool would do the magic by recognizing and converting math equation images (either print or handwritten) into formula, all with a single keyboard shortcut. Supports Windows, Mac, and Ubuntu
 
 # References: 
 1. [ 《如何使用 LaTeX 排版论文》](https://github.com/tuna/thulib-latex-talk/raw/master/latex-talk.pdf), by 陈晟祺, retreived on Nov 03, 2018. 
