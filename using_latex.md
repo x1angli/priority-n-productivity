@@ -17,7 +17,7 @@ TeX editors differ from TeX compilers in that tex compilers turns .tex source fi
 Sometimes, a TeX system may ship with an out-of-the-box editor plus a compiler. For Tex Live as an instance, it ships with TeXwork as the editor
 
 There are two types of editors: dedicated ones and generic ones.
-* Dedicated TeX editors: TeXworks, WinEdt, TeXmaker, XeLaTeX
+* Dedicated TeX editors: TeXworks, TeXmaker, WinEdt, XeLaTeX
 * Generic editors (with TeX plugins/extensions): VIM, Emacs, VS Code, Sublime, Atom
 
 ## Engine and Format?
