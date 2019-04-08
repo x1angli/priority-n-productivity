@@ -83,9 +83,13 @@ Markdown排版利器，支持 "一键排版" 、自定义css、80多种代码高
 ### others
 
 #### Fidus Writer
- * an online collaborative editor especially made for academics who need to use citations and/or formulas  that supports citations, collaborative editing, semantic editing and publishing in multiple locations. It's backed by Python.
+ * an online collaborative editor especially made for academics who need to use citations and/or formulas  that supports citations,  semantic editing and publishing in multiple locations. It's backed by Python.
  * This extension only styles the markdown preview. Use this extension pack to add support for other Github-specific markdown features
  * Link: https://github.com/fiduswriter/fiduswriter
+
+#### authorea
+* A powerful collaborative publishing platform for research articles, data, figures, preprints (though not dedicated for MarkDown)
+* Link: https://www.authorea.com/
 
 #### Dilinger
  * a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. It does not support Latex syntax yet. It's written in Node.js
@@ -94,6 +98,8 @@ Markdown排版利器，支持 "一键排版" 、自定义css、80多种代码高
 #### 马克飞象
  * a commercial Evernote extension. But you can still use it as a standalone online editor
  * Link: https://maxiang.io/
+
+
 
  
 ## Markdown renderers embeded in a static HTML webpage
