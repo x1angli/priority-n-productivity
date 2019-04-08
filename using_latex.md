@@ -57,8 +57,17 @@ There are a bunch of online TeX editors/IDEs: OverLeaf, ShareLaTeX
 
 It's recommended to use online editors to test water before you make a full plunge into your local environment. 
 
+#### OverLeaf
+(highly recommended)
+an online, collaborative LaTeX editor
+https://www.overleaf.com/
+
 #### codecogs' editor
 https://www.codecogs.com/latex/eqneditor.php
+
+#### authorea
+A powerful collaborative publishing platform for research articles, data, figures, preprints (though not dedicated for LaTex)
+https://www.authorea.com/
 
 ## Setting up TUNA
 
