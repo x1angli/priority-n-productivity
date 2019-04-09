@@ -2,6 +2,11 @@
 #### Awesome Windows
 https://github.com/Awesome-Windows/Awesome
 
+## Toolkit
+#### nirsoft
+tons of system tools, network tools, and computer forensic software for windows
+https://www.nirsoft.net/
+
 ## Productivity Tools
 #### WOX
 Similar to [Alfred](https://www.alfredapp.com/) on Mac. It's a one-stop launcher on Windows
