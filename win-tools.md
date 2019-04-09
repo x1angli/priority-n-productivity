@@ -1,10 +1,10 @@
-## Aggregated by others
+## Aggregated
 #### Awesome Windows
 https://github.com/Awesome-Windows/Awesome
 
-## Toolkit
 #### nirsoft
 tons of system tools, network tools, and computer forensic software for windows
+* all made by Nirsoft
 https://www.nirsoft.net/
 
 ## Productivity Tools
