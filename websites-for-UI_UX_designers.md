@@ -22,6 +22,12 @@ https://github.com/LisaDziuba/Awesome-Design-Tools
 * http://www.atool.org/
 * 透明图片、resize剪裁大小、PHP代码格式化工具、字符串base64编码解码(UTF8)、在线MD5破解……
 
+#### IT TOOLS
+* https://tsaikoga.github.io/it-tools/index.html
+* https://tsaikoga.github.io/it-tools/index_cn.html
+* https://github.com/TsaiKoga/it-tools
+正则表达式、时间戳转化、颜色盒子、JSON 转化、Base64 转化
+
 #### bejson
 * https://www.bejson.com/
 json检验、json高亮、MD5加密、Base64编解码、escape、URL编解码……
