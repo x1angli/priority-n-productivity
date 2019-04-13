@@ -42,6 +42,15 @@ Here is a group of links for you to better use Markdown
  * Link: https://macdown.uranusjr.com/
 
 
+
+## Web browser plugins / extensions
+#### Stylus
+为了加强阅读用户体验，可在浏览器上安装 Stylus 这类终端 CSS 定制插件，Chrome/Firefox/Opera 都支持。
+ * Github Repo: https://github.com/openstyles/stylus
+ * Chrome: https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne
+ * 李笑来的针对中文的CSS样式: https://github.com/selfteaching/the-craft-of-selfteaching/tree/master/markdown
+
+
 ## Text editor plugins / extensions
 ### VSCode plugins
 
