@@ -28,6 +28,12 @@ https://github.com/LisaDziuba/Awesome-Design-Tools
 * https://github.com/TsaiKoga/it-tools
 正则表达式、时间戳转化、颜色盒子、JSON 转化、Base64 转化
 
+#### FUNNYAPI
+梁斌博士提供的一系列API集
+* http://jwd.funnyapi.com/
+* http://btc.funnyapi.com/
+永久免费提供全球经纬度查询行政区域服务，粒度可达县区级的LEVEL3。
+
 #### bejson
 * https://www.bejson.com/
 json检验、json高亮、MD5加密、Base64编解码、escape、URL编解码……
