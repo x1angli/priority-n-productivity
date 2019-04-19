@@ -4,6 +4,10 @@
 https://wangchujiang.com/awesome-mac/
 https://github.com/jaywcjlove/awesome-mac
 
+#### WaitsUn
+a collection of Mac Apps
+https://www.waitsun.com/
+
 ## Cool and Fancy
 #### Pock: Display macOS Dock in Touch Bar
 Display macOS Dock in Touch Bar
