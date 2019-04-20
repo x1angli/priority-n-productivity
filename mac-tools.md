@@ -8,6 +8,9 @@ https://github.com/jaywcjlove/awesome-mac
 a collection of Mac Apps
 https://www.waitsun.com/
 
+#### Mac开发效率提升之工具篇
+https://github.com/Louiszhai/tool
+
 ## Cool and Fancy
 #### Pock: Display macOS Dock in Touch Bar
 Display macOS Dock in Touch Bar
