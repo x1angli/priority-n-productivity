@@ -31,6 +31,11 @@ Here is a group of links for you to better use Markdown
 #### ReText
  * a cross-platform desktop powerful editor for Markdown and reStructuredText. It is based on [pyqt](https://riverbankcomputing.com/software/pyqt/intro). 
  * Link: https://github.com/retext-project/retext
+ 
+#### electron-markdownify
+an electron-based desktop editor. supports KaTex
+ * Link: https://markdownify.js.org
+ * Link: https://github.com/amitmerchant1990/electron-markdownify
 
 ### MacOS-only editors
 #### mou
