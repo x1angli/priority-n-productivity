@@ -28,15 +28,23 @@ https://github.com/LisaDziuba/Awesome-Design-Tools
 * https://github.com/TsaiKoga/it-tools
 正则表达式、时间戳转化、颜色盒子、JSON 转化、Base64 转化
 
+#### bejson
+* https://www.bejson.com/
+json检验、json高亮、MD5加密、Base64编解码、escape、URL编解码……
+
+### 地理工具
+
 #### FUNNYAPI
 梁斌博士提供的一系列API集
 * http://jwd.funnyapi.com/
 * http://btc.funnyapi.com/
 永久免费提供全球经纬度查询行政区域服务，粒度可达县区级的LEVEL3。
 
-#### bejson
-* https://www.bejson.com/
-json检验、json高亮、MD5加密、Base64编解码、escape、URL编解码……
+### 翻译工具
+Free App I18n Translation Search 
+It's intended for software translators, product developers or people who has i18n translation needs. it can automatically translate 18 languages for your android or java project. The i18n robot plugin will choose the most common translation as the final translation.
+* https://i18ns.com/
+* https://plugins.jetbrains.com/plugin/11567-i18n-robot
 
 ### 在线图片小工具
 #### carbon
