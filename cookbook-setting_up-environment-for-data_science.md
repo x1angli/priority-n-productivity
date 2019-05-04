@@ -54,7 +54,7 @@ if __name__ == '__main__':
 1.  Download and install Anaconda from TUNA's mirror 从 TUNA 的镜像下载和安装 Anaconda
     1.  Visit 访问 https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
     1.  Choose the Anaconda version (preferrably the latest one), and pick up the version that matches your OS. 先选择Anaconda的版本（建议选择最新的，页面的最下方），并且选择与自己操作系统对应的版本
-        1.  As of writing this instruction, the latest version is 5.3, and I use 64-bit Windows, so I picked up 在写这篇指南时，最新的版本是5.3.0，并且我用64位Windows，所以我选了这个版本 [Anaconda3-5.3.1-Windows-x86_64.exe](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-5.3.1-Windows-x86_64.exe)
+        1.  As of writing this instruction, the latest version is 2019.03. For Windows users, you can choose  [Anaconda3-2019.03-Windows-x86_64.exe](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-2019.03-Windows-x86_64.exe)
     1.  Download and install it 下载安装之
 
 
