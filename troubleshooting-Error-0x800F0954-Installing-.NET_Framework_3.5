@@ -1,0 +1,35 @@
+## Problem 
+Unable to install .Net framework 3.5 or optional Windows features
+The error 0x800f0954 
+
+## Reason
+The root cause is: the system is unable to access the Windows Update server. 
+
+This is especially true in case of computers in enterprises where a WSUS server is configured. 
+
+To fix this, all we have to do is just bypassing WSUS so as to install directly from Microsoft's Official Windows Update
+
+## Solution
+
+To fix the problem, temporarily bypass WSUS server using the following registry edit (requires administrator privileges).
+
+1. Right-click Start, and click Run
+
+2. Type `regedit.exe` and click OK
+
+3. Go to the following registry key:
+
+   ```
+   HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU
+   ```
+
+4. In the right-pane, if the value named **UseWUServer** exists, set its data to `0`
+
+5. Exit the Registry Editor
+
+6. Restart Windows.
+
+7. Continue installing the feature from a pre-downloaded offline file.
+
+## Reference
+* See also: https://www.winhelponline.com/blog/error-0x800f0954-net-framework-3-5-optional-feature-dism/
