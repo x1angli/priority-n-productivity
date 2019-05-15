@@ -45,6 +45,12 @@ https://www.textmagic.com/free-tools/unicode-detector
 让图片唱起歌来，唱歌幅度可定义，歌曲随机生成。
 * Link: http://nodtotherhythm.com/make
 
+### 图片识别工具 / OCR OpenCV tools
+#### mathAI
+一个拍照做题程序。输入一张包含数学计算题的图片，输出识别出的数学计算式以及计算结果。
+https://github.com/Roujack/mathAI
+
+
 ### 图片生成工具 / Picture generation tools  
 
 ### Logo生成工具
