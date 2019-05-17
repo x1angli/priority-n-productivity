@@ -84,6 +84,12 @@ This site is a collection of generative music pieces which can be listened to. T
 
 
 ## NLP自然语言工具
+### 翻译
+#### 深蓝英文字幕助手
+一款看美剧（英剧）学英语的字幕辅助软件，只对英文字幕中生词的注释
+词性判断和注释预判，柯林斯词频分级方式，方便为用户初始化词汇量
+
+### 中文
 #### 汉字笔画书写顺序 
 Chinese character stroke order animations and practice quizzes
 * https://chanind.github.io/hanzi-writer
