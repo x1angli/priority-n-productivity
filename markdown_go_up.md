@@ -80,6 +80,10 @@ an electron-based desktop editor. supports KaTex
 * http://md.barretlee.com/
 * https://github.com/barretlee/online-markdown
 
+#### 程序员DD
+一个分屏的Markdown->微信公众号格式的编辑器
+* http://blog.didispace.com/tools/online-markdown/
+
 #### ironmaxi
  * https://md.ironmaxi.com/
  * https://github.com/hadeshe93/irm-markdowner
