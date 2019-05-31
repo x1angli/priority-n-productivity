@@ -123,6 +123,11 @@ http://www.digitalmagicpro.com/jPicker/
 Renders your specified text in a randomly picked typeface
 * https://fontspark.app/
 
+### Photos
+
+#### Meme Templates
+https://imgflip.com/memetemplates
+
 ### Pictures, SVGs
 #### 觅元素（免抠素材）
 www.51yuansu.com
