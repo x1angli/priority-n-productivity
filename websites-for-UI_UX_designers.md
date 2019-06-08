@@ -28,6 +28,10 @@ https://github.com/LisaDziuba/Awesome-Design-Tools
 * https://github.com/TsaiKoga/it-tools
 正则表达式、时间戳转化、颜色盒子、JSON 转化、Base64 转化
 
+#### 蛙蛙工具
+* https://www.iamwawa.cn
+英文字母大小写转换 中文简繁体转换工具 中文转拼音注音工具 OCR图片识别文字工具 一句诗词 文本去重工具 人民币大写转换工具 英文金额大写转换工具 二维码生成工具 农历公历转换工具
+
 #### bejson
 * https://www.bejson.com/
 json检验、json高亮、MD5加密、Base64编解码、escape、URL编解码……
