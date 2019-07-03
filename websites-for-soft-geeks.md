@@ -101,9 +101,12 @@ Chinese character stroke order animations and practice quizzes
 * https://shici.store/huajianji/
 * https://github.com/chinese-poetry/chinese-poetry
 
-#### 九歌
+#### THUAIPoet 九歌
 计算机诗词创作系统  by 清华大学自然语言处理与社会人文计算实验室 
-* https://jiuge.thunlp.cn/
+* Live: https://jiuge.thunlp.cn/
+* Code: https://github.com/THUNLP-AIPoet/StylisticPoetry
+* DataSet: https://github.com/THUNLP-AIPoet/Datasets
+* Paper：https://github.com/THUNLP-AIPoet/PaperList
 
 #### 自动对对联
 * https://ai.binwang.me/couplet/
