@@ -7,6 +7,8 @@ Here is a group of links for you to better use Markdown
  * Link: https://typora.io/
  * Remarks: This is really a nice tool. It would be better if it supports split-panel with both markdown source code and rendered WYSIWYG displayed side-by-side. Also, you have to explicitly turn on the "In-line Math" switch.
 
+### Electron-based editors
+ 
 #### Boostnote
  * An open-source markdown editor for developers on Mac, Windows and Linux. 
  * Link: https://boostnote.io/
@@ -16,7 +18,14 @@ Here is a group of links for you to better use Markdown
 #### Notable
  * An Electron-based markdown note-taking app. the app isn't bloated, the app has a pretty interface, tags are indefinitely nestable and can import Evernote note
  * Github: https://github.com/fabiospampinato/notable
-        
+
+#### Markdownify (Obsolete)
+ * A minimal Markdown Editor desktop app built on top of Electron. supports KaTex
+ * Site: https://markdownify.js.org
+ * Github: https://github.com/amitmerchant1990/electron-markdownify
+
+### Book writers
+
 #### Gitbook's Editor
  * Writing books using git in combination with Markdown or Asciidoc. LaTeX is supported.
  * Download Link for executable binaries (available for Windows / Mac / Linux): https://legacy.gitbook.com/editor
@@ -28,14 +37,11 @@ Here is a group of links for you to better use Markdown
 * Link: https://hvenotes.fehey.com/
 * Github: https://github.com/hve-notes/hve-notes
 
+### PyQT
+
 #### ReText
  * a cross-platform desktop powerful editor for Markdown and reStructuredText. It is based on [pyqt](https://riverbankcomputing.com/software/pyqt/intro). 
  * Link: https://github.com/retext-project/retext
- 
-#### electron-markdownify (outdated)
-an electron-based desktop editor. supports KaTex
- * Link: https://markdownify.js.org
- * Link: https://github.com/amitmerchant1990/electron-markdownify
 
 ### MacOS-only editors
 #### mou
