@@ -39,6 +39,8 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/
     * 这是一个具备一定基础后的进阶教程，却很实用
 
 ### 2.2 numpy教程 与 数据科学
+* [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
+    * 比较基础，很直观，一目了然
 * [Numpy官方教程](https://docs.scipy.org/doc/numpy-1.15.0/user/quickstart.html)
 * [TutorialsPoint的教程](https://www.tutorialspoint.com/numpy/numpy_arithmetic_operations.htm)
 * [Python DataScience Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
