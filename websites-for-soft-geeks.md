@@ -112,6 +112,11 @@ Chinese character stroke order animations and practice quizzes
 * https://ai.binwang.me/couplet/
 * https://github.com/wb14123/seq2seq-couplet
 
+#### Get智能写作
+自动写作文，especially useful for churning out nonsense bullshxt. 
+* https://getgetai.com
+
+
 ## 网络类工具
 
 ### DNS类工具
