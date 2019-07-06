@@ -112,3 +112,16 @@ This powerful tool would do the magic by recognizing and converting math equatio
 1. [上海交通大学 XeLaTeX 学位论文及课程论文模板](https://github.com/sjtug/SJTUThesis)
 1. [Matthias Heinkenschloss写的cheatsheet](https://www.caam.rice.edu/~heinken/latex/symbols.pdf)
 1. [LaTeX Mathematics' official wiki](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
+
+### Misc.
+#### caoutchouc
+It converts .md file into .pdf file.
+A replacement for LaTeX based on Markdown and AsciiMath. LaTeX can be directly embedded. 
+Pre-requisites: node.js, pandoc 2.2.1, texlive.
+ * Site: https://caoutchouc.io
+ * Source Repo: https://github.com/corollari/caoutchouc
+ 
+#### jupyterlab-latex
+JupyterLab extension for live editing of LaTeX documents
+Pre-requisites: JupyterLab, Python >= 3.6, any Latex compilor 
+ * Source Repo: https://github.com/jupyterlab/jupyterlab-latex
