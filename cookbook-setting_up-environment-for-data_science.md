@@ -156,3 +156,24 @@ If you're using a Windows System, you might encouter difficulties in setting the
     1.  In the field of "Start in", type the same directory of `c:\your\workbench\` as abovementioned.
 1.  Done!
 
+## Jupyter Extensions
+
+### jupyterlab-latex
+https://github.com/jupyterlab/jupyterlab-latex
+
+### Microsoft Word / .docx file exporter
+https://github.com/m-rossi/jupyter-docx-bundler
+
+### Jupytext
+Jupyter notebooks as Markdown documents, Julia, Python or R scripts.
+* https://github.com/mwouts/jupytext
+* https://github.com/mwouts/jupyterlab-jupytext
+* https://mybinder.org/v2/gh/mwouts/jupytext/master?urlpath=lab/tree/demo/get_started.ipynb
+* https://towardsdatascience.com/introducing-jupytext-9234fdff6c57
+
+### jupyterlab-drawio
+A standalone embedding of the FOSS draw.io / mxgraph package into jupyterlab
+* https://github.com/QuantStack/jupyterlab-drawio
+* https://blog.jupyter.org/a-diagram-editor-for-jupyterlab-a254121ff919
+
+
