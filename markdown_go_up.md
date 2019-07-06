@@ -7,6 +7,9 @@ Here is a group of links for you to better use Markdown
  * Link: https://typora.io/
  * Remarks: This is really a nice tool. It would be better if it supports split-panel with both markdown source code and rendered WYSIWYG displayed side-by-side. Also, you have to explicitly turn on the "In-line Math" switch.
 
+#### Remarkable
+https://remarkableapp.github.io/
+
 ### Electron-based editors
  
 #### Boostnote
@@ -52,9 +55,8 @@ Here is a group of links for you to better use Markdown
  * an open source Markdown editor for macOS, released under the MIT License. It is heavily influenced by Mou. 
  * Link: https://macdown.uranusjr.com/
 
-
-
 ## Web browser plugins / extensions
+
 #### Stylus
 为了加强阅读用户体验，可在浏览器上安装 Stylus 这类终端 CSS 定制插件，Chrome/Firefox/Opera 都支持。
  * Github Repo: https://github.com/openstyles/stylus
