@@ -145,19 +145,28 @@ Markdown排版利器，支持 "一键排版" 、自定义css、80多种代码高
 
 
 ## Markdown Extensions 
-
-### MathJax
+### Pandoc-like tools
+#### caoutchouc
+A replacement for LaTeX based on Markdown and AsciiMath. LaTeX can be directly embedded. It converts .md file into .pdf file.
+Pre-requisites: node.js, pandoc 2.2.1, texlive.
+ * Site: https://caoutchouc.io
+ * Source Repo: https://github.com/corollari/caoutchouc
+ 
+### Engines
 
 #### MathJax
- * A JavaScript display engine for mathematics that works in all browsers. It's not dedicated to Markdown only, but for generic HTML webpages that needs to render math contents with LaTeX syntax. 
+A JavaScript display rendering engine for mathematics that works in all browsers. It's not dedicated to Markdown only, but for generic HTML webpages that needs to render math contents with LaTeX syntax. 
+ * Supports [MathML](https://www.w3.org/Math/), TeX, and [ASCIImath](http://asciimath.org/) syntax as input
+ * Produces HTML+CSS, SVG, and MathML as output.
  * Link: https://www.mathjax.org/
  * Source Repo: https://github.com/mathjax/mathjax
 
 #### TeX All the Things
-An extension which lets you enable LaTeX on any website (including Github). Typesets any LaTeX found on webpages using MathJax (http://www.mathjax.org/).
+A Google Chrome extension which lets you enable LaTeX on any website (including Github). Typesets any LaTeX found on webpages using MathJax 
+https://chrome.google.com/webstore/detail/tex-all-the-things/cbimabofgmfdkicghcadidpemeenbffn
 
 #### KaTex
- * A JavaScript engine for mathematics that is similar to MathJax. But since the render is performed synchronously and doesn’t need to reflow the webpage, the webpage rendering speed is faster than MathJax
+A client-side and server-side JavaScript engine for mathematics that is similar to but faster than MathJax. 
  * Link: https://katex.org/
  * Source Repo: https://github.com/KaTeX/KaTeX
     
