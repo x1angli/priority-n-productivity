@@ -114,6 +114,18 @@ This powerful tool would do the magic by recognizing and converting math equatio
 1. [LaTeX Mathematics' official wiki](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 
 ### Misc.
+#### conTeXt
+typesetting high-quality documents. Unlike
+Pre-requisites: any Latex compilor such as pdfTeX, XeTeX, and LuaTeX
+ * Site: https://www.contextgarden.net/
+ 
+#### Tutorial: Typesetting Markdown
+it's actually about typesetting latex
+ * https://dave.autonoma.ca/blog/2019/05/22/typesetting-markdown-part-1/
+ * https://dave.autonoma.ca/blog/2019/05/29/typesetting-markdown-part-2/
+ * https://dave.autonoma.ca/blog/2019/06/16/typesetting-markdown-part-3/
+ * https://dave.autonoma.ca/blog/2019/06/23/typesetting-markdown-part-4/
+ 
 #### caoutchouc
 It converts .md file into .pdf file.
 A replacement for LaTeX based on Markdown and AsciiMath. LaTeX can be directly embedded. 
