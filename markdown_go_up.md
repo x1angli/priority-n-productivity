@@ -146,7 +146,7 @@ Markdown排版利器，支持 "一键排版" 、自定义css、80多种代码高
 
 ## Markdown Extensions 
 ### Pandoc-like tools
-#### caoutchouc
+#### Caoutchouc
 A replacement for LaTeX based on Markdown and AsciiMath. LaTeX can be directly embedded. It converts .md file into .pdf file.
 Pre-requisites: node.js, pandoc 2.2.1, texlive.
  * Site: https://caoutchouc.io
@@ -208,6 +208,12 @@ The following tools loads markdown contents and renders them in HTML format
 * Link: https://hvenotes.fehey.com/
 * Sample: https://fehey.com/
 
+### API docsite generator
+#### Wizard
+Wizard是基于Laravel开发框架开发的一款开源项目（API）文档管理工具。支持Swagger，Markdown，Table 类型的文档管理，LDAP 统一身份认证，文档搜索，标签搜索
+* Sample: http://wizard.aicode.cc/
+* Site: http://futureup.tech/wizard/
+* Repo: https://github.com/mylxsw/wizard
 
 ## Markdown parsers / converters / SDKs
 
@@ -234,7 +240,13 @@ The following tools loads markdown contents and renders them in HTML format
  * http://mistune.readthedocs.io/
  * https://github.com/lepture/mistune
 
-### Markdown pitch deck (slides) generator 
+### Markdown pitch deck (slides) generator
+
+#### remark
+A simple, in-browser, markdown-driven slideshow tool. 
+ * Site: https://remarkjs.com
+ * Github Repo: https://github.com/gnab/remark
+ 
 #### markdeck
  * It converts a markdown to a clean, local-hosted, html5 slide deck (PPT-style presentation deck). It takes \*.md files in markdown format and the assets subdir and renders a html5 slidedeck, using pandoc as converter and reveal.js as the presenter framework. It's based on markdown, pandoc, reveal.js, plantuml, ditaamini, asciitosvg, graphviz, asciinema, decktape, vega-lite, mathjax-pandoc-filter, and font-awesome.
  * Link: https://arnehilmann.github.io/markdeck/
