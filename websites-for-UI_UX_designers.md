@@ -65,6 +65,10 @@ https://balsamiq.com/wireframes/
 给图片（如网页截图）加上浏览器的外壳（类似于相框的效果），既可以本地上传，也可以直接输入网址
 * https://browserframe.com/
 
+#### Cloud Maker
+Cloud Maker helps you rapidly draw beautiful, standardised cloud architecture diagrams. 画云端架构图
+https://cloudmaker.ai/
+
 #### ScreenGuru
 输入一个网址，输出一个带浏览器边框的网页截图
 * https://screen.guru/
