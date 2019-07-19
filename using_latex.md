@@ -58,8 +58,8 @@ There are a bunch of online TeX editors/IDEs: OverLeaf, ShareLaTeX
 It's recommended to use online editors to test water before you make a full plunge into your local environment. 
 
 #### OverLeaf
-(highly recommended)
-an online, collaborative LaTeX editor
+(highly recommended!)
+an open source and collaborative online LaTeX editor. It merged with ShareLaTex to form Overleaf v2. 
 https://www.overleaf.com/
 
 #### codecogs' editor
