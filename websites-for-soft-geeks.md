@@ -39,6 +39,28 @@
 输入一段英文文字，把其中非ANSI的Unicode的字符给高亮出来
 https://www.textmagic.com/free-tools/unicode-detector
 
+### PDF tools
+
+#### Smallpdf
+All-in-one easy-to-use online PDF tools
+* Link: https://smallpdf.com/
+
+#### 迅捷PDF
+All-in-one easy-to-use online PDF tools
+https://app.xunjiepdf.com/
+
+#### CloudConvert
+pdf <-> docx, etc.
+https://cloudconvert.com/pdf-to-doc
+
+#### 加加pdf
+pdf <-> docx, pdf -> jpg
+https://www.addpdf.cn/
+
+#### pdf宝
+pdf <-> docx, pdf -> xlsx, pdf -> jpg, pdf -> ppt
+http://www.pdfbao.com/
+
 ## 图片工具
 ### 动图工具
 #### nodtotherhythm
