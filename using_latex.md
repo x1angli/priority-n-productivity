@@ -61,6 +61,7 @@ It's recommended to use online editors to test water before you make a full plun
 (highly recommended!)
 an open source and collaborative online LaTeX editor. It merged with ShareLaTex to form Overleaf v2. 
 https://www.overleaf.com/
+https://github.com/overleaf/overleaf
 
 #### codecogs' editor
 https://www.codecogs.com/latex/eqneditor.php
