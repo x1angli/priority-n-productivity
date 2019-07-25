@@ -147,6 +147,10 @@ Chinese character stroke order animations and practice quizzes
 
 ### DNS类工具
 
+#### 网易DNS检测器：
+http://nstool.netease.com/
+可以检测用户本地的 DNS 的解析服务器指向
+
 #### SwitchHosts
 一款快速切换 Hosts 工具，支持 Win，Mac 和 Linux
 * Introduction: https://oldj.github.io/SwitchHosts/
