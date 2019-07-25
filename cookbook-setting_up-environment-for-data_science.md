@@ -150,10 +150,10 @@ If you're using a Windows System, you might encouter difficulties in setting the
     1.  Change the line of `#c.NotebookApp.notebook_dir = ''` to `c.NotebookApp.notebook_dir = 'c:\\your\\workbench\\'`
         1.  Remeber to remove the comment hashbang `#`
         1.  Here, there should be double slashes, since single `\` means escaping
+        1.  Also, if the config file contains non-ASCII characters, make sure the file is utf8-encoded when saved.
 1.  Then, change the shortcut of Jupyter Notebook
-    1.  go to `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Anaconda3 (64-bit)`, right-mouse-click the "Jupyter Notebook" shortcut icon and open "Properties" dialog
-    1.  In the Target field, remove `%USERPROFILE%`
-    1.  In the field of "Start in", type the same directory of `c:\your\workbench\` as abovementioned.
+    1.  go to `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Anaconda3 (64-bit)` (which is your start menu), right-mouse-click the "Jupyter Notebook" shortcut icon and open "Properties" dialog
+    1.  In the Target field, change `%USERPROFILE%` to `c:\your\workbench\`.
 1.  Done!
 
 ## Jupyter Extensions
