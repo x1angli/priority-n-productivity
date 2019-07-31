@@ -176,4 +176,9 @@ A standalone embedding of the FOSS draw.io / mxgraph package into jupyterlab
 * https://github.com/QuantStack/jupyterlab-drawio
 * https://blog.jupyter.org/a-diagram-editor-for-jupyterlab-a254121ff919
 
+## Other
+#### Grid studio
+Grid studio is a web-based spreadsheet application with full integration of the Python programming language.
+https://github.com/ricklamers/gridstudio
+Hosted Live Version: https://dashboard.gridstudio.io.
 
