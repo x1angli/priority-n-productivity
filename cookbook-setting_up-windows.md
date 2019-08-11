@@ -49,17 +49,17 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
 * New items added by [Easy Context Menu](https://chocolatey.org/packages/ecm) are "extended" item, i.e. you have to press "Shift" key while popping up the context menu to see the item. 
     * To toggle between an "extended" item and a "regular" item, simply adding or removing a string key named "Extended" in its registry editor.
 
-### What packages/software that cannot be installed by choco?
-* Instant messengers
-    * Wechat
-    * QQ International
-    * Dingtalk 
-    * AliWangwang
+### What must-have packages/software should be installed manually?
 * Downloaders: 
     * [Thunder 迅雷](http://u.xunlei.com/)
     * [百度网盘客户端](https://pandownload.com/)
 * Input Methods (IMEs) 
     * [精灵五笔](http://www.jlwubi.com/)
+* Instant messengers
+    * Wechat
+    * QQ International
+    * Dingtalk 
+    * AliWangwang    
 
 ### Other System-provisioning tools
 
