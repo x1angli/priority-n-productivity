@@ -52,7 +52,7 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
 ### What must-have packages/software should be installed manually?
 * Downloaders: 
     * [Thunder 迅雷](http://u.xunlei.com/)
-    * [百度网盘客户端](https://pandownload.com/)
+    * ~~[百度网盘客户端](https://pandownload.com/)~~
 * Input Methods (IMEs) 
     * [精灵五笔](http://www.jlwubi.com/)
 * Instant messengers
