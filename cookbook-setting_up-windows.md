@@ -10,6 +10,8 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
 
       choco install 7zip.install -y
       choco install notepadplusplus.install -y
+      choco install typora -y
+
       choco install dropbox -y
       choco install keeweb -y
       
@@ -32,7 +34,7 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
       :choco install flashplayerplugin -y
       
       choco install paint.net -y
-      choco install inkscape -y
+      :choco install inkscape -y
       
       choco install git.install -y
       choco install python3 -y
