@@ -12,36 +12,35 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
       choco install notepadplusplus.install -y
       choco install dropbox -y
       choco install keeweb -y
-
-      choco install totalcommander -y
-      choco install ccleaner -y
-      choco install ecm -y
-      choco install shmnview shellmenunew -y
+      
+      :choco install k-litecodecpackfull -y
+      choco install potplayer -y
+      
+      choco install cmder -y
+      :choco install putty.install -y
+      choco install sysinternals -y
+      
+      :choco install totalcommander -y
+      :choco install ccleaner -y
+      :choco install ecm -y
       
       choco install chrome -y
       choco install firefox -y
       choco install youtube-dl -y
 
       choco install adobereader -y
-      choco install flashplayerplugin -y
+      :choco install flashplayerplugin -y
+      
       choco install paint.net -y
       choco install inkscape -y
       
-      choco install k-litecodecpackfull -y
-      choco install potplayer -y
-      
-      choco install cmder -y
-      choco install sysinternals -y
-      choco install putty.install -y
-
       choco install git.install -y
       choco install python3 -y
       choco install golang -y
-      choco install vscode -y
       choco install jdk11 -y
-      choco install intellijidea-ultimate -y
+      :choco install intellijidea-ultimate -y
       :choco install springtoolsuite -y 
-      :choco install anaconda -y 
+      choco install anaconda -y 
 
 #### Note regarding choco
 * Potplayer does NOT ship with all the necessary codecs, so we have to install either [K-Lite Codec Pack Full](https://chocolatey.org/packages/k-litecodecpackfull) or [K-Lite Codec Pack Mega](https://chocolatey.org/packages/k-litecodecpackmega) as a complement.
