@@ -1,6 +1,6 @@
 Setting up Windows (here, I mean Windows 10) can be frustrating and time consuming. In this cookbook I will list all the trivialities I encountered when using Windows
 
-## System Setting and Cleaning
+## System Tweaking and Cleaning
 ### Win10 Initial Setup Script
 https://github.com/Disassembler0/Win10-Initial-Setup-Script
 
@@ -20,6 +20,7 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
       choco install 7zip.install -y
       choco install notepadplusplus.install -y
       choco install typora -y
+      choco install pandoc -y
 
       choco install dropbox -y
       choco install keeweb -y
