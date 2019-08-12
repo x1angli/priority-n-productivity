@@ -1,5 +1,14 @@
 Setting up Windows (here, I mean Windows 10) can be frustrating and time consuming. In this cookbook I will list all the trivialities I encountered when using Windows
 
+## System Setting and Cleaning
+### Win10 Initial Setup Script
+https://github.com/Disassembler0/Win10-Initial-Setup-Script
+
+### Nirsoft Utilities to clean "New" and Windows Explorer Context Menu
+* https://www.nirsoft.net/utils/shexview.html
+* https://www.nirsoft.net/utils/shell_menu_view.html
+* https://www.nirsoft.net/utils/shell_menu_new.html
+
 ## Windows Console-style Software Package Management
 Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of sulutions that Windows users can install software
 
@@ -50,21 +59,7 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
 * New items added by [Easy Context Menu](https://chocolatey.org/packages/ecm) are "extended" item, i.e. you have to press "Shift" key while popping up the context menu to see the item. 
     * To toggle between an "extended" item and a "regular" item, simply adding or removing a string key named "Extended" in its registry editor.
 
-### What must-have packages/software should be installed manually?
-* Downloaders: 
-    * [Thunder 迅雷](http://u.xunlei.com/)
-    * ~~[百度网盘客户端](https://pandownload.com/)~~
-* Input Methods (IMEs) 
-    * [精灵五笔](http://www.jlwubi.com/)
-* Instant messengers
-    * Wechat
-    * QQ International
-    * Dingtalk 
-    * AliWangwang    
-
-### Other System-provisioning tools
-
-#### Boxstarter (a virtual machine-like tool)
+### Boxstarter (a virtual machine-like tool)
 * Link: https://boxstarter.org/
 > Boxstarter leverages Chocolatey packages to automate the installation of software and create repeatable, scripted Windows environments. Chocolatey makes installing software very easy with no user intervention. Boxstarter enhances Chocolatey's functionality and provides an environment that is optimized for installing a complete environment on a fresh OS install, as well as some other specific scenarios.
 
@@ -78,6 +73,18 @@ scoop 通过 shim 来软链接一些应用，这样的设计让应用之间不�
 __Prerequisites__ 
 1.PowerShell >= 3
 2.Stable and reliable access to GitHub (especially in mainland China)
+
+### What must-have packages/software should be installed manually?
+* Downloaders: 
+    * [Thunder 迅雷](http://u.xunlei.com/)
+    * ~~[百度网盘客户端](https://pandownload.com/)~~
+* Input Methods (IMEs) 
+    * [精灵五笔](http://www.jlwubi.com/)
+* Instant messengers
+    * Wechat
+    * QQ International
+    * Dingtalk 
+    * AliWangwang    
 
 ## Changing Terminal Fonts
 ### Solution 1: Default code page 
@@ -113,6 +120,4 @@ The default  RGB (Red, Green, Blue) values for the foreground fonts are 192. We 
 Also, we can make the background darker by decreasing its RGB values.
 
 
-## References
-#### Win10 Initial Setup Script
-https://github.com/Disassembler0/Win10-Initial-Setup-Script
+
