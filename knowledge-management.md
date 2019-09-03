@@ -89,6 +89,7 @@ An online grammar checking, spell checking, and plagiarism detection platform
 | Tool Name      | Description | URL                        |
 |----------------|-------------|----------------------------|
 | XMind: ZEN | commercial software | https://www.xmind.net/zen/ |
+| GitMind | Web-based, 支持钉钉、微信账号捆绑 | app.gitmind.cn |
 | Freeplane      |             | https://www.freeplane.org/ |
 | 百度脑图        |             | http://naotu.baidu.com     | 
 | ProcessOn |  | https://www.processon.com/ |
