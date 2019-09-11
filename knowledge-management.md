@@ -92,6 +92,7 @@ An online grammar checking, spell checking, and plagiarism detection platform
 | GitMind | Web-based, 支持钉钉、微信账号捆绑 | app.gitmind.cn |
 | Freeplane      |             | https://www.freeplane.org/ |
 | 百度脑图        |             | http://naotu.baidu.com     | 
+| Tanguage 脑洞搜索引擎 ｜ 标签式的思维管家 | http://www.taguage.com/ |
 | ProcessOn |  | https://www.processon.com/ |
 | Coggle         |             | https://coggle.it          |   
 | Heimer         | Qt-based    | https://github.com/juzzlin/Heimer |
@@ -128,3 +129,7 @@ https://www.zippyshare.com/
 #### 云收藏
 * http://favorites.ren/
 * https://github.com/cloudfavorites/favorites-web
+
+### Uncategorized
+
+
