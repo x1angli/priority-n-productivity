@@ -2,8 +2,8 @@ Setting up Windows (here, I mean Windows 10) can be frustrating and time consumi
 
 ## System Tweaking and Cleaning
 ### Win10 Initial Setup Script
-https://github.com/x1angli/Win10-Initial-Setup-Script
-https://github.com/Disassembler0/Win10-Initial-Setup-Script
+* https://github.com/x1angli/Win10-Initial-Setup-Script
+   * Based on: https://github.com/Disassembler0/Win10-Initial-Setup-Script
 
 ### Nirsoft Utilities to clean "New" and Windows Explorer Context Menu
 * https://www.nirsoft.net/utils/shexview.html
