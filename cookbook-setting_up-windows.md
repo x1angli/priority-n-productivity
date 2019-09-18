@@ -55,6 +55,24 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
       :choco install springtoolsuite -y 
       choco install anaconda -y 
 
+### Microsoft Store
+In Microsoft Store, install following Apps
+* Developer Tools
+    * Ubuntu
+    * Windows Terminal
+    
+### Manual Installation for Chinese users
+* Downloaders: 
+    * [Thunder 迅雷](http://u.xunlei.com/)
+    * ~~[百度网盘客户端](https://pandownload.com/)~~
+* Input Methods (IMEs) 
+    * [精灵五笔](http://www.jlwubi.com/)
+* Instant messengers
+    * Wechat
+    * Dingtalk 
+    * AliWangwang
+    * QQ International
+
 #### Note regarding choco
 * Potplayer does NOT ship with all the necessary codecs, so we have to install either [K-Lite Codec Pack Full](https://chocolatey.org/packages/k-litecodecpackfull) or [K-Lite Codec Pack Mega](https://chocolatey.org/packages/k-litecodecpackmega) as a complement.
 * Here, I'd prefer the Electron Node.js based [KeeWeb](https://keeweb.info/) over the classic C# based [KeePass](https://keepass.info/)
@@ -76,17 +94,7 @@ __Prerequisites__
 1.PowerShell >= 3
 2.Stable and reliable access to GitHub (especially in mainland China)
 
-### What must-have packages/software should be installed manually?
-* Downloaders: 
-    * [Thunder 迅雷](http://u.xunlei.com/)
-    * ~~[百度网盘客户端](https://pandownload.com/)~~
-* Input Methods (IMEs) 
-    * [精灵五笔](http://www.jlwubi.com/)
-* Instant messengers
-    * Wechat
-    * QQ International
-    * Dingtalk 
-    * AliWangwang    
+
 
 ## Changing Terminal Fonts
 ### Solution 1: Default code page 
