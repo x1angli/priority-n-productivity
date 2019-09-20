@@ -118,6 +118,10 @@ Randomly generates a color (or gradient)
 jPicker - A jQuery Color Picker Plugin.
 http://www.digitalmagicpro.com/jPicker/
 
+#### 绛紫 - 中国传统颜色手册 
+中国传统颜色手册 Traditional Chinese Color Cheatsheet
+https://works.yangerxiao.com/chinese-colors/
+
 ### Icons
 #### 60 CSS arrows
 * https://freefrontend.com/css-arrows/
