@@ -60,6 +60,9 @@ In Microsoft Store, install following Apps
 * Developer Tools
     * Ubuntu
     * Windows Terminal
+    * Installation WSL 2:
+      * In PowerShell run: `wsl --set-default-version 2` 
+      * `wsl --set-version <Distro> 2` and make sure to replace `<Distro>` with the actual name of your distro. 
     
 ### Manual Installation for Chinese users
 * Downloaders: 
