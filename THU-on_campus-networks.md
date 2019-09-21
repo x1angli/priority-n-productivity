@@ -79,6 +79,7 @@ IEEE Xplore数据库提供Remote Access方式（只适合移动设备，如笔�
 
 ## Commercial Software
 ### Microsoft Windows
+Administrator Command Prompt
 ``` cmd
 slmgr.vbs /skms 166.111.5.131:1688
 slmgr.vbs /auto
