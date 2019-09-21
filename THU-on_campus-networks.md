@@ -76,3 +76,10 @@ EBSCO平台（访问指南、apk程序），库客数字音乐图书馆（访问
 IEEE Xplore数据库提供Remote Access方式（只适合移动设备，如笔记本电脑、手机等）：读者预先在校内IP范围内完成移动设备的配置，之后90天内可使用配置好的移动设备在校外访问IEEE Xplore数据库（超过90天需重新配置）。IEEE Xplore原则上不限制配置设备的台数，但建议优先配置笔记本电脑。具体配置方法请参考《IEEE Xplore的Remote Access设置》文档。
 
 参见：http://lib.tsinghua.edu.cn/database/visit_outside.html
+
+## Commercial Software
+### Microsoft Windows
+``` cmd
+slmgr.vbs /skms 166.111.5.131:1688
+slmgr.vbs /auto
+``` 
