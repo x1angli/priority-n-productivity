@@ -7,6 +7,11 @@ tons of system tools, network tools, and computer forensic software for windows
 * all made by Nirsoft
 https://www.nirsoft.net/
 
+## File System and Disk Management Tools
+#### "Everything" 
+a local file search engine that locates files and folders by filename instantly for Windows.
+https://www.voidtools.com
+
 ## Productivity Tools
 #### WOX
 Similar to [Alfred](https://www.alfredapp.com/) on Mac. It's a one-stop launcher on Windows
