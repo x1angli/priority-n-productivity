@@ -2,10 +2,6 @@
  - https://coolshell.cn/articles/19219.html
  - https://github.com/coolshellx/articles/blob/master/00-How.To.Set.Up.An.High.Efficient.Working.Enviornment.md
 
-#### bspwm
- - https://github.com/baskerville/bspwm
- - A tiling window manager based on binary space partitioning
-
 #### Vim
  - Vimgenius: http://www.vimgenius.com/
  - How To Learn Vim: A Four Week Plan
@@ -13,3 +9,11 @@
     - ` $ vimtutor`: Practice it everyday to brushup your skills. The point isn’t to memorize every single command — the point is to practice enough times until the basic navigation and editing commands are second nature.
     - vanilla vim : 
         - Consider installing auto-pairs.vim, endwise.vim (in Ruby, adds end after if, do, def, etc.), ragtag.vim (helpers for tags in HTML, erb, etc.)
+
+#### tmux
+ - Tmux Tutorial: https://leimao.github.io/blog/Tmux-Tutorial/
+
+#### bspwm
+ - https://github.com/baskerville/bspwm
+ - A tiling window manager based on binary space partitioning
+
