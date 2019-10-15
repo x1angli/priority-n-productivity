@@ -110,6 +110,19 @@ This site is a collection of generative music pieces which can be listened to. T
 
 
 ## NLP自然语言工具
+
+### 英文
+#### Grammarly
+grammarly.com
+
+#### Ludwig
+把不确定的短语或者句子输进去，它就会帮助你检索查看专业（formal）英语文章里有没有使用过这样的表达方法
+* https://ludwig.guru/
+
+#### Linggle - Language Reference Search Engines - NLPLab
+在线查询英语搭配的网站——Linggle：Linggle是一个基于网络数据集的语言搜索引擎，它能够在不同的语境下找到最正确的英语表达方式，从而帮助学习者分析更准确的英文写作建议，而且还能够根据词性来推测短句和句子，并精准地分析出完整英文句子如何撰写。包括：用星号和下划线查介词，用问号来判断介词是否多余，用斜杠来判断介词二选一选哪个
+* https://www.linggle.com/
+
 ### 翻译
 #### 深蓝英文字幕助手
 一款看美剧（英剧）学英语的字幕辅助软件，只对英文字幕中生词的注释
