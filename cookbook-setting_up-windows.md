@@ -50,7 +50,7 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
       choco install git.install -y
       choco install python3 -y
       choco install golang -y
-      choco install jdk11 -y
+      choco install openjdk -y
       :choco install intellijidea-ultimate -y
       :choco install springtoolsuite -y 
       choco install anaconda -y 
