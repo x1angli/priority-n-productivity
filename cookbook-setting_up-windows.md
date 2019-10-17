@@ -47,7 +47,8 @@ Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of s
       choco install paint.net -y
       :choco install inkscape -y
       
-      choco install git.install -y
+      :choco install git.install -y
+      :for removing file explorer's git context menu, manual installation is preferred over choco installation,  
       choco install python3 -y
       choco install golang -y
       choco install openjdk -y
