@@ -20,6 +20,10 @@
 * http://www.atool.org/
 * 在线生成高考准考证图片（用于恶搞）、生理期计算、在线查询银行卡号归属信息工具……
 
+#### Manytools
+* https://manytools.org
+* Network, CSS3 Tools, Image, HTTP, HTML & Text Tools
+
 #### nicetool
 * http://www.nicetool.net/
 * 王思聪微薄制成（用于恶搞）、对对联、姓名批量生成
