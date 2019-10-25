@@ -9,7 +9,7 @@ A very powerful  smart browser for busy people. A single place for all of your w
 * https://getstation.com/
 
 ## Note-taking tools
-* [Notion](https://www.notion.so/) a note-taking application with markdown support that also integrates TBD, task management(like Trello), wiki, and CRM. The aim is to be an all-in-one workspace for note-taking, project management and task management. It supports multiple types of embedding. 
+* [Notion](https://www.notion.so/) `Notion=Google docs+Evernote+Trello+confluence+Githubwiki+Quip`. a note-taking application with markdown support that also integrates TBD, task management(like Trello), wiki, and CRM. The aim is to be an all-in-one workspace for note-taking, project management and task management.  It supports multiple types of embedding. 
 * [Gitbook](https://www.gitbook.com/)
 * [VuePress](https://vuepress.vuejs.org/). 
 * [Notejoy](https://notejoy.com/)
@@ -52,11 +52,14 @@ An online grammar checking, spell checking, and plagiarism detection platform
 * Draw.io
    * Desktop: https://www.draw.io/
    * Online Live: https://about.draw.io/integrations/#integrations_offline
+* [Canvas](https://www.canva.com)
+   - 提供了6万套成熟、精美的设计模板，包括海报、邀请函、名片、演示文稿等等，几乎涵盖了每一个用户和生产力场景。，全部素材都可以免费使用，视觉中国和汉仪为其提供图片和字体版权支撑，可以安心使用的“真免费”设计工具。
 * [Avocode](https://avocode.com/) 
     - Open designs without design tools. Export images without preparing layers. Click on layers to get code.
 * [Figma](https://www.figma.com/)
 * Pencil
    * Desktop: https://pencil.evolus.vn/  
+   
 
 ### Process / Workflow / UML Diagram Tools
 * [ProcessOn](https://www.processon.com/)
@@ -89,11 +92,15 @@ An online grammar checking, spell checking, and plagiarism detection platform
 | Tool Name      | Description | URL                        |
 |----------------|-------------|----------------------------|
 | XMind: ZEN | commercial software | https://www.xmind.net/zen/ |
+| 百度脑图        |             | http://naotu.baidu.com     | 
+| 幕布      | 大纲笔记与思维导图 | https://mubu.com/  | 
+| ZhiMap | | http://zhimap.com/ | 
+| 凹脑图 | | https://aonaotu.com/ | 
+| MindMaster | | https://mm.edrawsoft.cn |
+| ProcessOn |  | https://www.processon.com/ |
 | GitMind | Web-based, 支持钉钉、微信账号捆绑 | app.gitmind.cn |
 | Freeplane      |             | https://www.freeplane.org/ |
-| 百度脑图        |             | http://naotu.baidu.com     | 
 | Tanguage 脑洞搜索引擎 ｜ 标签式的思维管家 | http://www.taguage.com/ |
-| ProcessOn |  | https://www.processon.com/ |
 | Coggle         |             | https://coggle.it          |   
 | Heimer         | Qt-based    | https://github.com/juzzlin/Heimer |
 | FreeMind       | Java-based  | https://sourceforge.net/projects/freemind/ |
@@ -101,8 +108,11 @@ An online grammar checking, spell checking, and plagiarism detection platform
 
    
 ### Office-like Tools  
+* 石墨文档
+* [语雀](yuque.com) 在线文档编辑与协同工具
 * [AirTable](https://airtable.com/) a spreadsheet-database hybrid, with the features of a database but applied to a spreadsheet.
    * [Smartsheet](https://www.smartsheet.com/) 
+   
 
 ## Productivity Tools
 
