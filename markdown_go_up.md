@@ -217,6 +217,11 @@ Wizard是基于Laravel开发框架开发的一款开源项目（API）文档管�
 * Site: http://futureup.tech/wizard/
 * Repo: https://github.com/mylxsw/wizard
 
+### Commercial markdown-based website generator
+#### Bitcron
+按月付费的网站生成器
+https://www.bitcron.com/
+
 ## Markdown parsers / converters / SDKs
 
 #### pandoc
