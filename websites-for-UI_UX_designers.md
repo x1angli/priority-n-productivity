@@ -178,7 +178,7 @@ https://publicdomainpictures.net/en/
 #### Lifeofpix
 
 ### Adobe Alternatives
-| Adobe Tool | Linux Alternative | 
+| Linux Alternative | Adobe Original | 
 |---|---|
 | Evince | Adobe Acrobat Reader | 
 | Pixlr / gimp | Adobe Photoshop | 
