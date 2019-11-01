@@ -176,3 +176,18 @@ https://publicdomainpictures.net/en/
 #### Ssyer
 
 #### Lifeofpix
+
+### Adobe Alternatives
+| Adobe Tool | Linux Alternative | 
+|---|---|
+| Evince | Adobe Acrobat Reader | 
+| Pixlr / gimp | Adobe Photoshop | 
+| Inkscape | Adobe Illustrator | 
+| Pinegrow Web Editor | Adobe Dreamweaver | 
+| Scribus | Adobe InDesign | 
+| digiKam | Adobe Lightroom | 
+| Webflow | Adobe Muse | 
+| Tupi | Adobe Animate | 
+| Black Magic Fusion | Adobe After Effects | 
+
+
