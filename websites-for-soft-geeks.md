@@ -162,6 +162,9 @@ Chinese character stroke order animations and practice quizzes
 自动写作文，especially useful for churning out nonsense bullshxt. 
 * https://getgetai.com
 
+#### 狗屁不通文章生成器 / BullshitGenerator
+* https://github.com/menzi11/BullshitGenerator
+* https://suulnnka.github.io/BullshitGenerator/index.html
 
 ## 网络类工具
 
