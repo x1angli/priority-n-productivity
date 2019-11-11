@@ -46,6 +46,11 @@
 输入一段英文文字，把其中非ANSI的Unicode的字符给高亮出来
 https://www.textmagic.com/free-tools/unicode-detector
 
+### 搞怪文本工具
+#### Instagram Fonts
+输入普通文本，输出fancy的x火星文和Emoji的综合体，
+https://igfonts.io/
+
 ### PDF tools
 
 #### Smallpdf
@@ -69,6 +74,15 @@ pdf <-> docx, pdf -> xlsx, pdf -> jpg, pdf -> ppt
 http://www.pdfbao.com/
 
 ## 图片工具
+
+### 搞怪图片工具
+
+#### 在线表情包制作工具
+http://www.doutula.com/maker
+
+#### 老式Nokia功能机短信图片制作器
+https://zzkia.noddl.me:8020/
+
 ### 动图工具
 #### nodtotherhythm
 让图片唱起歌来，唱歌幅度可定义，歌曲随机生成。
@@ -154,6 +168,9 @@ Chinese character stroke order animations and practice quizzes
 * DataSet: https://github.com/THUNLP-AIPoet/Datasets
 * Paper：https://github.com/THUNLP-AIPoet/PaperList
 
+#### 藏头诗
+http://www.shicimingju.com/cangtoushi/index.html
+
 #### 自动对对联
 * https://ai.binwang.me/couplet/
 * https://github.com/wb14123/seq2seq-couplet
@@ -161,6 +178,20 @@ Chinese character stroke order animations and practice quizzes
 #### Get智能写作
 自动写作文，especially useful for churning out nonsense bullshxt. 
 * https://getgetai.com
+
+### 搞怪自然语言
+
+#### Lutheran Insulter 马丁路德骂人生成器
+* http://ergofabulous.org/luther/
+
+#### 记仇生成器
+* https://jichou.shadiao.app/?from_weibo#
+
+#### 骂人生成器
+* https://nmsl.shadiao.app/
+
+#### 彩虹屁生成器（夸人的）
+* https://chp.shadiao.app/
 
 #### 狗屁不通文章生成器 / BullshitGenerator
 * https://github.com/menzi11/BullshitGenerator
