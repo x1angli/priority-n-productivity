@@ -46,6 +46,15 @@
 输入一段英文文字，把其中非ANSI的Unicode的字符给高亮出来
 https://www.textmagic.com/free-tools/unicode-detector
 
+### Regex 正则表达式工具
+#### The Regex Guide
+The Regex Guide helps you to write a regular expression matching a given string. No regular expressions knowledge required
+Regex指南帮助您编写匹配给定字符串的正则表达式。不需要正则表达式知识! 
+https://regex.guide/playground/
+
+#### regex101
+https://regex101.com/
+
 ### 搞怪文本工具
 #### Instagram Fonts
 输入普通文本，输出fancy的x火星文和Emoji的综合体，
