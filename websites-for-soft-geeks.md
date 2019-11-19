@@ -55,6 +55,11 @@ https://regex.guide/playground/
 #### regex101
 https://regex101.com/
 
+### Linux 命令工具
+#### Online AWK
+在线模拟AWK命令的结果
+https://www.outpan.com/app/7ed1cd9b2f/online-awk
+
 ### 搞怪文本工具
 #### Instagram Fonts
 输入普通文本，输出fancy的x火星文和Emoji的综合体，
