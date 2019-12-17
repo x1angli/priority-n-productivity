@@ -27,6 +27,15 @@ https://remarkableapp.github.io/
  * Site: https://markdownify.js.org
  * Github: https://github.com/amitmerchant1990/electron-markdownify
 
+### Customizable web-based WYSIWYG Editors
+#### Quill
+* https://quilljs.com/
+* Quill is a free, open source WYSIWYG editor built for the modern web. With its modular architecture and expressive API, it is completely customizable to fit any need. it's based on BSD-3-Clause. 
+
+#### CKEditor
+* https://ckeditor.com/
+* Modern JavaScript rich text editor with a modular architecture. Its clean UI and features provide the perfect WYSIWYG UX for creating semantic content. Written in ES6 with MVC architecture, custom data model, virtual DOM.
+
 ### Book writers
 
 #### Gitbook's Editor
