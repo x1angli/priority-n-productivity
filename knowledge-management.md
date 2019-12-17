@@ -12,6 +12,9 @@ A very powerful  smart browser for busy people. A single place for all of your w
 * Includes: Integrated Messenger (chat), Productive Conferences (meeting), Calendar 
 https://www.larksuite.com/
 
+#### 语雀：云端知识库
+https://www.yuque.com/
+
 ## Note-taking tools
 * [Notion](https://www.notion.so/) `Notion=Google docs+Evernote+Trello+confluence+Githubwiki+Quip`. a note-taking application with markdown support that also integrates TBD, task management(like Trello), wiki, and CRM. The aim is to be an all-in-one workspace for note-taking, project management and task management.  It supports multiple types of embedding. 
 * [Gitbook](https://www.gitbook.com/)
@@ -119,7 +122,6 @@ An online grammar checking, spell checking, and plagiarism detection platform
    
 ### Office-like Tools  
 * 石墨文档
-* [语雀](yuque.com) 在线文档编辑与协同工具
 * [AirTable](https://airtable.com/) a spreadsheet-database hybrid, with the features of a database but applied to a spreadsheet.
    * [Smartsheet](https://www.smartsheet.com/) 
    
