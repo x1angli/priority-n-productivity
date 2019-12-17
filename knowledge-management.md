@@ -8,6 +8,10 @@ A very powerful  smart browser for busy people. A single place for all of your w
 * Aggregates Google Drive, Gmail, Google Calendar, Evernote, Trello, Slack, Dropbox...etc. Almost anything that supports google account and more
 * https://getstation.com/
 
+#### Lark: Collaboration & Communication Software
+* Includes: Integrated Messenger (chat), Productive Conferences (meeting), Calendar 
+https://www.larksuite.com/
+
 ## Note-taking tools
 * [Notion](https://www.notion.so/) `Notion=Google docs+Evernote+Trello+confluence+Githubwiki+Quip`. a note-taking application with markdown support that also integrates TBD, task management(like Trello), wiki, and CRM. The aim is to be an all-in-one workspace for note-taking, project management and task management.  It supports multiple types of embedding. 
 * [Gitbook](https://www.gitbook.com/)
@@ -30,9 +34,15 @@ A very powerful  smart browser for busy people. A single place for all of your w
 
 ![Comparison Table of some note-taking tools](https://raw.githubusercontent.com/fabiospampinato/notable/master/resources/comparison/table.png)
 
+## Tagging / Sorting 
+#### Taglyst
+Automated tagging
+* http://www.taglyst.com/
+
+
 ## Writing Tools
 
-#### Other writing tools
+### Other writing tools
 ![Other writing tools](assets/writing_tools.jpg)
 
 #### Grammarly
