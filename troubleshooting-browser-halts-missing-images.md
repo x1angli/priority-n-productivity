@@ -34,9 +34,9 @@
         }
     意思就是在本地开一个DNS服务器，并且所有的结果从阿里云的DNS上读取，读取完了在本地缓存600秒（也就是10分钟）。读者可以根据自身的网络情况自行设置，本文就不再展开CoreDNS的详细设置了。
     
-    c) 把CoreDNS设置成**开机启动**,  创建一个快捷方式，目标Target为：`C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -NoLogo -NonInteractive -NoProfile -WindowStyle Hidden -Command "D:\your\path\coredns.exe"`，注意Start in这一栏要成`"D:\your\path\coredns.exe"`
+    c) 把CoreDNS设置成**开机启动**,  创建一个快捷方式，目标Target为：`C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -NoLogo -NonInteractive -NoProfile -WindowStyle Hidden -Command "D:\your\path\coredns.exe -conf D:\your\path\Corefile"`，Start in这一栏要成`"D:\your\path\coredns.exe"`
     
-    快捷方式一般是创建在在Windows的全部用户的启动组`C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp`下
+    快捷方式一般是创建在在Windows的全部用户的启动组`"%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\StartUp"`下
     
     当然，你也可以创建在当然用户的启动组，即`"%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\"`下  
     
