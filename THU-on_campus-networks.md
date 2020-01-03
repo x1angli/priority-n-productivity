@@ -27,6 +27,14 @@
 ![](assets/vpn1.png)
 ![](assets/vpn2.png)
 
+## 清华深研院的VPN
+https://vpn.sz.tsinghua.edu.cn/ 下载 EasyConnect
+由于该VPN每5分钟内无连接则断开，建议通过设置客户端 `ssh_config` 添加：
+```
+ServerAliveInterval 60
+ServerAliveCountMax 60
+```
+
 ## 清华大学校内访问IPV6网络的设置方法
 参见TUNA的教程：[清华大学ISATAP隧道信息](https://github.com/tuna/ipv6.tsinghua.edu.cn/blob/master/isatap.md)
 
