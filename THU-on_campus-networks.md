@@ -29,7 +29,7 @@
 
 ## 清华深研院的VPN
 https://vpn.sz.tsinghua.edu.cn/ 下载 EasyConnect
-由于该VPN每5分钟内无连接则断开，建议通过设置客户端 `ssh_config` 添加：
+由于该VPN每5分钟内无连接则断开，建议通过在客户机上的用户文件夹的 `ssh_config` （或Linux下的`~/.ssh/config`，或 indows下的`%USERPROFILE%\.ssh\config`） 添加：
 ```
 ServerAliveInterval 60
 ServerAliveCountMax 60
