@@ -14,6 +14,12 @@ https://github.com/LisaDziuba/Awesome-Design-Tools
 * https://tool.lu
 * 开发、站长、极客等类目的工具。包括正则表达式、html转md、sql代码在线美化、占位图片集、在线DNS查询、在线Whois查询……
 
+#### 一站式工具平台
+* https://zh.pickfrom.net/
+* 网页长截图、网页转图片
+* 视频（网页、youtube / Instagram / tiktock下载）
+* PDF 与 office系列格式互转
+
 #### nicetool
 * http://www.nicetool.net/
 * 查看本机已安装字体
