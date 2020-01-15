@@ -1,4 +1,19 @@
 ## Aggregated
+
+#### uTools
+一个桌面端（Linux, Mac, Windows）的工具大成。将生产力工具插件化。
+ - https://u.tools/download.html
+
+#### Alfred
+* Alfred boosts your efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. Features: clipboard history, snippets, file searching, web searching, calculator, spell checker, workflows
+* https://www.alfredapp.com/
+
+#### WOX
+Similar to [Alfred](https://www.alfredapp.com/) on Mac. It's a one-stop launcher on Windows
+http://www.wox.one/
+https://github.com/Wox-launcher/Wox
+(Other alternatives: altrun, Listary, [Launchy](http://www.launchy.net)
+
 #### Awesome Windows
 https://github.com/Awesome-Windows/Awesome
 
@@ -13,11 +28,7 @@ a local file search engine that locates files and folders by filename instantly 
 https://www.voidtools.com
 
 ## Productivity Tools
-#### WOX
-Similar to [Alfred](https://www.alfredapp.com/) on Mac. It's a one-stop launcher on Windows
-http://www.wox.one/
-https://github.com/Wox-launcher/Wox
-(Other alternatives: altrun, Listary, [Launchy](http://www.launchy.net)
+
 
 #### Ditto
 Multi-Clipboard
