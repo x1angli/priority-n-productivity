@@ -1,4 +1,14 @@
-## Aggregated by others
+## Aggegation Tools
+
+#### uTools
+一个桌面端（Linux, Mac, Windows）的工具大成。将生产力工具插件化。比Alfred强
+ - https://u.tools/download.html
+
+#### Alfred
+* Alfred boosts your efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. Features: clipboard history, snippets, file searching, web searching, calculator, spell checker, workflows
+* https://www.alfredapp.com/
+
+## Awesome Mac Tools
 
 #### Awesome Mac
 https://wangchujiang.com/awesome-mac/
@@ -23,10 +33,6 @@ Display macOS Dock in Touch Bar
 Bear is a focused, flexible writing app 
 * https://apps.apple.com/us/app/bear/id1016366447
 
-
-#### Alfred
-* Alfred boosts your efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. Features: clipboard history, snippets, file searching, web searching, calculator, spell checker, workflows
-* https://www.alfredapp.com/
 
 #### chunkwm
 tiling window manager for macOS
