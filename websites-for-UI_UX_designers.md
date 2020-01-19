@@ -198,6 +198,6 @@ https://publicdomainpictures.net/en/
 
 ### Misc.
 #### Nototo 
-Nototo allows you to customize your note world with objects like trees, flowers, lighthouses, and many more! It's a map-style note visualization tool
+Nototo allows you to customize your note world with objects like trees, flowers, lighthouses, and many more! It's a map-style note visualization tool. It accepts OneNote as input. 
 https://www.nototo.app/
 
