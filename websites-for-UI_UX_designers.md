@@ -196,4 +196,8 @@ https://publicdomainpictures.net/en/
 | Tupi | Adobe Animate | 
 | Black Magic Fusion | Adobe After Effects | 
 
+### Misc.
+#### Nototo 
+Nototo allows you to customize your note world with objects like trees, flowers, lighthouses, and many more! It's a map-style note visualization tool
+https://www.nototo.app/
 
