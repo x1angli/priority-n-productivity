@@ -44,6 +44,11 @@ tiling window manager for macOS
 不止於拼音、注音、倉頡、速成、五筆、雙拼、宮保拼音、粵拼、吳語、中古漢語拼音、五筆畫、Emoji、國際音標……
 https://rime.im/
 
+### File Managers
+#### Marta
+https://marta.yanex.org/
+
+
 ### Network Tools
 
 #### Motrix
