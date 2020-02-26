@@ -5,6 +5,10 @@
 #### Awesome Design Tools
 https://github.com/LisaDziuba/Awesome-Design-Tools
 
+#### pickfree资源导航
+* http://www.pickfree.cn/
+图片字体音频视频素材、工具
+
 #### 289w导航
 * http://www.289w.com/index.php?m=Index&a=design
 设计类网站集合，字体设计、配色方案、资源下载、网站模板、平面设计
