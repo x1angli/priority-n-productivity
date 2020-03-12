@@ -118,6 +118,10 @@ https://www.onlineocr.net/
 一个拍照做题程序。输入一张包含数学计算题的图片，输出识别出的数学计算式以及计算结果。
 https://github.com/Roujack/mathAI
 
+#### 轻量级的中文OCR
+基于chineseocr 与psenet 实现中文自然场景文字检测及识别
+支持横排，竖排，多块文字混合
+https://github.com/ouyanghuiyu/chineseocr_lite
 
 ### 图片生成工具 / Picture generation tools  
 
