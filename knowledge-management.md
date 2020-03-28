@@ -15,13 +15,6 @@ https://www.larksuite.com/
 #### 语雀：云端知识库
 https://www.yuque.com/
 
-#### Zotero
-personal research assistant that helps collect, organize, cite, and share research.
-https://www.zotero.org/
-
-#### Zotero Blib
-Academic bibliography management tool
-https://zbib.org/
 
 ## Note-taking tools
 * [Notion](https://www.notion.so/) `Notion=Google docs+Evernote+Trello+confluence+Githubwiki+Quip`. a note-taking application with markdown support that also integrates TBD, task management(like Trello), wiki, and CRM. The aim is to be an all-in-one workspace for note-taking, project management and task management.  It supports multiple types of embedding. 
