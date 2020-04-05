@@ -1,87 +1,11 @@
 Setting up Windows (here, I mean Windows 10) can be frustrating and time consuming. In this cookbook I will list all the trivialities I encountered when using Windows
 
-## System Tweaking and Cleaning
-### Win10 Initial Setup Script
-* https://github.com/x1angli/Win10-Initial-Setup-Script
-   * Based on: https://github.com/Disassembler0/Win10-Initial-Setup-Script
-
-### Nirsoft Utilities to clean "New" and Windows Explorer Context Menu
-* https://www.nirsoft.net/utils/shexview.html
-* https://www.nirsoft.net/utils/shell_menu_view.html
-* https://www.nirsoft.net/utils/shell_menu_new.html
-
-## Windows Console-style Software Package Management
-Windows users envy Mac's homebrew and Linux's apt and yum. Here are a bunch of sulutions that Windows users can install software
-
-### Chocolatey
-* Link: https://chocolatey.org/
-
-* List of my software packages
-
-      choco install 7zip.install -y
-      choco install notepadplusplus.install -y
-      choco install typora -y
-      choco install pandoc -y
-
-      choco install dropbox -y
-      choco install keeweb -y
-      
-      :choco install k-litecodecpackfull -y
-      choco install potplayer -y
-      
-      choco install cmder -y
-      :choco install putty.install -y
-      choco install sysinternals -y
-      
-      :choco install totalcommander -y
-      :choco install ccleaner -y
-      :choco install ecm -y
-      
-      choco install chrome -y
-      choco install firefox -y
-      choco install youtube-dl -y
-
-      choco install adobereader -y
-      :choco install flashplayerplugin -y
-      
-      choco install paint.net -y
-      :choco install inkscape -y
-      
-      :choco install git.install -y
-      :for removing file explorer's git context menu, manual installation is preferred over choco installation,  
-      choco install python3 -y
-      choco install golang -y
-      choco install openjdk -y
-      :choco install intellijidea-ultimate -y
-      :choco install springtoolsuite -y 
-      choco install anaconda -y 
-
-### Microsoft Store
-In Microsoft Store, install following Apps
-* Developer Tools
-    * Ubuntu
-    * Windows Terminal
-    * Installation WSL 2:
-      * In PowerShell run: `wsl --set-default-version 2` 
-      * `wsl --set-version <Distro> 2` and make sure to replace `<Distro>` with the actual name of your distro. 
-    
-### Manual Installation for Chinese users
-* Downloaders: 
-    * [Thunder 迅雷](http://u.xunlei.com/)
-    * ~~[百度网盘客户端](https://pandownload.com/)~~
-* Input Methods (IMEs) 
-    * [精灵五笔](http://www.jlwubi.com/)
-* Instant messengers
-    * Wechat
-    * Dingtalk 
-    * AliWangwang
-    * QQ International
-
 #### Note regarding choco
 * Potplayer does NOT ship with all the necessary codecs, so we have to install either [K-Lite Codec Pack Full](https://chocolatey.org/packages/k-litecodecpackfull) or [K-Lite Codec Pack Mega](https://chocolatey.org/packages/k-litecodecpackmega) as a complement.
 * Here, I'd prefer the Electron Node.js based [KeeWeb](https://keeweb.info/) over the classic C# based [KeePass](https://keepass.info/)
 * New items added by [Easy Context Menu](https://chocolatey.org/packages/ecm) are "extended" item, i.e. you have to press "Shift" key while popping up the context menu to see the item. 
     * To toggle between an "extended" item and a "regular" item, simply adding or removing a string key named "Extended" in its registry editor.
+    
 
 ### Boxstarter (a virtual machine-like tool)
 * Link: https://boxstarter.org/
@@ -98,7 +22,7 @@ __Prerequisites__
 1.PowerShell >= 3
 2.Stable and reliable access to GitHub (especially in mainland China)
 
-
+    
 
 ## Changing Terminal Fonts
 ### Solution 1: Default code page 
