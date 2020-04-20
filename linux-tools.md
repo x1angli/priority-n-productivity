@@ -10,6 +10,7 @@
 #### Vim
  - Vimgenius: http://www.vimgenius.com/
  - Janus: https://github.com/carlhuda/janus
+ - Should I use Vim full-time? https://matthewmullin.io/should-i-use-vim/
  - How To Learn Vim: A Four Week Plan
  https://medium.com/actualize-network/how-to-learn-vim-a-four-week-plan-cd8b376a9b85
     - ` $ vimtutor`: Practice it everyday to brushup your skills. The point isn’t to memorize every single command — the point is to practice enough times until the basic navigation and editing commands are second nature.
