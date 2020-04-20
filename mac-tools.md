@@ -107,4 +107,7 @@ https://ohmyz.sh/
 * Homebrew: `brew install mas`
 A simple command line interface for the Mac App Store. Designed for scripting and automation.
 
-
+### Dev Tools
+#### TablePlus 
+Modern, Native Tool for Database Management. Supports PostgreSQL, MySQL, SQL Server, Amazon Redshift, SQLite, MariaDB
+https://tableplus.com/
