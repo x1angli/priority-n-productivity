@@ -5,9 +5,11 @@
 #### 打造高效的工作环境 – SHELL 篇
  - https://coolshell.cn/articles/19219.html
  - https://github.com/coolshellx/articles/blob/master/00-How.To.Set.Up.An.High.Efficient.Working.Enviornment.md
+ - https://hashnode.com/post/ohmyzsh-and-janus-set-up-productive-work-environment-in-10-minutes-or-less-ck8u1cjsi00l8bzs1ux2r9pnq
 
 #### Vim
  - Vimgenius: http://www.vimgenius.com/
+ - Janus: https://github.com/carlhuda/janus
  - How To Learn Vim: A Four Week Plan
  https://medium.com/actualize-network/how-to-learn-vim-a-four-week-plan-cd8b376a9b85
     - ` $ vimtutor`: Practice it everyday to brushup your skills. The point isn’t to memorize every single command — the point is to practice enough times until the basic navigation and editing commands are second nature.
