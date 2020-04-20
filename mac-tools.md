@@ -87,6 +87,10 @@ https://www.snipaste.com/
 See Power Up Your Command Line: 
 * https://darrenburns.net/posts/tools/, https://darrenburns.net/posts/more-tools, https://darrenburns.net/posts/even-more-tools
 
+#### Oh My ZSH!
+https://ohmyz.sh/
+* Github: https://github.com/ohmyzsh/ohmyzsh/
+
 #### z
 * Quickly find the path that matches your expectation without the hectic of nested `cd`s 
 * Github: https://github.com/jethrokuan/z
