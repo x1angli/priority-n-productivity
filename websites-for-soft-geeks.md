@@ -247,7 +247,12 @@ http://nstool.netease.com/
 * 输出结果数据: 
     * https://github.com/x1angli/regional-ip-addresses/blob/master/output/CN-ipv4.txt
     * https://github.com/x1angli/regional-ip-addresses/blob/master/output/CN-ipv6.txt
-    
+
+### baidu下载工具
+* https://github.com/lpg-it/BaiduYunVIP
+* https://github.com/TkzcM/pandownload-fake-server
+* https://github.com/VIP-Share/Baidu-XunleiVIP
+
 ### 音视频下载工具
 
 #### iiiLab视频解析站
