@@ -160,6 +160,14 @@ This site is a collection of generative music pieces which can be listened to. T
 * https://github.com/generative-music/generative.fm
 
 
+### 语音识别
+
+#### Subtitles-View
+基于javaFX的简单字幕处理桌面程序，集成在线翻译及语音转换
+将美剧/视频中的声音识别成时间轴字幕，使用了讯飞语音转写作为语音识别，而讯飞语音转写是一款付费服务，有30天内5小时的免费体验时间，以及1年内20小时套餐（价格198元）。
+https://github.com/fordes123/Subtitles-View
+https://meta.appinn.net/t/topic/15333
+
 ## NLP自然语言工具
 
 ### 英文
@@ -175,9 +183,13 @@ grammarly.com
 * https://www.linggle.com/
 
 ### 翻译
+
+
+
 #### 深蓝英文字幕助手
 一款看美剧（英剧）学英语的字幕辅助软件，只对英文字幕中生词的注释
 词性判断和注释预判，柯林斯词频分级方式，方便为用户初始化词汇量
+https://github.com/studyzy/LearnEnglishBySubtitle
 
 ### 中文
 #### 汉字笔画书写顺序 
