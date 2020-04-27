@@ -2,6 +2,12 @@
 一个桌面端（Linux, Mac, Windows）的工具大成。将生产力工具插件化
  - https://u.tools/download.html
 
+####  Linux 命令速查手册
+数据取自 linuxde.net 
+除了网站 https://git.io/linux 和命令行工具外，还支持作为以下工具的插件 
+Dash | Alfred | Krunner | Chrome Plugin  
+https://github.com/jaywcjlove/linux-command
+
 #### 打造高效的工作环境 – SHELL 篇
  - https://coolshell.cn/articles/19219.html
  - https://github.com/coolshellx/articles/blob/master/00-How.To.Set.Up.An.High.Efficient.Working.Enviornment.md
