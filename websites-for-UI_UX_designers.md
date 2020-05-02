@@ -61,9 +61,26 @@ It's intended for software translators, product developers or people who has i18
 * https://plugins.jetbrains.com/plugin/11567-i18n-robot
 
 ### 在线图片小工具
+#### 在线水印管家
+在线去图片中的水印
+https://www.apowersoft.cn/online-watermark-remover
+
+#### 在线图片压缩
+https://tinypng.com/
+
 #### carbon
 * https://carbon.now.sh
 * 给一段代码高亮（支持N种语言的语法），并在背景上加上阴影（装X必备）
+
+### QR Code Generator
+#### 草料二维码生成器：
+https://cli.im/
+
+#### 微微在线二维码生成器：
+http://www.wwei.cn/
+
+#### 联图网二维码生成器：
+https://www.liantu.com/
 
 ### Wireframing
 
@@ -115,10 +132,14 @@ https://hatchful.shopify.com/
 * How it works: https://medium.freecodecamp.org/how-you-can-train-an-ai-to-convert-your-design-mockups-into-html-and-css-cc7afd82fed4
 
 
-### Color pallets
+### Color pallets / Color Schemes
 #### Top 12 Web-Based Color Tools for Web Designers
 * https://1stwebdesigner.com/web-based-color-tools/
 * https://zhuanlan.zhihu.com/p/56525701
+
+#### Color Scheme Designer
+一个在线的配色工具
+http://www.peise.net/tools/web/
 
 #### Color Picker
 pick a suite of colors for an integrated theme
@@ -170,7 +191,14 @@ www.51yuansu.com
 60,000 royalty-free clip art, SVG, vector images  in public domain
 https://publicdomainvectors.org/
 
+#### 泼辣有图
+http://www.polayoutu.com/collections
 
+#### Hippopx：
+https://www.hippopx.com/zh/
+
+#### Pickpik：
+http://pickpik.com/
 
 #### Pixnio
 Public Domain Images
