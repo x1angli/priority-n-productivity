@@ -192,6 +192,9 @@ grammarly.com
 https://github.com/studyzy/LearnEnglishBySubtitle
 
 ### 中文
+#### 汉字转拼音 
+* https://github.com/mozillazg/python-pinyin
+
 #### 汉字笔画书写顺序 
 Chinese character stroke order animations and practice quizzes
 * https://chanind.github.io/hanzi-writer
