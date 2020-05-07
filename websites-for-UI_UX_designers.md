@@ -72,6 +72,10 @@ https://tinypng.com/
 * https://carbon.now.sh
 * 给一段代码高亮（支持N种语言的语法），并在背景上加上阴影（装X必备）
 
+#### 
+* https://github.com/saurabhdaware/text-to-handwriting
+* a tool that converts text to an image that looks like handwriting😛
+
 ### QR Code Generator
 #### 草料二维码生成器：
 https://cli.im/
