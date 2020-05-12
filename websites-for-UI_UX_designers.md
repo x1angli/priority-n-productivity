@@ -223,6 +223,12 @@ https://publicdomainpictures.net/en/
 
 #### Lifeofpix
 
+### InfoGraphics / Data Visualization 数据可视化
+
+#### Bar Chart Race
+通过pandas DataFrame中的数据制做柱状图赛跑动图
+https://github.com/dexplo/bar_chart_race
+
 ### Adobe Alternatives
 | Linux Alternative | Adobe Original | 
 |---|---|
