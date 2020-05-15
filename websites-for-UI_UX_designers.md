@@ -9,6 +9,12 @@ https://github.com/LisaDziuba/Awesome-Design-Tools
 * http://www.pickfree.cn/
 图片字体音频视频素材、工具
 
+#### 优设
+* www.uisdc.com
+
+#### 设计导航
+* http://hao.shejidaren.com
+
 #### 289w导航
 * http://www.289w.com/index.php?m=Index&a=design
 设计类网站集合，字体设计、配色方案、资源下载、网站模板、平面设计
@@ -46,6 +52,31 @@ https://github.com/LisaDziuba/Awesome-Design-Tools
 * https://www.bejson.com/
 json检验、json高亮、MD5加密、Base64编解码、escape、URL编解码……
 
+### diagrams
+#### Cloud Maker
+Cloud Maker helps you rapidly draw beautiful, standardised cloud architecture diagrams. '
+画云端架构图
+https://cloudmaker.ai/
+
+
+### text to images
+
+#### Word Cloud Art
+online word cloud art creator
+https://wordart.com/
+
+#### text to handwriting
+* https://github.com/saurabhdaware/text-to-handwriting
+* a tool that converts text to an image that looks like handwriting😛
+
+#### Nototo 
+Nototo allows you to customize your note world with objects like trees, flowers, lighthouses, and many more! It's a map-style note visualization tool. It accepts OneNote as input. 
+https://www.nototo.app/
+
+#### carbon
+* https://carbon.now.sh
+* 给一段代码高亮（支持N种语言的语法），并在背景上加上阴影（装X必备）
+
 ### 地理工具
 
 #### FUNNYAPI
@@ -68,13 +99,6 @@ https://www.apowersoft.cn/online-watermark-remover
 #### 在线图片压缩
 https://tinypng.com/
 
-#### carbon
-* https://carbon.now.sh
-* 给一段代码高亮（支持N种语言的语法），并在背景上加上阴影（装X必备）
-
-#### 
-* https://github.com/saurabhdaware/text-to-handwriting
-* a tool that converts text to an image that looks like handwriting😛
 
 ### QR Code Generator
 #### 草料二维码生成器：
@@ -100,9 +124,6 @@ https://balsamiq.com/wireframes/
 给图片（如网页截图）加上浏览器的外壳（类似于相框的效果），既可以本地上传，也可以直接输入网址
 * https://browserframe.com/
 
-#### Cloud Maker
-Cloud Maker helps you rapidly draw beautiful, standardised cloud architecture diagrams. 画云端架构图
-https://cloudmaker.ai/
 
 #### ScreenGuru
 输入一个网址，输出一个带浏览器边框的网页截图
@@ -127,6 +148,10 @@ https://logojoy.com/
 #### Hatchful 
 https://hatchful.shopify.com/
 
+#### Trianglify
+generate low-poly backgrounds, textures, and vectors
+https://trianglify.io/
+
 #### LOGO控 / Logoko
 * Link: https://www.logoko.com.cn/
 
@@ -140,6 +165,9 @@ https://hatchful.shopify.com/
 #### Top 12 Web-Based Color Tools for Web Designers
 * https://1stwebdesigner.com/web-based-color-tools/
 * https://zhuanlan.zhihu.com/p/56525701
+
+#### 网页设计常用色彩搭配表
+tool.c7sky.com/webcolor
 
 #### Color Scheme Designer
 一个在线的配色工具
@@ -186,6 +214,9 @@ https://imgflip.com/memetemplates
 
 ### Pictures, SVGs
 
+#### 站酷
+www.zcool.com.cn
+
 #### Unsplash
 wall paper photos
 https://unsplash.com/search/photos/wallpaper
@@ -228,11 +259,35 @@ https://publicdomainpictures.net/en/
 
 #### Lifeofpix
 
+#### stocksnap
+高质量图库，无须注册
+stocksnap.io
+
+### PPT Slides Gallery
+#### 演界网
+PPT模板
+www.yanj.cn
+
+#### 锐普PPT
+www.rapidbbs.cn
+
+#### PPTSTORE
+www.pptstore.net
+
+#### OfficePLUS
+www.officeplus.cn
+
+#### 58pic
+www.58pic.com/tupian/ppt.html
+
 ### InfoGraphics / Data Visualization 数据可视化
 
 #### Bar Chart Race
 通过pandas DataFrame中的数据制做柱状图赛跑动图
 https://github.com/dexplo/bar_chart_race
+
+#### statsilk
+www.statsilk.com
 
 ### Adobe Alternatives
 | Linux Alternative | Adobe Original | 
@@ -248,7 +303,5 @@ https://github.com/dexplo/bar_chart_race
 | Black Magic Fusion | Adobe After Effects | 
 
 ### Misc.
-#### Nototo 
-Nototo allows you to customize your note world with objects like trees, flowers, lighthouses, and many more! It's a map-style note visualization tool. It accepts OneNote as input. 
-https://www.nototo.app/
+
 
