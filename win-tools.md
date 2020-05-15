@@ -73,6 +73,10 @@ http://www.screentogif.com/
 Animated screen captures and save them directly to .GIF
 http://www.cockos.com/licecap/
 
+#### Loom
+Easily record your screen or a specific app, with or without your camera.
+Loom是一款能帮助你快速录制视频的 Chrome视频录制插件 ，既可以录视频的同时采集摄像头
+https://www.loom.com/
 
 ### Image Uploading
 #### PicGo （图床）
