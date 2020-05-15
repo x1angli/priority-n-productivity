@@ -117,6 +117,13 @@ Markdown排版利器，支持 "一键排版" 、自定义css、80多种代码高
 
 ### others
 
+
+#### cacher.io
+a cloud-based commercial team-wide markdown-based snippet organizer
+supports taggging, images, attachment files
+client side supports Windows, Linux, macOS
+https://www.cacher.io/
+
 #### Fidus Writer
  * an online collaborative editor especially made for academics who need to use citations and/or formulas  that supports citations,  semantic editing and publishing in multiple locations. It's backed by Python.
  * This extension only styles the markdown preview. Use this extension pack to add support for other Github-specific markdown features
