@@ -73,7 +73,7 @@ https://www.codecogs.com/latex/eqneditor.php
 A powerful collaborative publishing platform for research articles, data, figures, preprints (though not dedicated for LaTex)
 https://www.authorea.com/
 
-## Setting up TUNA
+#### Setting up TUNA
 
 Assuming you are using Tex Live
 * Start menu -> Tex Live Manager
@@ -81,16 +81,24 @@ Assuming you are using Tex Live
 * Run the command  `tlmgr install <pkgname>`
 
 
-## Processing Chinese in TeX
+#### Processing Chinese in TeX
 
 * Use XeLaTeX
 * Forget CJK, use UTF-8 or Unicode instead
 * Install and use ctex macro package (here, "ctex" is a macro's name, it's not the CTeX compiler.
 
-## Using LaTeX on your website
+### Using LaTeX on your website
 Here are a list of math typesetting tools for the web
 * Katex: https://katex.org/, https://github.com/KaTeX/KaTeX
 * MathJax: https://www.mathjax.org/, https://github.com/mathjax/mathjax
+
+### Convert Latex to HTML
+#### tex4ht / htlatex
+
+#### LaTeX to HTML5
+Latex to HTML5 Conversion for Scientific Papers
+Latex到HTML5格式的转换开源工具
+* https://github.com/smarr/latex-to-html5
 
 ### Vim and Latex
 #### Taking math notes using Vim and Latex
