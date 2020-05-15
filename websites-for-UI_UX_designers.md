@@ -289,6 +289,11 @@ https://github.com/dexplo/bar_chart_race
 #### statsilk
 www.statsilk.com
 
+#### Pixel Map Generator
+世界地图（国家为粒度）可视图展示工具
+可选择全世界或者某一国家地区，适合于展示地图辅助说明，支持添加各种背景颜色、形状等矢量图，支持调整大小间隔，支持添加文字等等
+https://pixelmap.amcharts.com/
+
 ### Adobe Alternatives
 | Linux Alternative | Adobe Original | 
 |---|---|
