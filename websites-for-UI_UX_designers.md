@@ -52,12 +52,6 @@ https://github.com/LisaDziuba/Awesome-Design-Tools
 * https://www.bejson.com/
 json检验、json高亮、MD5加密、Base64编解码、escape、URL编解码……
 
-### diagrams
-#### Cloud Maker
-Cloud Maker helps you rapidly draw beautiful, standardised cloud architecture diagrams. '
-画云端架构图
-https://cloudmaker.ai/
-
 
 ### text to images
 
@@ -69,9 +63,6 @@ https://wordart.com/
 * https://github.com/saurabhdaware/text-to-handwriting
 * a tool that converts text to an image that looks like handwriting😛
 
-#### Nototo 
-Nototo allows you to customize your note world with objects like trees, flowers, lighthouses, and many more! It's a map-style note visualization tool. It accepts OneNote as input. 
-https://www.nototo.app/
 
 #### carbon
 * https://carbon.now.sh
