@@ -1,3 +1,7 @@
+## LaTex Community
+https://www.latexstudio.net/
+https://wenda.latexstudio.net/
+
 ## Which TeX system to choose?
 
 There are a plethora of [La]Tex systems, such as TeXStudio, Tex Live, MacTeX, CTeX (obsolete), MiKTeX (obsolete).
@@ -8,7 +12,6 @@ __TeX Live__  is highly recommended
     * Download Links
         * Windows: https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/texlive.iso
         * Mac: https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/mac/mactex/MacTeX.pkg
-
 
 ## What is a TeX editor? 
 
@@ -149,3 +152,10 @@ Pre-requisites: node.js, pandoc 2.2.1, texlive.
 JupyterLab extension for live editing of LaTeX documents
 Pre-requisites: JupyterLab, Python >= 3.6, any Latex compilor 
  * Source Repo: https://github.com/jupyterlab/jupyterlab-latex
+
+
+## Archived 
+
+#### ctex
+大约在 2003年左右建设起来的，目前ctex关掉了论坛部分，主要活跃在github
+https://github.com/CTeX-org
