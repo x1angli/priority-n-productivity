@@ -98,6 +98,9 @@ An online grammar checking, spell checking, and plagiarism detection platform
    * Online Live: https://online.visual-paradigm.com   
 * Creately
    * Online Live: https://creately.com/
+* websequencediagrams
+   * 在线画时序图
+   * Online Live: https://www.websequencediagrams.com/
 * [Graphviz](https://www.graphviz.org/)
    * Desktop (Win, Mac, Ubuntu, Fedora, etc.) https://www.graphviz.org/download/
    - An open source graph visualization software representing structural information as diagrams of abstract graphs and networks. It has important applications in networking, bioinformatics,  software engineering, and other technical domains
