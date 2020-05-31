@@ -226,9 +226,9 @@ http://www.shicimingju.com/cangtoushi/index.html
 
 #### 微软爱写作（Microsoft Aim Writing）
 智能评估、一键纠正。支持小学、中考、高考、四级、六级、考研、托福、雅思 等不同的考试类型，且区分相应的评分标准，这样的评分更有针对性。
-aka.ms/zuowen
+* https://aka.ms/zuowen
 或
-https://aimwriting.mtutor.engkoo.com/
+* https://aimwriting.mtutor.engkoo.com/
 
 #### 秘塔写作猫（商业）
 形近字纠错，同音字纠错，用词改进，语法改进
