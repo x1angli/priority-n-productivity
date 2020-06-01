@@ -189,6 +189,11 @@ https://works.yangerxiao.com/chinese-colors/
 * https://iconscout.com/unicons
 
 ### Fonts
+
+#### 1001 Fonts
+https://www.1001fonts.com/
+
+
 #### ColorSpark
 Renders your specified text in a randomly picked typeface
 * https://fontspark.app/
