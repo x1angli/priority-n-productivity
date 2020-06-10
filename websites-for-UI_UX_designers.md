@@ -193,6 +193,8 @@ https://works.yangerxiao.com/chinese-colors/
 #### 1001 Fonts
 https://www.1001fonts.com/
 
+#### 字由
+https://www.hellofont.cn/
 
 #### ColorSpark
 Renders your specified text in a randomly picked typeface
