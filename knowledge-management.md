@@ -110,6 +110,11 @@ Cloud Maker helps you rapidly draw beautiful, standardised cloud architecture di
 画云端架构图
 https://cloudmaker.ai/
 
+#### Penrose 
+create beautiful math diagrams just by typing mathematical notation (DSL etc) in plain text
+https://github.com/penrose/penrose
+http://penrose.ink/siggraph20.html
+
 #### Nototo 
 Nototo allows you to customize your note world with objects like trees, flowers, lighthouses, and many more! It's a map-style note visualization tool. It accepts OneNote as input. 
 https://www.nototo.app/
