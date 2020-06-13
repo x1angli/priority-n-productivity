@@ -151,6 +151,13 @@ https://hatchful.shopify.com/
 * Engine: https://github.com/NVlabs/stylegan
 
 ## 声音工具
+
+### TTS
+#### Transformer TTS
+A Text-to-Speech Transformer in TensorFlow 2
+https://as-ideas.github.io/TransformerTTS/
+https://github.com/as-ideas/TransformerTTS
+
 ### 声音生成工具
 
 #### generative.fm
