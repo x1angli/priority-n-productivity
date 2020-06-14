@@ -213,6 +213,10 @@ Chinese character stroke order animations and practice quizzes
 * https://shici.store/huajianji/
 * https://github.com/chinese-poetry/chinese-poetry
 
+#### MARKUS
+中文韩文的时名、地名、人名、机构名……的自动标注
+* https://dh.chinese-empires.eu/markus/beta/
+
 #### THUAIPoet 九歌
 计算机诗词创作系统  by 清华大学自然语言处理与社会人文计算实验室 
 * Live: https://jiuge.thunlp.cn/
