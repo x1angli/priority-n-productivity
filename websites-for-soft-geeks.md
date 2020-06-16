@@ -72,7 +72,7 @@ https://www.outpan.com/app/7ed1cd9b2f/online-awk
 输入普通文本，输出fancy的x火星文和Emoji的综合体，
 https://igfonts.io/
 
-### PDF tools
+## PDF tools
 
 #### Smallpdf
 All-in-one easy-to-use online PDF tools
@@ -82,17 +82,60 @@ All-in-one easy-to-use online PDF tools
 All-in-one easy-to-use online PDF tools
 https://app.xunjiepdf.com/
 
-#### CloudConvert
-pdf <-> docx, etc.
-https://cloudconvert.com/pdf-to-doc
+#### PDFCandy
+https://pdfcandy.com
+
+#### PDF.io
+https://pdf.io
+
+#### pdfdo
+http://www.pdfdo.com/ 
+多功能在线处理pdf的网站，(部分功能付费)
+
+#### PDF文档在线生成
+http://cn.createpdfonline.org/
+
+#### ExtractPDF
+将 PDF 文档中的图片、文字以及内嵌字体批量提取出来保存的网站
+http://www.extractpdf.com/
+
+#### PDF Hammer
+可合并多个 PDF ；可以调整某个 PDF 的任意一页到任意位置；不同的文件可用不同的颜色标记，
+http://www.editpdf.com/ 
+
+#### 其它
+http://www.splitpdfonline.com/
+http://www.pdfprotect.net/
+http://www.pdfcompress.com/
+http://www.pdfmerge.com/
+http://www.pdfunlock.com/
+
+### PDF Convert tools
 
 #### 加加pdf
 pdf <-> docx, pdf -> jpg
 https://www.addpdf.cn/
 
+#### CloudConvert
+pdf <-> docx, etc.
+https://cloudconvert.com/pdf-to-doc
+
 #### pdf宝
 pdf <-> docx, pdf -> xlsx, pdf -> jpg, pdf -> ppt
 http://www.pdfbao.com/
+
+#### 其它
+http://www.htmlpdf.com/
+http://www.htm2pdf.co.uk/
+http://www.free-pdftoword.com/ 
+http://www.freepdfconvert.com/pdf-word 
+http://www.pdfonline.com/pdf-to-word-converter/ 
+http://www.convertii.com/
+https://cn.office-converter.com
+https://cloudconvert.com/
+https://document.online-convert.com/
+http://toepub.com/ 
+
 
 ## 图片工具
 
