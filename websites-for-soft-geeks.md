@@ -92,6 +92,10 @@ https://pdf.io
 http://www.pdfdo.com/ 
 多功能在线处理pdf的网站，(部分功能付费)
 
+#### PDF Hammer
+可合并多个 PDF ；可以调整某个 PDF 的任意一页到任意位置；不同的文件可用不同的颜色标记，
+http://www.editpdf.com/ 
+
 #### PDF文档在线生成
 http://cn.createpdfonline.org/
 
@@ -99,9 +103,10 @@ http://cn.createpdfonline.org/
 将 PDF 文档中的图片、文字以及内嵌字体批量提取出来保存的网站
 http://www.extractpdf.com/
 
-#### PDF Hammer
-可合并多个 PDF ；可以调整某个 PDF 的任意一页到任意位置；不同的文件可用不同的颜色标记，
-http://www.editpdf.com/ 
+#### DocSpring 
+Fill out PDF forms programmatically with restful APIs
+通过Restful API来自动化地填PDF的表单并批量生成PDF（付费）
+https://docspring.com/
 
 #### 其它
 http://www.splitpdfonline.com/
