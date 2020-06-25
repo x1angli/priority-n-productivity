@@ -77,7 +77,15 @@ An online grammar checking, spell checking, and plagiarism detection platform
    
 
 ### Process / Workflow / UML Diagram Tools
-* [ProcessOn](https://www.processon.com/)
+#### ProcessOn
+在线协作作图 支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图
+https://www.processon.com/
+
+#### PlantUML
+Easily create beautiful UML Diagrams from simple textual description
+http://www.plantuml.com/plantuml/
+https://plantuml.com/download
+
 * [yEd](https://www.yworks.com/products/yed)
    * Desktop: https://www.yworks.com/products/yed
    * Online Live: https://www.yworks.com/products/yed-live
@@ -87,13 +95,8 @@ An online grammar checking, spell checking, and plagiarism detection platform
    * Desktop: https://inkscape.org/
 * Whimsical
    * Online Live: https://whimsical.co/   
-* PlantUML
-   * Online Live: http://www.plantuml.com/plantuml/
 * 迅捷画图
    * Online Live: https://www.liuchengtu.com/
-* ProcessON
-   * Online Live: https://www.processon.com/
-   * 在线协作作图 支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图
 * Visual Paradigm Online
    * Online Live: https://online.visual-paradigm.com   
 * Creately
