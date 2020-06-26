@@ -62,6 +62,11 @@ https://regex.guide/playground/
 #### regex101
 https://regex101.com/
 
+#### iHateRegex
+Visual representation of regular expressions, 
+https://ihateregex.io/
+https://github.com/geongeorge/i-hate-regex
+
 ### Linux 命令工具
 #### Online AWK
 在线模拟AWK命令的结果
