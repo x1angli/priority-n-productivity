@@ -185,9 +185,18 @@ https://upl.one/
 https://www.zippyshare.com/
    
 ### Web Bookmark Tools
+
+#### Notado
+A content-first approach to online bookmarking. it focus around selections of text, which are fully searchable and can be organised however makes sense to you with a powerful automatic tagging system.
+* https://notado.app/
+
 #### 云收藏
 * http://favorites.ren/
 * https://github.com/cloudfavorites/favorites-web
+
+#### Pinboard 
+#### Instapaper
+#### Readwise
 
 ### Uncategorized
 
