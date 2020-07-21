@@ -132,3 +132,15 @@ https://github.com/tj/git-extras
 
 #### mycli
 mysql admin terminal console
+
+## Sysadmin / Sys preparation
+
+#### 音速装机
+https://sonic.volf.club
+
+#### 腾讯软件管家独立版
+
+#### 360 软件管家独立版
+
+#### Sandboxie 沙盒 / 虚拟机
+https://www.sandboxie.com/
