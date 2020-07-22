@@ -1,12 +1,16 @@
-## All
+## Know-how
 
 #### How I organize my knowledge as a Software Engineer
 https://dev.to/brpaz/how-do-i-organize-my-knowledge-as-a-software-engineer-4387 
+
+## Aggregation Tool
 
 #### Station: One app to rule them all
 A very powerful  smart browser for busy people. A single place for all of your web applications. It also keeps you stay focused. It even allows you to run multiple accounts. 
 * Aggregates Google Drive, Gmail, Google Calendar, Evernote, Trello, Slack, Dropbox...etc. Almost anything that supports google account and more
 * https://getstation.com/
+
+## Knowledge Base  / Wiki
 
 #### Lark: Collaboration & Communication Software
 * Includes: Integrated Messenger (chat), Productive Conferences (meeting), Calendar 
@@ -15,6 +19,13 @@ https://www.larksuite.com/
 #### 语雀：云端知识库
 https://www.yuque.com/
 
+#### Outline
+A modern team knowledge base for your internal documentation, product specs, support answers, meeting notes, onboarding, 
+https://www.getoutline.com/
+
+#### TiddlyWiki
+A __non-linear__ notebook for capturing, organising and sharing complex information.
+https://tiddlywiki.com/
 
 ## Note-taking tools
 * [Notion](https://www.notion.so/) `Notion=Google docs+Evernote+Trello+confluence+Githubwiki+Quip`. a note-taking application with markdown support that also integrates TBD, task management(like Trello), wiki, and CRM. The aim is to be an all-in-one workspace for note-taking, project management and task management.  It supports multiple types of embedding. 
