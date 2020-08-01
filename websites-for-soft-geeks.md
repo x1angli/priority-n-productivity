@@ -205,6 +205,23 @@ https://hatchful.shopify.com/
 
 ## 声音工具
 
+### Audio and Song
+#### Vocal Remover
+Separate voice from music out of a song free with powerful AI algorithms
+https://vocalremover.org/
+
+#### BPM Finder
+https://vocalremover.org/bpm-finder
+BPM Finder: Detect beats per minute (BPM) for any song. 
+
+#### Pitch Changer
+https://vocalremover.org/pitch
+Change audio pitch without affecting the tempo. 
+
+#### Tempo Changer
+https://vocalremover.org/tempo
+Audio Speed (Tempo) Changer: Change audio playback speed without affecting the pitch. 
+
 ### TTS
 #### Transformer TTS
 A Text-to-Speech Transformer in TensorFlow 2
