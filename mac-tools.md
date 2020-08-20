@@ -29,24 +29,66 @@ Display macOS Dock in Touch Bar
 
 ## Productivity Tools
 
-#### Bear: note-taking
-Bear is a focused, flexible writing app 
-* https://apps.apple.com/us/app/bear/id1016366447
 
+### GUI Tools
+#### SizeUp
+quickly resize and position your windows with keyboard shortcuts or a handy menu bar icon
+https://www.irradiatedsoftware.com/sizeup/
 
 #### chunkwm
 tiling window manager for macOS
 * https://koekeishiya.github.io/chunkwm/
 * https://github.com/koekeishiya/chunkwm
 
-### Input Methods
-#### 中州韵输入法
-不止於拼音、注音、倉頡、速成、五筆、雙拼、宮保拼音、粵拼、吳語、中古漢語拼音、五筆畫、Emoji、國際音標……
-https://rime.im/
+### Knowledge Management
+#### Bear: note-taking
+Bear is a focused, flexible writing app 
+* https://apps.apple.com/us/app/bear/id1016366447
+
+### Screenshots
+#### (Built-in commands)
+* __Command + Shift + 3__: Take a screenshot
+* __Command + Shift + 4__: Take a snapshot of a designated region on screen
+* __Command + Shift + 4 + spacebar__: Take a video of a designated region on screen
+
+#### snipaste
+https://www.snipaste.com/
+
+### Terminal / Command-line Tools (CLI tools)
+See Power Up Your Command Line: 
+* https://darrenburns.net/posts/tools/, https://darrenburns.net/posts/more-tools, https://darrenburns.net/posts/even-more-tools
+
+#### iTerms2
+https://www.iterm2.com/
+
+#### Oh My ZSH!
+https://ohmyz.sh/
+* Github: https://github.com/ohmyzsh/ohmyzsh/
+
+#### z
+* Quickly find the path that matches your expectation without the hectic of nested `cd`s 
+* Github: https://github.com/jethrokuan/z
+
+#### autojump
+* Quickly find the path that matches your expectation without the hectic of nested `cd`s 
+* Github: https://github.com/wting/autojump
+
+#### fzf
+* Github: https://github.com/junegunn/fzf
+
+#### mas-cli
+* Github: https://github.com/mas-cli/mas
+* Homebrew: `brew install mas`
+A simple command line interface for the Mac App Store. Designed for scripting and automation.
 
 ### File Managers
 #### Marta
 https://marta.yanex.org/
+
+### Input Methods
+#### 中州韵输入法
+不止於拼音、注音、倉頡、速成、五筆、雙拼、宮保拼音、粵拼、吳語、中古漢語拼音、五筆畫、Emoji、國際音標……
+https://rime.im/
 
 
 ### Network Tools
@@ -74,40 +116,15 @@ https://github.com/agalwood/Motrix
 * Gif Recording tool
 * Website: https://getkap.co/
 
-### Screenshots
-#### (Built-in commands)
-* __Command + Shift + 3__: Take a screenshot
-* __Command + Shift + 4__: Take a snapshot of a designated region on screen
-* __Command + Shift + 4 + spacebar__: Take a video of a designated region on screen
 
-#### snipaste
-https://www.snipaste.com/
+## Dev Tools
 
-### Terminal / Command-line Tools (CLI tools)
-See Power Up Your Command Line: 
-* https://darrenburns.net/posts/tools/, https://darrenburns.net/posts/more-tools, https://darrenburns.net/posts/even-more-tools
+### Git
+#### SourceTree
+visual representation of your repositories
+https://www.sourcetreeapp.com/
 
-#### Oh My ZSH!
-https://ohmyz.sh/
-* Github: https://github.com/ohmyzsh/ohmyzsh/
-
-#### z
-* Quickly find the path that matches your expectation without the hectic of nested `cd`s 
-* Github: https://github.com/jethrokuan/z
-
-#### autojump
-* Quickly find the path that matches your expectation without the hectic of nested `cd`s 
-* Github: https://github.com/wting/autojump
-
-#### fzf
-* Github: https://github.com/junegunn/fzf
-
-#### mas-cli
-* Github: https://github.com/mas-cli/mas
-* Homebrew: `brew install mas`
-A simple command line interface for the Mac App Store. Designed for scripting and automation.
-
-### Dev Tools
+### DB Management
 #### TablePlus 
 Modern, Native Tool for Database Management. Supports PostgreSQL, MySQL, SQL Server, Amazon Redshift, SQLite, MariaDB
 https://tableplus.com/
