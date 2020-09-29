@@ -131,6 +131,6 @@ https://tableplus.com/
 
 ### Comprehensive
 #### DevUtils
-download: https://devutils.app/
-source: https://github.com/DevUtilsApp/DevUtils-app
+ - download: https://devutils.app/
+ - source: https://github.com/DevUtilsApp/DevUtils-app
 
