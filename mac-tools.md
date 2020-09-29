@@ -128,3 +128,9 @@ https://www.sourcetreeapp.com/
 #### TablePlus 
 Modern, Native Tool for Database Management. Supports PostgreSQL, MySQL, SQL Server, Amazon Redshift, SQLite, MariaDB
 https://tableplus.com/
+
+### Comprehensive
+#### DevUtils
+download: https://devutils.app/
+source: https://github.com/DevUtilsApp/DevUtils-app
+
