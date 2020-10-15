@@ -32,6 +32,7 @@ https://tiddlywiki.com/
 * [LiquidText](https://www.liquidtext.net/)  academical note taking tool
 * [Gitbook](https://www.gitbook.com/)
 * [VuePress](https://vuepress.vuejs.org/). 
+* [Joplin](https://joplinapp.org/) a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. The notes are searchable, can be copied, tagged and modified either from the applications directly or from your own text editor. The notes are in Markdown format.
 * [Notejoy](https://notejoy.com/)
 * [Trilium Notes](https://github.com/zadam/trilium) is a Node-based hierarchical note taking application with focus on building large personal knowledge bases
 * [Pocket](https://getpocket.com/) as read-it-later list
