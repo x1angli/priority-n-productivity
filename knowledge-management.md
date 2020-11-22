@@ -29,6 +29,7 @@ https://tiddlywiki.com/
 
 ## Note-taking tools
 * [Notion](https://www.notion.so/) `Notion=Google docs+Evernote+Trello+confluence+Githubwiki+Quip`. a note-taking application with markdown support that also integrates TBD, task management(like Trello), wiki, and CRM. The aim is to be an all-in-one workspace for note-taking, project management and task management.  It supports multiple types of embedding. 
+* [Notion Clone](https://github.com/konstantinmuenster/notion-clone)
 * [LiquidText](https://www.liquidtext.net/)  academical note taking tool
 * [Gitbook](https://www.gitbook.com/)
 * [VuePress](https://vuepress.vuejs.org/). 
