@@ -54,6 +54,19 @@ Bear is a focused, flexible writing app
 #### snipaste
 https://www.snipaste.com/
 
+### Screen Recording
+#### screenity
+https://github.com/alyssaxuu/screenity
+https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji/
+The most powerful screen recorder for Chrome. Capture, annotate, edit, and more.
+🎥 Make unlimited recordings of your tab, desktop, any application, and camera
+✏️ Annotate by drawing anywhere on the screen, adding text, and creating arrows
+👀 Highlight your clicks, focus on your mouse, or hide it from the recording
+🎙️ Individual microphone and computer audio controls, push to talk, and more
+⚙️ Custom countdowns, show controls only on hover, and many other customization options
+💾 Export as mp4, gif, and webm, or save the video directly to Google Drive
+✂️ Trim or remove sections of your recording
+
 ### Terminal / Command-line Tools (CLI tools)
 See Power Up Your Command Line: 
 * https://darrenburns.net/posts/tools/, https://darrenburns.net/posts/more-tools, https://darrenburns.net/posts/even-more-tools
