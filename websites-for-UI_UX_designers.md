@@ -44,9 +44,24 @@ https://github.com/LisaDziuba/Awesome-Design-Tools
 * https://github.com/TsaiKoga/it-tools
 正则表达式、时间戳转化、颜色盒子、JSON 转化、Base64 转化
 
+### Time & Timestamp Tools
+#### EpochConverter
+* https://www.epochconverter.com/
+Time zone converter, Timestamp list, WebKit/Chrome timestamp, Unix hex timestamp, Countdown in seconds
+Week numbers, Weeks by year, Day numbers, Days by year, Years/leap years, date diff
+Epoch in C, Epoch in MySQL, Epoch in PERL, Epoch in PHP
+
+### Charset Tools
+#### Charset.org
+* https://www.charset.org/
+Convert character to number, Convert number to character
+Text manipulation tools, Remove all accents, Convert to uppercase, Convert to lowercase, Base64 encode & decode
+
+
 #### 蛙蛙工具
 * https://www.iamwawa.cn
 英文字母大小写转换 中文简繁体转换工具 中文转拼音注音工具 OCR图片识别文字工具 一句诗词 文本去重工具 人民币大写转换工具 英文金额大写转换工具 二维码生成工具 农历公历转换工具
+
 
 #### bejson
 * https://www.bejson.com/
