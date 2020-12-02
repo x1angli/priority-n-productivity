@@ -43,15 +43,49 @@
 
 ## 文本工具
 
+### Text String Manipulation 文本字符变换工具
+
+#### IT TOOLS
+* https://tsaikoga.github.io/it-tools/index.html
+* https://tsaikoga.github.io/it-tools/index_cn.html
+* https://github.com/TsaiKoga/it-tools
+正则表达式、时间戳转化、颜色盒子、JSON 转化、Base64 转化
+
+#### 蛙蛙工具
+* https://www.iamwawa.cn
+英文字母大小写转换 中文简繁体转换工具 中文转拼音注音工具 OCR图片识别文字工具 一句诗词 文本去重工具 人民币大写转换工具 英文金额大写转换工具 二维码生成工具 农历公历转换工具
+
 #### tree.nathanfriend.io
 输入一段缩进的文本（或Markdown格式的缩进文本）输出ASCII的文本的树
 An online tree-like utility for generating ASCII folder structure diagrams. Written in TypeScript and React.
 Live Demo: https://tree.nathanfriend.io/
 Source Repo: https://gitlab.com/nfriend/tree-online
 
+#### bejson
+* https://www.bejson.com/
+json检验、json高亮、MD5加密、Base64编解码、escape、URL编解码……
+
+
+#### Charset.org
+* https://www.charset.org/
+Text manipulation tools, Remove all accents, Convert to uppercase, Convert to lowercase, Base64 encode & decode
+
+### Charset Tools
+#### Charset.org
+* https://www.charset.org/
+Convert character to number, Convert number to character
+
 #### Unicode Character Detector
 输入一段英文文字，把其中非ANSI的Unicode的字符给高亮出来
 https://www.textmagic.com/free-tools/unicode-detector
+
+### Time & Timestamp Tools
+#### EpochConverter
+* https://www.epochconverter.com/
+Time zone converter, Timestamp list, WebKit/Chrome timestamp, Unix hex timestamp, Countdown in seconds
+Week numbers, Weeks by year, Day numbers, Days by year, Years/leap years, date diff
+Epoch in C, Epoch in MySQL, Epoch in PERL, Epoch in PHP
+
 
 ### Regex 正则表达式工具
 #### The Regex Guide
