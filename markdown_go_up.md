@@ -273,6 +273,10 @@ https://www.bitcron.com/
 
 ### Markdown pitch deck (slides) generator
 
+#### Presenta Play
+Write slides in Markdown, built on top of PRESENTA Lib
+* Site: https://play.presenta.cc/
+
 #### remark
 A simple, in-browser, markdown-driven slideshow tool. 
  * Site: https://remarkjs.com
