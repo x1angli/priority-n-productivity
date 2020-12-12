@@ -68,3 +68,6 @@ https://medium.com/@rrhoover/the-rise-of-no-code-e733d7c0944d
 * https://www.makerpad.co/
 * https://zeroqode.com/
 
+#### Datasette
+exploring and publishing data. It helps people take data of any shape or size, analyze and explore it, and publish it as an interactive website and accompanying API.
+https://datasette.io/
