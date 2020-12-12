@@ -144,6 +144,10 @@ https://tableplus.com/
 
 ### Comprehensive
 #### DevUtils
+Unix Time coverter, Json/html formatter, JWT debugger, RegEx, Url Query String Encoder, Text Diff 
  - download: https://devutils.app/
  - source: https://github.com/DevUtilsApp/DevUtils-app
 
+#### DevBook
+Devbook is a new kind of search engine made just for developers. A single input that allows you to search in StackOverflow, documentation, code, infrastructure, and 3rd-party tools that you and your team are using. (macOS only)
+ - download: https://usedevbook.com/
