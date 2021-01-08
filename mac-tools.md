@@ -29,8 +29,22 @@ Display macOS Dock in Touch Bar
 
 ## Productivity Tools
 
+### Hotkeys
+#### Thor
+Use shortcut keys / hotkeys to open applications ASAP.
+https://github.com/gbammc/Thor
+
 
 ### GUI Tools
+
+#### Display Maid (commercial)
+https://www.funk-isoft.com/display-maid.html
+to save and restore window locations based on your display configuration.
+
+#### Rectangle
+https://github.com/rxhanson/Rectangle
+Rectangle is a window management app based on Spectacle, written in Swift.
+
 #### SizeUp
 quickly resize and position your windows with keyboard shortcuts or a handy menu bar icon
 https://www.irradiatedsoftware.com/sizeup/
