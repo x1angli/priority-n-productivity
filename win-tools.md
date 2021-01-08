@@ -29,6 +29,9 @@ https://www.voidtools.com
 
 ## Productivity Tools
 
+#### AutoHotkey
+https://www.autohotkey.com/
+The ultimate automation scripting language for Windows.
 
 #### Ditto
 Multi-Clipboard
