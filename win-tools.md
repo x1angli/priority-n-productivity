@@ -59,9 +59,12 @@ https://github.com/agalwood/Motrix
 ### Drawing
 #### InkScape
 
-###  shots
+### Screenshots
 #### snipaste
 https://www.snipaste.com/
+
+#### Flameshot
+https://github.com/flameshot-org/flameshot/
 
 ### Screen Recording
 
