@@ -81,6 +81,11 @@ The most powerful screen recorder for Chrome. Capture, annotate, edit, and more.
 💾 Export as mp4, gif, and webm, or save the video directly to Google Drive
 ✂️ Trim or remove sections of your recording
 
+### ssh
+#### electerm
+
+#### finalshell
+
 ### Terminal / Command-line Tools (CLI tools)
 See Power Up Your Command Line: 
 * https://darrenburns.net/posts/tools/, https://darrenburns.net/posts/more-tools, https://darrenburns.net/posts/even-more-tools
