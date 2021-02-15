@@ -93,6 +93,9 @@ See Power Up Your Command Line:
 #### iTerms2
 https://www.iterm2.com/
 
+#### Hyper
+https://hyper.is/
+
 #### Oh My ZSH!
 https://ohmyz.sh/
 * Github: https://github.com/ohmyzsh/ohmyzsh/
