@@ -50,7 +50,7 @@ https://tiddlywiki.com/
 * [Dash](https://kapeli.com/dash) API Documentation Browser and Code Snippet Manager, Dash stores snippets of code and instantly searches offline documentation sets for 200+ APIs, 100+ cheat sheets and more. for Mac and iOS only
 * [Zeal](https://zealdocs.org/) an offline documentation browser for software developers. It takes specified software documentation as input and aggregates them into a [single docset](https://kapeli.com/docsets), generates an index, and then you can use it as a one-stop search site. Available at [here](https://zealdocs.org/download.html)
 
-![Comparison Table of some note-taking tools](https://raw.githubusercontent.com/fabiospampinato/notable/master/resources/comparison/table.png)
+![Comparison Table of some note-taking tools](https://notable.app/static/images/comparison.png)
 
 ## Tagging / Sorting 
 #### Taglyst
