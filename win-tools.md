@@ -59,6 +59,10 @@ https://github.com/agalwood/Motrix
 ### Drawing
 #### InkScape
 
+#### Pencil
+An open-source GUI prototyping tool that's available for ALL platforms.
+https://pencil.evolus.vn/Downloads.html
+
 ### Screenshots
 #### snipaste
 https://www.snipaste.com/
