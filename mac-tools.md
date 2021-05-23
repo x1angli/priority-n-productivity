@@ -136,6 +136,10 @@ https://github.com/agalwood/Motrix
 
 
 ### Image tools
+#### macOCR
+macOCR is a command line app that enables you to turn any text on your screen into text on your clipboard. When you envoke the ocr command, a "screen capture" like cursor is shown. Any text within the bounds will be converted to text.
+https://github.com/schappim/macOCR
+
 #### PicGo （图床）
 * A simple & beautiful tool for pictures uploading built by electron-vue. It supports Github, Imgur, Aliyun OSS, etc...
 * https://github.com/Molunerfinn/picgo
