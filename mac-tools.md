@@ -177,3 +177,17 @@ Unix Time coverter, Json/html formatter, JWT debugger, RegEx, Url Query String E
 #### DevBook
 Devbook is a new kind of search engine made just for developers. A single input that allows you to search in StackOverflow, documentation, code, infrastructure, and 3rd-party tools that you and your team are using. (macOS only)
  - download: https://usedevbook.com/
+
+## Config
+
+#### .bash_profile
+
+```
+export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.aliyun.com/homebrew/homebrew-bottles
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home
+export PATH=$JAVA_HOME/bin:$PATH
+export CLASS_PATH=$JAVA_HOME/lib
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+```
