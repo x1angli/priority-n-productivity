@@ -222,22 +222,6 @@ A content-first approach to online bookmarking. it focus around selections of te
 #### Instapaper
 #### Readwise
 
-### Crawlers
-
-#### Octoman 微博备份工具
-Chrome 扩展
-https://chrome.google.com/webstore/detail/pojodomdlpobompicdllljgiomnfpmho
-
-微软 Edge 扩展
-https://microsoftedge.microsoft.com/addons/detail/aefblchdkofkcaaloldpmgcebablgapf 
-
-离线包安装
-https://blog.liuguofeng.com/file/OctoWeiboBackup.zip
-
-源 repo 
-https://github.com/misswell/octoman-weibo-backup
-
-
 ### Uncategorized
 
 
