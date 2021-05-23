@@ -388,12 +388,25 @@ http://nstool.netease.com/
     * https://github.com/x1angli/regional-ip-addresses/blob/master/output/CN-ipv4.txt
     * https://github.com/x1angli/regional-ip-addresses/blob/master/output/CN-ipv6.txt
 
-### baidu下载工具
+### Crawlers and Downloaders
+
+#### baidu下载工具
 * https://github.com/lpg-it/BaiduYunVIP
 * https://github.com/TkzcM/pandownload-fake-server
 * https://github.com/VIP-Share/Baidu-XunleiVIP
 
-### 音视频下载工具
+#### Octoman 微博一键导出/备份工具
+Chrome 扩展
+https://chrome.google.com/webstore/detail/pojodomdlpobompicdllljgiomnfpmho
+
+微软 Edge 扩展
+https://microsoftedge.microsoft.com/addons/detail/aefblchdkofkcaaloldpmgcebablgapf 
+
+离线包安装
+https://blog.liuguofeng.com/file/OctoWeiboBackup.zip
+
+源 repo 
+https://github.com/misswell/octoman-weibo-backup
 
 #### iiiLab视频解析站
 * 快手、微博、秒拍、小咖秀、晃咖、微视、全民小视频、全民K歌、美拍、趣多拍、网易云音乐、陌陌、Instagram、映客、小影、YouTube
