@@ -217,6 +217,20 @@ A content-first approach to online bookmarking. it focus around selections of te
 * http://favorites.ren/
 * https://github.com/cloudfavorites/favorites-web
 
+### Web Saving Tool
+#### Single File (as a Chrome Extension)
+https://chrome.google.com/webstore/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle?hl=en
+SingleFile is an extension that helps you to save a complete page (with CSS, images, fonts, frames, etc.) as a single HTML file.
+Note:
+1. scroll down the whole page, and wait til lazy-loaded images to be fully loaded. Otherwise you won't be able to download those images
+2. Since it uses base64 to encode files, plz make sure those files are not too large
+3. Remember to use Chorome's Dev Tool (F12 Key) to remove unnecessary HTML elements from the page
+
+### Webpage Trimming / Clipping Tool
+#### SimpRead (简悦)
+https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll?hl=en
+Immersive Webpage trimming tool , also has "reading list" and "bookmark" feature
+
 
 #### Pinboard 
 #### Instapaper
