@@ -19,6 +19,10 @@ https://www.larksuite.com/
 #### 语雀：云端知识库
 https://www.yuque.com/
 
+#### Archivarius 
+
+#### Everything 
+
 #### Outline
 A modern team knowledge base for your internal documentation, product specs, support answers, meeting notes, onboarding, 
 https://www.getoutline.com/
@@ -228,9 +232,18 @@ Note:
 
 ### Webpage Trimming / Clipping Tool
 #### SimpRead (简悦)
+http://ksria.com/simpread/
 https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll?hl=en
 Immersive Webpage trimming tool , also has "reading list" and "bookmark" feature
 
+#### Web Clipper
+by: DiamondYuan
+https://chrome.google.com/webstore/detail/web-clipper/mhfbofiokmppgdliakminbgdgcmbhbac
+That integrates with 有道云笔记, as 
+* link
+* markdown-formatted webpage
+* smart extraction
+* manual clipping
 
 #### Pinboard 
 #### Instapaper
