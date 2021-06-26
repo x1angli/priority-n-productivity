@@ -56,6 +56,10 @@ https://tiddlywiki.com/
 
 ![Comparison Table of some note-taking tools](https://notable.app/static/images/comparison.png)
 
+## BookKeeping Tools 记账工具
+https://github.com/mayswind/ezbookkeeping
+一个新的轻量的自托管的（self-hosted）个人记账工具，支持多币种、多时区、两步认证和WebAuthn，当然也支持多种数据库、多种OS、硬件架构以及多语言。
+
 ## Tagging / Sorting 
 #### Taglyst
 Automated tagging
