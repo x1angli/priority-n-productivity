@@ -32,3 +32,7 @@ https://github.com/jaywcjlove/linux-command
  - https://github.com/baskerville/bspwm
  - A tiling window manager based on binary space partitioning
 
+#### xmonad 
+- http://www.ruanyifeng.com/blog/2017/07/xmonad.html
+xmonad tutorial (Chinese)
+
