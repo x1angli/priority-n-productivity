@@ -2,6 +2,10 @@
 一个桌面端（Linux, Mac, Windows）的工具大成。将生产力工具插件化
  - https://u.tools/download.html
 
+#### Modern Unix
+A collection of modern/faster/fancier alternatives to common unix commands.
+https://github.com/ibraheemdev/modern-unix
+
 ####  Linux 命令速查手册
 数据取自 linuxde.net 
 除了网站 https://git.io/linux 和命令行工具外，还支持作为以下工具的插件 
