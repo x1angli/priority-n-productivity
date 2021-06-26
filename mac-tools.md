@@ -136,6 +136,11 @@ https://github.com/agalwood/Motrix
 
 
 ### Image tools
+
+#### PhotoMill
+batch convert photos to popular image formats, rename by a pattern, add text and image watermarks, adjust colors, fit geometry, edit metadata, and more.
+https://overmacs.com/?p=photomill
+
 #### macOCR
 macOCR is a command line app that enables you to turn any text on your screen into text on your clipboard. When you envoke the ocr command, a "screen capture" like cursor is shown. Any text within the bounds will be converted to text.
 https://github.com/schappim/macOCR
