@@ -139,6 +139,17 @@ https://trianglify.io/
 * https://github.com/emilwallner/Screenshot-to-code
 * How it works: https://medium.freecodecamp.org/how-you-can-train-an-ai-to-convert-your-design-mockups-into-html-and-css-cc7afd82fed4
 
+### Calculators / Unit Conversions
+#### Pixelcalculator
+convert DPI / PPI to pixels and mm, cm, inches
+https://pixelcalculator.com/en
+
+#### estimate the size of an image file
+https://jan.ucc.nau.edu/lrm22/pixels2bytes/calculator.htm
+
+#### Convert Town
+Change the DPI of images
+https://convert.town/image-dpi
 
 ### Color pallets / Color Schemes
 #### Top 12 Web-Based Color Tools for Web Designers
