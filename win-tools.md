@@ -168,3 +168,7 @@ https://sonic.volf.club
 
 #### Sandboxie 沙盒 / 虚拟机
 https://www.sandboxie.com/
+
+### MicroSoft Office
+https://github.com/YerongAI/Office-Tool
+Supports custom deployment and activation of: Microsoft 365, Office 2016, 2019, 2021
