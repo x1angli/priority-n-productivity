@@ -24,6 +24,10 @@
 * https://manytools.org
 * Network, CSS3 Tools, Image, HTTP, HTML & Text Tools
 
+#### it365工具箱
+文本diff工具、GIF动图分解软件、图种制作程序 PDF转换图片程序 银行卡信息查询软件  交集计算器 并集计算器 差集计算器
+https://it365.gitlab.io/zh-cn/
+
 #### nicetool
 * http://www.nicetool.net/
 * 王思聪微薄制成（用于恶搞）、对对联、姓名批量生成
@@ -78,6 +82,14 @@ Convert character to number, Convert number to character
 #### Unicode Character Detector
 输入一段英文文字，把其中非ANSI的Unicode的字符给高亮出来
 https://www.textmagic.com/free-tools/unicode-detector
+
+#### Decode
+解决乱码的万能解码器
+https://it365.gitlab.io/zh-cn/decode/
+
+#### it365 字幕转换文字软件
+可以快速把字幕转换为文字，srt字幕转换为txt文本/word文档，vtt字幕转换文字。导入字幕文件，马上就能看到转换后的文字
+https://it365.gitlab.io/zh-cn/srt-to-txt/
 
 ### Time & Timestamp Tools
 #### EpochConverter
