@@ -93,6 +93,8 @@ An online grammar checking, spell checking, and plagiarism detection platform
 * [Avocode](https://avocode.com/) 
     - Open designs without design tools. Export images without preparing layers. Click on layers to get code.
 * [Figma](https://www.figma.com/)
+* Treesheets: cross-platform, free-form data organizer app
+   * https://strlen.com/treesheets/  
 * Pencil
    * Desktop: https://pencil.evolus.vn/  
    
@@ -166,7 +168,7 @@ https://www.nototo.app/
 | Heimer         | Qt-based    | https://github.com/juzzlin/Heimer |
 | FreeMind       | Java-based  | https://sourceforge.net/projects/freemind/ |
 | View Your Mind |             | www.insilmaril.de/vym      |
-
+| TreeSheets     | outdated, but cross-platform      | https://strlen.com/treesheets/  | 
 
 ### Online IDE
 #### REPL
