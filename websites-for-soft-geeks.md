@@ -425,6 +425,10 @@ https://blog.liuguofeng.com/file/OctoWeiboBackup.zip
 源 repo 
 https://github.com/misswell/octoman-weibo-backup
 
+#### 硕鼠
+84个视频/音乐网站、YouTube
+https://www.flvcd.com/
+
 #### iiiLab视频解析站
 * 快手、微博、秒拍、小咖秀、晃咖、微视、全民小视频、全民K歌、美拍、趣多拍、网易云音乐、陌陌、Instagram、映客、小影、YouTube
 * https://video.iiilab.com/
