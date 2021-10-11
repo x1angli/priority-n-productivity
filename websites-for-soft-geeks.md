@@ -232,9 +232,8 @@ https://github.com/Roujack/mathAI
 支持横排，竖排，多块文字混合
 https://github.com/ouyanghuiyu/chineseocr_lite
 
-### 图片生成工具 / Picture generation tools  
+### 图片生成工具 / Image generation tools  
 
-### Logo生成工具
 #### Logojoy
 https://logojoy.com/
 
@@ -243,6 +242,10 @@ https://hatchful.shopify.com/
 
 #### LOGO控 / Logoko
 * Link: https://www.logoko.com.cn/
+
+#### VQGAN + CLIP
+create artworks from a text prompt (a few words)
+https://creator.nightcafe.studio/text-to-image-art
 
 #### This person does not exist
 用AI生成人脸
