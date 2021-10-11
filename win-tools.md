@@ -38,6 +38,10 @@ Multi-Clipboard
 
 ## Network Tools
 
+#### Network Manager
+A powerful tool for managing networks and troubleshoot network problems!
+https://github.com/BornToBeRoot/NETworkManager
+
 ### DNS
 
 #### Acrylic DNS Proxy
