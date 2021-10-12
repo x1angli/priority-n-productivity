@@ -132,6 +132,9 @@ https://plantuml.com/download
 * websequencediagrams
    * 在线画时序图
    * Online Live: https://www.websequencediagrams.com/
+* Kroki
+   * a unified API with support for BlockDiag (BlockDiag, SeqDiag, ActDiag, NwDiag, PacketDiag, RackDiag), BPMN, Bytefield, C4 (with PlantUML), Ditaa, Erd, Excalidraw, GraphViz, Mermaid, Nomnoml, Pikchr, PlantUML, SvgBob, UMLet, Vega, Vega-Lite, WaveDrom
+   * https://kroki.io/
 * [Graphviz](https://www.graphviz.org/)
    * Desktop (Win, Mac, Ubuntu, Fedora, etc.) https://www.graphviz.org/download/
    - An open source graph visualization software representing structural information as diagrams of abstract graphs and networks. It has important applications in networking, bioinformatics,  software engineering, and other technical domains
