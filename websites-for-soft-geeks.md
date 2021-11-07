@@ -296,6 +296,12 @@ This site is a collection of generative music pieces which can be listened to. T
 * https://github.com/generative-music/generative.fm
 
 
+### Music tools
+
+#### Pianoplayer: 
+Automatic fingering generator for piano scores
+https:///github.com/marcomusy/pianoplaye
+
 ### 语音识别
 
 #### Subtitles-View
