@@ -237,6 +237,14 @@ https://github.com/Roujack/mathAI
 支持横排，竖排，多块文字混合
 https://github.com/ouyanghuiyu/chineseocr_lite
 
+### 图片转换工具 / Image Convertors
+#### visioncortex VTracer 
+An open source Vector Graphics Converter to convert raster images (like jpg & png) into vector graphics (svg).
+* Doc: https://www.visioncortex.org/vtracer-docs
+* Github: https://github.com/visioncortex/vtracer
+* Online Demo: https://www.visioncortex.org/vtracer/
+* Download: https://github.com/visioncortex/vtracer/releases/tag/0.4.0
+
 ### 图片生成工具 / Image generation tools  
 
 #### Logojoy
