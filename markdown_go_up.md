@@ -5,7 +5,9 @@ Here is a group of links for you to better use Markdown
 #### Typora
  * a cross-platform desktop tool as both a reader and a writer for Markdown.
  * Link: https://typora.io/
- * Remarks: This is really a nice tool. It would be better if it supports split-panel with both markdown source code and rendered WYSIWYG displayed side-by-side. Also, you have to explicitly turn on the "In-line Math" switch.
+
+#### MarkText
+https://github.com/marktext/
 
 #### Remarkable
 https://remarkableapp.github.io/
