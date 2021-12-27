@@ -118,6 +118,9 @@ https://balsamiq.com/wireframes/
 * https://dummyimage.com/
 * https://github.com/kingkool68/dummyimage
 
+### Animation / Comic
+#### FlipaClip
+按关键帧的动画制作工具
 
 ### AI/DL-based from mock-ups to artifact generator / 用人工智能/深度学习生成UI产物 
 
