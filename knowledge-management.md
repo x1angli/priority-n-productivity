@@ -37,6 +37,9 @@ https://tiddlywiki.com/
 * [LiquidText](https://www.liquidtext.net/)  academical note taking tool
 * [Gitbook](https://www.gitbook.com/)
 * [VuePress](https://vuepress.vuejs.org/). 
+* [享做笔记]
+* 云记
+* [Noteshelf]   电子手帐，超高颜值，可以书写个人日记、to-do list、travel journal、乐谱、recipe、shopping list
 * [Joplin](https://joplinapp.org/) a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. The notes are searchable, can be copied, tagged and modified either from the applications directly or from your own text editor. The notes are in Markdown format. The notes can be synchronised with various cloud services including Nextcloud, Dropbox, OneDrive, WebDAV or the file system (for example with a network directory). When synchronising the notes, notebooks, tags and other metadata are saved to plain text files.
 * [Notejoy](https://notejoy.com/)
 * [Trilium Notes](https://github.com/zadam/trilium) is a Node-based hierarchical note taking application with focus on building large personal knowledge bases
@@ -55,6 +58,8 @@ https://tiddlywiki.com/
 * [Zeal](https://zealdocs.org/) an offline documentation browser for software developers. It takes specified software documentation as input and aggregates them into a [single docset](https://kapeli.com/docsets), generates an index, and then you can use it as a one-stop search site. Available at [here](https://zealdocs.org/download.html)
 
 ![Comparison Table of some note-taking tools](https://notable.app/static/images/comparison.png)
+
+
 
 ## BookKeeping Tools 记账工具
 https://github.com/mayswind/ezbookkeeping
@@ -121,6 +126,9 @@ https://plantuml.com/download
    * Desktop: http://dia-installer.de/ 
 * Inkscape   
    * Desktop: https://inkscape.org/
+* Autodesk SketchBook
+* Zen Brush 3
+   * East-Asian style Calligraphy  东亚特色的毛笔书法、水墨画应用，具备沾水笔刷、墨汁浓谈、任意调节的粗细、丰富的纸张背景
 * Whimsical
    * Online Live: https://whimsical.co/   
 * 迅捷画图
