@@ -12,6 +12,26 @@ https://github.com/ibraheemdev/modern-unix
 Dash | Alfred | Krunner | Chrome Plugin  
 https://github.com/jaywcjlove/linux-command
 
+### Emulators
+
+#### Anbox
+Run Android applications on any GNU/Linux operating system.
+https://anbox.io/
+
+#### Darling
+run macOS software on Linux
+https://www.darlinghq.org/
+
+#### Wine
+https://www.winehq.org/
+"Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD. 
+
+Instead of simulating internal Windows logic like a virtual machine or emulator, Wine translates Windows API calls into POSIX calls on-the-fly, 
+
+
+
+### Shell & Terminal
+
 #### 打造高效的工作环境 – SHELL 篇
  - https://coolshell.cn/articles/19219.html
  - https://github.com/coolshellx/articles/blob/master/00-How.To.Set.Up.An.High.Efficient.Working.Enviornment.md
