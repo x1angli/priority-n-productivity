@@ -295,6 +295,13 @@ A Text-to-Speech Transformer in TensorFlow 2
 https://as-ideas.github.io/TransformerTTS/
 https://github.com/as-ideas/TransformerTTS
 
+#### Arctime 
+http://arctime.cn/index.html
+Arctime 是一款简单、强大、高效的跨平台字幕制作软件，
+既可通过AI 识别出视频中的语音，生成字幕文字和时间轴，
+也可以根据已有的文本快速转成语音。
+
+
 ### 声音生成工具
 
 #### generative.fm
@@ -302,7 +309,7 @@ https://github.com/as-ideas/TransformerTTS
 This site is a collection of generative music pieces which can be listened to. The term "generative music" has been used especially by Brian Eno to describe music which changes continuously and is created by a system. Such systems often generate music for as long as one is willing to listen.
 * https://generative.fm/
 * https://github.com/generative-music/generative.fm
-
+* 
 
 ### Music tools
 
@@ -315,8 +322,14 @@ https:///github.com/marcomusy/pianoplaye
 #### Subtitles-View
 基于javaFX的简单字幕处理桌面程序，集成在线翻译及语音转换
 将美剧/视频中的声音识别成时间轴字幕，使用了讯飞语音转写作为语音识别，而讯飞语音转写是一款付费服务，有30天内5小时的免费体验时间，以及1年内20小时套餐（价格198元）。
-https://github.com/fordes123/Subtitles-View
-https://meta.appinn.net/t/topic/15333
+* https://github.com/fordes123/Subtitles-View
+* https://meta.appinn.net/t/topic/15333
+
+#### Arctime 
+http://arctime.cn/index.html
+Arctime 是一款简单、强大、高效的跨平台字幕制作软件，
+既可通过AI 识别出视频中的语音，生成字幕文字和时间轴，
+也可以根据已有的文本快速转成语音。
 
 ## NLP自然语言工具
 
