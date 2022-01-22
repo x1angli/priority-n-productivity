@@ -68,6 +68,11 @@ Bear is a focused, flexible writing app
 #### snipaste
 https://www.snipaste.com/
 
+#### Shorttr
+a small, fast, human-sized screenshot app built for those who care about pixels. Screenshot tool for designers / front-end engineers / those who care about pixels
+[Mac Only]
+https://shottr.cc/#section-about
+
 ### Screen Recording
 #### screenity
 https://github.com/alyssaxuu/screenity
