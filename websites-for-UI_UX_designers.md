@@ -192,6 +192,9 @@ https://works.yangerxiao.com/chinese-colors/
 
 ### Fonts
 
+#### 商用免费字体全集
+https://github.com/wordshub/free-font
+
 #### 1001 Fonts
 https://www.1001fonts.com/
 
