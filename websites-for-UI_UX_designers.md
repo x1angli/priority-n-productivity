@@ -279,6 +279,7 @@ www.pptstore.net
 
 #### OfficePLUS
 www.officeplus.cn
+总结报告、个性简历、实用图标
 
 #### 58pic
 www.58pic.com/tupian/ppt.html
@@ -312,4 +313,12 @@ https://pixelmap.amcharts.com/
 
 ### Misc.
 
+#### OfficePLUS
+www.officeplus.cn
+* PPT 总结报告、个性简历、实用图标
+* Word 简历模板、合同模板
+* Excel 财务报表、办公表格模板
 
+#### 微软官网素材
+https://templates.office.com/
+需要微软账号登录才能下载，其中还有一些高阶模板属于订阅 Microsoft 365 独享
