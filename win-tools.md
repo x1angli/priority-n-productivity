@@ -36,6 +36,11 @@ The ultimate automation scripting language for Windows.
 #### Ditto
 Multi-Clipboard
 
+#### Fences 
+https://www.stardock.com/products/fences/
+Automatically organize  desktop apps, files, and folders on Windows 10 and 11.
+自由定义桌面分区，并将桌面图标放置于分区中
+
 ## Network Tools
 
 #### Network Manager
