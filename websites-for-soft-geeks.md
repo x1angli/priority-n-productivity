@@ -104,7 +104,20 @@ Week numbers, Weeks by year, Day numbers, Days by year, Years/leap years, date d
 Epoch in C, Epoch in MySQL, Epoch in PERL, Epoch in PHP
 
 
-### Regex 正则表达式工具
+### Regex Tools 正则表达式工具
+
+#### iHateRegex
+Regular expression visualizer and visual editor
+https://ihateregex.io/
+https://github.com/geongeorge/i-hate-regex
+
+#### regex-vis
+Regular expression visualizer and visual editor
+https://regex-vis.com/
+https://github.com/Bowen7/regex-vis
+
+### Regex Tutorials
+
 #### The Regex Guide
 The Regex Guide helps you to write a regular expression matching a given string. No regular expressions knowledge required
 Regex指南帮助您编写匹配给定字符串的正则表达式。不需要正则表达式知识! 
@@ -113,10 +126,12 @@ https://regex.guide/playground/
 #### regex101
 https://regex101.com/
 
-#### iHateRegex
-Visual representation of regular expressions, 
-https://ihateregex.io/
-https://github.com/geongeorge/i-hate-regex
+#### Learning the RegEx the easy way
+https://github.com/ziishaned/learn-regex
+
+#### regexlearn.com
+https://regexlearn.com/
+https://github.com/aykutkardas/regexlearn.com
 
 ### Linux 命令工具
 #### Online AWK
