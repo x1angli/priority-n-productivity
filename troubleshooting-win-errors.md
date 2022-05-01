@@ -40,9 +40,10 @@ If `reg query HKLM\Software\Policies\Microsoft\Windows\WindowsUpdate\AU /v UseWU
 * "Virtual Machine could not be started because the hypervisor is not running" when running Hyper-V
 * "Please enable the Virtual Machine Platform Windows feature and ensure virtualization is enabled in the BIOS." when running WSL
 
-## Solution
+## Main Solution 
 1. run `bcdedit` in command line, 
 2. if you found `hypervisorlaunchtype` is off
 3. run `bcdedit /set hypervisorlaunchtype auto` and restart computer
 
-
+## Other Approaches 
+1. Powershell `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All`
