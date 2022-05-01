@@ -41,8 +41,8 @@ If `reg query HKLM\Software\Policies\Microsoft\Windows\WindowsUpdate\AU /v UseWU
 * "Please enable the Virtual Machine Platform Windows feature and ensure virtualization is enabled in the BIOS." when running WSL
 
 ## Solution
-run `bcdedit` in command line
-if you found `hypervisorlaunchtype` is off, then run
-`bcdedit /set hypervisorlaunchtype auto` and restart computer
+1. run `bcdedit` in command line, 
+2. if you found `hypervisorlaunchtype` is off
+3. run `bcdedit /set hypervisorlaunchtype auto` and restart computer
 
 
