@@ -506,3 +506,23 @@ https://github.com/pppscn/SmsForwarder
 ## 有趣的小游戏
 #### 一些github上小游戏的汉化集
 https://likexia.gitee.io/game/index.html
+
+#### yikm.net
+https://www.yikm.net/
+FC 红白机、街机、GBA、MD、Flash、HTML5 游戏
+
+#### 绝版游戏保护工程
+https://github.com/skywind3000/preserve-cd
+收录了 164 个游戏，存放在两张 CD 里
+
+#### 老男人游戏网
+https://www.oldmanemu.net
+
+#### OKEMU
+https://www.okemu.com/catalog_down.html
+总得来说就是分类齐，资源多，无广告，简洁无打扰，下载方便，值得收藏。
+
+#### 中文 DOS 游戏
+https://dos.zczc.cz
+用 em-dosbox 把包括《仙剑奇侠传》、《金庸群侠传》、《金瓶梅之偷情宝鉴》、《三国志》、《主题医院》、《大富翁》在内的 30 多款经典 DOS 游戏封装成了 WebAssembly 应用。
+
