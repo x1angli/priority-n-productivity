@@ -78,6 +78,9 @@ https://www.apowersoft.cn/online-watermark-remover
 #### 在线图片压缩
 https://tinypng.com/
 
+#### 在线去除图片中的背景
+抠图 抠背景
+https://bgsub.cn/
 
 ### QR Code Generator
 #### 草料二维码生成器：
@@ -223,6 +226,9 @@ www.zcool.com.cn
 #### Unsplash
 wall paper photos
 https://unsplash.com/search/photos/wallpaper
+
+#### Archieved Bing WallPapers 
+https://bing.wdbyte.com/
 
 #### Pexels
 https://www.pexels.com
