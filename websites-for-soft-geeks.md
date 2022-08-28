@@ -238,6 +238,10 @@ https://zzkia.noddl.me:8020/
 https://github.com/ad-si/Perspec
 correct the perspective of photos：纠正图像立体透视角度
 
+#### 在线去除图片中的背景
+抠图 抠背景 AI调色
+https://bgsub.cn/
+
 ### 图片识别工具 / OCR OpenCV tools
 
 #### Online OCR
@@ -394,6 +398,10 @@ Chinese character stroke order animations and practice quizzes
 * Code: https://github.com/THUNLP-AIPoet/StylisticPoetry
 * DataSet: https://github.com/THUNLP-AIPoet/Datasets
 * Paper：https://github.com/THUNLP-AIPoet/PaperList
+
+#### 据意查句
+根据输入描述的意思来查找相应的名言名句
+https://wantquotes.net/
 
 #### 藏头诗
 http://www.shicimingju.com/cangtoushi/index.html
