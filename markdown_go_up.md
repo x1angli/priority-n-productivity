@@ -174,6 +174,12 @@ A replacement for LaTeX based on Markdown and AsciiMath. LaTeX can be directly e
 Pre-requisites: node.js, pandoc 2.2.1, texlive.
  * Site: https://caoutchouc.io
  * Source Repo: https://github.com/corollari/caoutchouc
+
+#### Markdoc
+A powerful, flexible, Markdown-based authoring framework.
+* Site: https://markdoc.dev/
+* Source Repo: https://github.com/markdoc/markdoc
+
  
 ### Engines
 
@@ -201,6 +207,12 @@ A client-side and server-side JavaScript engine for mathematics that is similar 
 #### markdeep
  * an extension of Markdown syntax, plus a static .js file, that supports diagrams, calendars, equations, and other features
  * Link: https://casual-effects.com/markdeep/ 
+
+
+#### Markdoc
+Markdoc is a syntactic extension of Markdown, so you can keep using all the syntax and tooling you are used to.
+* Site: https://markdoc.dev/
+* Source Repo: https://github.com/markdoc/markdoc
 
 ### Graph, Diagram 
 #### Markmap
