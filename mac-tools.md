@@ -1,3 +1,20 @@
+## Curated Lists by other authos
+
+#### Awesome Mac
+https://wangchujiang.com/awesome-mac/
+https://github.com/jaywcjlove/awesome-mac
+
+#### Apple Computer Literacy
+https://github.com/xiaolai/apple-computer-literacy
+
+#### WaitsUn
+a collection of Mac Apps
+https://www.waitsun.com/
+
+#### Mac开发效率提升之工具篇
+https://github.com/Louiszhai/tool
+
+
 ## Aggegation Tools
 
 #### uTools
@@ -7,19 +24,6 @@
 #### Alfred
 * Alfred boosts your efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. Features: clipboard history, snippets, file searching, web searching, calculator, spell checker, workflows
 * https://www.alfredapp.com/
-
-## Awesome Mac Tools
-
-#### Awesome Mac
-https://wangchujiang.com/awesome-mac/
-https://github.com/jaywcjlove/awesome-mac
-
-#### WaitsUn
-a collection of Mac Apps
-https://www.waitsun.com/
-
-#### Mac开发效率提升之工具篇
-https://github.com/Louiszhai/tool
 
 ## Cool and Fancy
 #### Pock: Display macOS Dock in Touch Bar
