@@ -63,6 +63,9 @@ tiling window manager for macOS
 Bear is a focused, flexible writing app 
 * https://apps.apple.com/us/app/bear/id1016366447
 
+#### Draft: note-taking / text-editing
+https://getdrafts.com/
+
 ### Screenshots
 #### (Built-in commands)
 * __Command + Shift + 3__: Take a screenshot
