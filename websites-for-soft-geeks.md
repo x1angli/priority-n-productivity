@@ -266,6 +266,18 @@ An open source Vector Graphics Converter to convert raster images (like jpg & pn
 
 ### 图片生成工具 / Image generation tools  
 
+#### Dall-E
+https://labs.openai.com/
+DALL·E is an AI system that can create realistic images and art from a description in natural language.
+
+#### Mid Journey
+https://www.midjourney.com/
+
+#### Stable Diffusion
+https://stablediffusionweb.com/
+
+### 图片生成工具 / Image generation tools  
+
 #### Logojoy
 https://logojoy.com/
 
@@ -292,6 +304,11 @@ https://creator.nightcafe.studio/text-to-image-art
 ## 声音工具
 
 ### Audio and Song
+
+#### aiva.ai
+The Artificial Intelligence composing emotional soundtrack music
+https://aiva.ai/
+
 #### Vocal Remover
 Separate voice from music out of a song free with powerful AI algorithms
 https://vocalremover.org/
@@ -309,10 +326,17 @@ https://vocalremover.org/tempo
 Audio Speed (Tempo) Changer: Change audio playback speed without affecting the pitch. 
 
 ### TTS
+
 #### Transformer TTS
 A Text-to-Speech Transformer in TensorFlow 2
 https://as-ideas.github.io/TransformerTTS/
 https://github.com/as-ideas/TransformerTTS
+
+### Speech Recognition
+
+#### fireflies.ai
+Automate your meeting notes
+https://fireflies.ai/
 
 #### Arctime 
 http://arctime.cn/index.html
@@ -355,7 +379,30 @@ Arctime 是一款简单、强大、高效的跨平台字幕制作软件，
 
 ## NLP自然语言工具
 
+### Chatbot
+#### ChatGPT
+https://chat.openai.com
+
+
+### Summarization / Digest
+
+#### OpenRead
+https://www.openread.academy/home
+Generates Paper Q&A, Literature review, and so on
+
 ### 英文
+#### Jenni
+https://jenni.ai/
+Write, cite, and edit
+It uses a combination of our own in-house AI systems, OpenAI, AI21, as well as custom data from each user to generate the highest quality content on the market.
+
+#### ai-writer
+ai-writer.com
+
+### Writing Assistant
+#### peppertype
+https://www.peppertype.ai/
+
 #### Grammarly
 grammarly.com
 
@@ -369,7 +416,8 @@ grammarly.com
 
 ### 翻译
 
-
+#### DeepL
+https://www.deepl.com/en/translator
 
 #### 深蓝英文字幕助手
 一款看美剧（英剧）学英语的字幕辅助软件，只对英文字幕中生词的注释
@@ -505,7 +553,6 @@ http://tool.yovisun.com/grabvideo/
 ## Other Tools
 
 ### IFTTT, IoT, Automation
-
 #### SMS forwarder
 https://github.com/pppscn/SmsForwarder
 
