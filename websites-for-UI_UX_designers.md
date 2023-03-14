@@ -40,7 +40,6 @@ https://github.com/LisaDziuba/Awesome-Design-Tools
 
 
 
-
 ### text to images
 
 #### Word Cloud Art
@@ -127,6 +126,11 @@ https://balsamiq.com/wireframes/
 
 ### AI/DL-based from mock-ups to artifact generator / 用人工智能/深度学习生成UI产物 
 
+#### designs.ai
+https://designs.ai/
+Create logos, videos, banners, mockups with A.I. in 2 minutes
+
+
 #### Logojoy
 https://logojoy.com/
 
@@ -158,6 +162,10 @@ Change the DPI of images
 https://convert.town/image-dpi
 
 ### Color pallets / Color Schemes
+
+#### AI color tool
+https://www.khroma.co/
+
 #### Top 12 Web-Based Color Tools for Web Designers
 * https://1stwebdesigner.com/web-based-color-tools/
 * https://zhuanlan.zhihu.com/p/56525701
@@ -317,14 +325,25 @@ https://pixelmap.amcharts.com/
 | Tupi | Adobe Animate | 
 | Black Magic Fusion | Adobe After Effects | 
 
-### Misc.
+### MCN / Content distribution 
+#### Repurpose
+https://repurpose.io/
+Repurposing and distribution platform for video and audio creators
+
+### MS Office 
 
 #### OfficePLUS
 www.officeplus.cn
-* PPT 总结报告、个性简历、实用图标
-* Word 简历模板、合同模板
-* Excel 财务报表、办公表格模板
 
-#### 微软官网素材
+#### Templates
 https://templates.office.com/
-需要微软账号登录才能下载，其中还有一些高阶模板属于订阅 Microsoft 365 独享
+
+### Human Being
+#### synthesia
+Training videos, How-To videos, Marketing videos
+https://www.synthesia.io/
+
+#### posemaniacs
+https://www.posemaniacs.com/
+a royalty free pose reference
+https://www.posemaniacs.com/en
