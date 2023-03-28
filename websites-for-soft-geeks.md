@@ -559,7 +559,12 @@ https://github.com/pppscn/SmsForwarder
 ## 开发/美工/产品经理类工具
 跳转到 [这里](websites-for-UI_UX_designers.md)
 
+## Video Generation Tools
+### Text-to-Video Generation
 
+#### Tune-A-Video: One-Shot Tuning of Image Diffusion Models
+github.com/showlab/Tune-A-Video
+https://arxiv.org/abs/2212.11565
 
 ## 有趣的小游戏
 #### 一些github上小游戏的汉化集
