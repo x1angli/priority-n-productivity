@@ -50,6 +50,9 @@ https://it365.gitlab.io/zh-cn/
 #### 一个木函（Android only）
 颜值高、功能全、体积小的聚合类神器. 超过 50 款功能的 Android 工具合集。翻译、表情制作、图片拼接、Gif合成与分解、视频提取音频、云音乐启动画面替换、套壳截屏、磁力搜索、以图搜图、wifi 密码查看、应用管理、大文件清理、新华字典、二维码工具、短链生成和还原、图片压缩、取色器、空文件夹清理、网页源码获取等等。
 
+#### Awesome ChatGPT
+https://gitlab.com/awesomeai/awesome-chatgpt-zh
+
 ## 文本工具
 
 ### Text String Manipulation 文本字符变换工具
