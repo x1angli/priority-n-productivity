@@ -478,6 +478,11 @@ http://www.shicimingju.com/cangtoushi/index.html
 形近字纠错，同音字纠错，用词改进，语法改进
 https://xiezuocat.com/#/?s=dxh
 
+#### 零克查词
+http://ci.lingke.pro/
+小红书、抖音、B站、小红书敏感词检测工具
+
+
 ### 搞怪自然语言
 
 #### Lutheran Insulter 马丁路德骂人生成器
