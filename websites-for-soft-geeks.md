@@ -187,6 +187,10 @@ Fill out PDF forms programmatically with restful APIs
 通过Restful API来自动化地填PDF的表单并批量生成PDF（付费）
 https://docspring.com/
 
+#### ChatPDF
+https://www.chatpdf.com/
+Efficiently analyze your pdf documents. Comprehend textbooks, handouts, and presentations effortlessly.
+
 #### 其它
 http://www.splitpdfonline.com/
 http://www.pdfprotect.net/
@@ -382,9 +386,10 @@ Arctime 是一款简单、强大、高效的跨平台字幕制作软件，
 
 ## NLP自然语言工具
 
-### Chatbot
+### ChatGPT - based
 #### ChatGPT
 https://chat.openai.com
+
 
 
 ### Summarization / Digest
@@ -392,6 +397,11 @@ https://chat.openai.com
 #### OpenRead
 https://www.openread.academy/home
 Generates Paper Q&A, Literature review, and so on
+
+#### ChatPDF
+https://www.chatpdf.com/
+Efficiently analyze your pdf documents. Comprehend textbooks, handouts, and presentations effortlessly.
+
 
 ### 英文
 #### Jenni
