@@ -263,6 +263,16 @@ https://github.com/Roujack/mathAI
 支持横排，竖排，多块文字混合
 https://github.com/ouyanghuiyu/chineseocr_lite
 
+#### Baimiao (白描)
+https://web.baimiaoapp.com/
+Image to Text, Image to Formula, Image to Excel, PDF to Text
+iOS App | Android App | Web | WeChat
+
+#### Screenshot OCR
+http://www.structurise.com/screenshot-ocr/
+* Textract
+* Kleptomania
+
 ### 图片转换工具 / Image Convertors
 #### visioncortex VTracer 
 An open source Vector Graphics Converter to convert raster images (like jpg & png) into vector graphics (svg).
