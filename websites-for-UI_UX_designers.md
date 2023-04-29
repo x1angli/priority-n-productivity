@@ -221,6 +221,10 @@ Hundreds of fonts extracted from BIOSes and VGA ROMs
 从主机BIOS和VGA ROM中提取的点阵字体 （比如：8x8, 8x14, 8x16）
 https://github.com/spacerace/romfont
 
+
+#### Free Chinese Fonts
+http://zenozeng.github.io/Free-Chinese-Fonts/
+
 ### Photos
 
 #### Meme Templates
