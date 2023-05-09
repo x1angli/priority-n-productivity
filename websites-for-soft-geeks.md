@@ -251,6 +251,12 @@ https://bgsub.cn/
 
 ### 图片识别工具 / OCR OpenCV tools
 
+#### Umi-OCR 文字识别工具
+OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。
+(Windows Only)
+* Source Code: https://github.com/hiroi-sora/Umi-OCR
+* Download: https://github.com/hiroi-sora/Umi-OCR/releases
+
 #### Online OCR
 https://www.onlineocr.net/
 
