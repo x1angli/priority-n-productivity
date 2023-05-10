@@ -324,6 +324,11 @@ https://creator.nightcafe.studio/text-to-image-art
 * Dataset: https://www.gwern.net/Danbooru2018
 * Engine: https://github.com/NVlabs/stylegan
 
+#### InsightFaceSwap
+A Python library for 2D&3D face analysis and generation
+* https://github.com/deepinsight/insightface
+* Discord Bot: https://discord.com/oauth2/authorize?client_id=1090660574196674713&permissions=274877945856&scope=bot
+
 ## 声音工具
 
 ### Audio and Song
