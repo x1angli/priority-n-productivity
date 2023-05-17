@@ -299,6 +299,14 @@ https://www.midjourney.com/
 #### Stable Diffusion
 https://stablediffusionweb.com/
 
+#### Chilloutmix @ CivitAI (a Model)
+https://civitai.com
+
+#### Lora 
+
+#### ControlNet 
+
+
 ### 图片生成工具 / Image generation tools  
 
 #### Logojoy
