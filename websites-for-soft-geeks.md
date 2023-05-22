@@ -419,7 +419,10 @@ Arctime 是一款简单、强大、高效的跨平台字幕制作软件，
 #### ChatGPT
 https://chat.openai.com
 
-
+#### privateGPT
+https://github.com/imartinez/privateGPT
+Locally deployed GPT solution
+Built with LangChain, GPT4All, LlamaCpp, Chroma and SentenceTransformers.
 
 ### Summarization / Digest
 
