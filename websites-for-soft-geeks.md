@@ -249,6 +249,11 @@ correct the perspective of photos：纠正图像立体透视角度
 抠图 抠背景 AI调色
 https://bgsub.cn/
 
+### 图片修复工具（精度还原） / Photo Restoration Tools
+#### SwinIR
+https://github.com/JingyunLiang/SwinIR
+https://arxiv.org/abs/2108.10257
+
 ### 图片识别工具 / OCR OpenCV tools
 
 #### Umi-OCR 文字识别工具
