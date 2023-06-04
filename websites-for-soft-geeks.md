@@ -254,6 +254,13 @@ https://bgsub.cn/
 https://github.com/JingyunLiang/SwinIR
 https://arxiv.org/abs/2108.10257
 
+### Visual Classifications / Image to Text / Vision Language
+#### Clip
+https://openai.com/research/clip
+
+#### Blip
+https://blog.salesforceairesearch.com/blip-bootstrapping-language-image-pretraining/
+
 ### 图片识别工具 / OCR OpenCV tools
 
 #### Umi-OCR 文字识别工具
@@ -300,6 +307,7 @@ DALL·E is an AI system that can create realistic images and art from a descript
 
 #### Mid Journey
 https://www.midjourney.com/
+https://huggingface.co/succinctly/text2image-prompt-generator
 
 #### Stable Diffusion
 https://stablediffusionweb.com/
@@ -311,8 +319,7 @@ https://civitai.com
 
 #### ControlNet 
 
-
-### 图片生成工具 / Image generation tools  
+### Vector Art Generation
 
 #### Logojoy
 https://logojoy.com/
@@ -327,6 +334,7 @@ https://hatchful.shopify.com/
 create artworks from a text prompt (a few words)
 https://creator.nightcafe.studio/text-to-image-art
 
+### Human Face Generation
 #### This person does not exist
 用AI生成人脸
 * Link: https://thispersondoesnotexist.com/
@@ -439,6 +447,11 @@ Generates Paper Q&A, Literature review, and so on
 https://www.chatpdf.com/
 Efficiently analyze your pdf documents. Comprehend textbooks, handouts, and presentations effortlessly.
 
+### Translation
+#### Opus-MT models
+This package includes scripts for training NMT (Neural Machine Translation) models using MarianNMT and OPUS data for OPUS-MT.
+https://github.com/Helsinki-NLP/OPUS-MT-train
+https://github.com/soulteary/docker-prompt-generator/blob/main/app/translate.py
 
 ### 英文
 #### Jenni
