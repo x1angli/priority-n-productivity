@@ -383,6 +383,10 @@ https://github.com/as-ideas/TransformerTTS
 
 ### Speech Recognition
 
+#### Whisper
+Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multi-task model that can perform multilingual speech recognition as well as speech translation and language identification.
+https://github.com/openai/whisper
+
 #### fireflies.ai
 Automate your meeting notes
 https://fireflies.ai/
@@ -393,9 +397,6 @@ Arctime 是一款简单、强大、高效的跨平台字幕制作软件，
 既可通过AI 识别出视频中的语音，生成字幕文字和时间轴，
 也可以根据已有的文本快速转成语音。
 
-#### Whisper
-Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multi-task model that can perform multilingual speech recognition as well as speech translation and language identification.
-https://github.com/openai/whisper
 
 ### 声音生成工具
 
