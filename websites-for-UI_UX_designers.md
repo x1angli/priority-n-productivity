@@ -11,6 +11,7 @@ https://github.com/LisaDziuba/Awesome-Design-Tools
 
 #### 优设
 * www.uisdc.com
+* hao.uisdc.com
 
 #### 设计导航
 * http://hao.shejidaren.com
