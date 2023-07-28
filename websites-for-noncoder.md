@@ -1,12 +1,4 @@
-### Building Landing Pages
-• Notion Templates
-• Carrd
-• Webflow
 
-### Graphic Design
-• Canva
-• Figma
-• Adobe XD
 
 ### Selling Digital Products Platforms
 
@@ -17,20 +9,30 @@
 #### Shopify
 http://shopify.com/
 
+#### Octane AI
+Quiz Builder In Ecommerce, help you build a quiz on shopify
+https://octaneai.com/
+
 ### Creating Chatbot Experiences
 #### ChatGPT
 #### ManyChat
 #### Bard
 
-#### Octane AI
-https://octaneai.com/
 
 
-### Building Websites
+### Graphic Design
+• Canva
+• Figma
+• Adobe XD
+
+### Building Landing Pages
+#### Notion Templates
+
 #### Carrd
 Single-page website
 http://carrd.co/
 
+### Building Websites
 #### Webflow
 Responsive CMS websites
 https://webflow.com/
@@ -46,9 +48,9 @@ http://bubble.is/
 https://thunkable.com/
 
 ### Email Marketing and Newsletters
-• Beehiiv
-• ConvertKit
-• Mailchimp
+#### Beehiiv
+#### ConvertKit
+#### Mailchimp
 
 ### Automating Workflows
 #### Zapier
@@ -81,9 +83,7 @@ https://medium.com/@rrhoover/the-rise-of-no-code-e733d7c0944d
  * 在浏览器中体验AR/VR/3D
  * https://scapic.com/
 
-#### Sheet2Site
- * 将Google表格转换为一个网站
- * https://www.sheet2site.com/
+
 
 #### Retool
  * 创建内置仪表板和工具
@@ -97,4 +97,8 @@ https://medium.com/@rrhoover/the-rise-of-no-code-e733d7c0944d
 #### Datasette
 exploring and publishing data. It helps people take data of any shape or size, analyze and explore it, and publish it as an interactive website and accompanying API.
 https://datasette.io/
+
+#### Sheet2Site
+Converts a Google Sheet to a website
+https://www.sheet2site.com/
 
