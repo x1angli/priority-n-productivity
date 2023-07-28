@@ -1,20 +1,6 @@
-# Favorite Websites For Soft Geeks 为软极客推荐的网站
-
-本文将一些网站推荐给大家，目标群体是软极客。所谓的软极客（相对于CHD上动不动就烧个几万几十万的设备的硬极客而言）是指一群对效率工具等方面的奇技淫巧有兴趣的盆有
-
-## 产品控的网站
-#### 小众软件
-* https://www.appinn.com/
-* [小众软件论坛](https://meta.appinn.com/)
-
-#### 少数派
-* https://sspai.com/
-
-#### CNBeta
-* www.cnbeta.com
 
 
-## 工具集
+## Aggregated Tools / Tool Set
 
 
 #### 123apps
