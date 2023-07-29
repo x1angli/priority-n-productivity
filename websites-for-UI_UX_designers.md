@@ -128,7 +128,11 @@ https://balsamiq.com/wireframes/
 #### Remotion
 A Node.js Framework for creating real MP4 videos using React 
 a framework for creating videos programmatically using React.
-remotion.dev
+* Website: [remotion.dev](https://www.remotion.dev/)
+* Demo: https://www.youtube.com/watch?v=deg8bOoziaE
+* Source Repo: https://github.com/remotion-dev/remotion
+* Docs https://www.remotion.dev/docs
+
 
 ### AI/DL-based from mock-ups to artifact generator / 用人工智能/深度学习生成UI产物 
 
