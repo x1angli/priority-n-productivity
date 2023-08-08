@@ -134,6 +134,10 @@ https://igfonts.io/
 
 ## PDF tools
 
+#### pdf.ai Toolkit
+100% FREE, no signup needed. All tools run in  browser for complete privacy
+[https://pdf.ai/](https://pdf.ai/tools)
+
 #### Smallpdf
 All-in-one easy-to-use online PDF tools
 * Link: https://smallpdf.com/
