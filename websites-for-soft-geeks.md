@@ -512,6 +512,11 @@ Chinese character stroke order animations and practice quizzes
 * DataSet: https://github.com/THUNLP-AIPoet/Datasets
 * Paper：https://github.com/THUNLP-AIPoet/PaperList
 
+#### 深言达意 Want Words / Want Quotes
+反向双语辞典：
+输入中文/英文意义，输出 汉语词/成语/英文单词，以及查找例句/古汉语/英文
+* https://shenyandayi.com/
+
 #### 据意查句
 根据输入描述的意思来查找相应的名言名句
 https://wantquotes.net/
