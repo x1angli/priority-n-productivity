@@ -11,6 +11,14 @@ Aggregated tools for PDF manipulation, video editing, audio editing, file conver
 * http://www.atool.org/
 * 在线生成高考准考证图片（用于恶搞）、生理期计算、在线查询银行卡号归属信息工具……
 
+#### 帮小忙
+* https://tool.browser.qq.com
+* urlencoding, text diff, mortgage calculator, timestamp conversion, random number generator, UUID generator, QR code generation, RegEx
+* PDF manipulation
+* 数字大小写、简繁体、汉字偏旁
+* 历史朝代、邮编
+* Calculator, 元素周期, unit conversion
+
 #### Manytools
 * https://manytools.org
 * Network, CSS3 Tools, Image, HTTP, HTML & Text Tools
@@ -575,6 +583,13 @@ http://nstool.netease.com/
 
 ### Crawlers and Downloaders
 
+#### Youtube Rippers/Downloaders
+* Youtube1s
+** https://youtubemultidownloader.net/
+** https://youtube1s.com
+* https://ripyoutube.com/
+* https://ssyoutube.com.co/en1
+* https://savefrom.rip/
 #### baidu下载工具
 * https://github.com/lpg-it/BaiduYunVIP
 * https://github.com/TkzcM/pandownload-fake-server
@@ -601,9 +616,7 @@ https://www.flvcd.com/
 * 快手、微博、秒拍、小咖秀、晃咖、微视、全民小视频、全民K歌、美拍、趣多拍、网易云音乐、陌陌、Instagram、映客、小影、YouTube
 * https://video.iiilab.com/
 
-#### youtube下载
-* 使用方法：打开youtube的网站，找到想要下载的视频，再修改域名的URL，加上“1s”，使之成为youtube1s
-    * 例如，原视频是 https://www.youtube.com/watch?v=ygARoqMJyto ，那么打开https://www.youtube1s.com/watch?v=ygARoqMJyto （最终会被跳转到 https://youtubemultidownloader.net/watch?v=ygARoqMJyto ）点击需要下载的分辨率对应的按钮即可
+
 
 #### YoviSun
 http://tool.yovisun.com/grabvideo/
