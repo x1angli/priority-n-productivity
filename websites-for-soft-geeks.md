@@ -252,6 +252,11 @@ https://bgsub.cn/
 https://github.com/JingyunLiang/SwinIR
 https://arxiv.org/abs/2108.10257
 
+#### GFPGAN
+GFPGAN aims at developing Practical Algorithm for Real-world Face Restoration.
+https://replicate.com/tencentarc/gfpgan
+
+
 ### Visual Classifications / Image to Text / Vision Language
 #### Clip
 https://openai.com/research/clip
