@@ -107,6 +107,10 @@ An online grammar checking, spell checking, and plagiarism detection platform
 
 ### Process / Workflow / UML Diagram Tools
 
+#### OneModel
+https://www.onemodel.app/
+Diagramming tailor-made for software engineers
+
 #### Pencil
 An open-source GUI prototyping tool that's available for ALL platforms.
 https://pencil.evolus.vn/
