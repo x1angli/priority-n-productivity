@@ -216,7 +216,11 @@ https://works.yangerxiao.com/chinese-colors/
 
 ### Fonts
 
-#### 商用免费字体全集
+#### FontShare
+a free fonts service launched by the Indian Type Foundry (ITF). It's a growing collection of professional grade fonts that are 100% free for personal and commercial use.
+https://www.fontshare.com/
+
+#### wordshub's free font list
 https://github.com/wordshub/free-font
 
 #### 1001 Fonts
