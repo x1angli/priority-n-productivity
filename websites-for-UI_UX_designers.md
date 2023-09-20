@@ -82,6 +82,11 @@ https://tinypng.com/
 抠图 抠背景
 https://bgsub.cn/
 
+### Other simple image Generator
+#### My Graph Paper
+https://www.mygraphpaper.com/index.php
+Generate a wide varieties of paper: paper with lines, paper with grids, memos, notebooks, comic manuscripts, staff, McKinsey notes, etc.
+
 ### QR Code Generator
 #### 草料二维码生成器：
 https://cli.im/
