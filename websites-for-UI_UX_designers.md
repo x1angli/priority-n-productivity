@@ -212,6 +212,10 @@ http://www.digitalmagicpro.com/jPicker/
 https://works.yangerxiao.com/chinese-colors/
 
 ### Icons
+
+#### YesIcon
+https://yesicon.app/
+
 #### 60 CSS arrows
 * https://freefrontend.com/css-arrows/
 
