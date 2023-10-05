@@ -457,6 +457,16 @@ This package includes scripts for training NMT (Neural Machine Translation) mode
 https://github.com/Helsinki-NLP/OPUS-MT-train
 https://github.com/soulteary/docker-prompt-generator/blob/main/app/translate.py
 
+#### subtitles_translator
+Functions:
+1. with Whisper: Automatically detect the language from a video/audio file and generate subtitles in the corresponding language.
+2. with Whisper: Detect the language from a video/audio file and generate translated English subtitles.
+3. Achieve with Whisper + translatepy: Detect the language from a video/audio file and generate subtitles in a specified translated language.
+4. with Whisper + translatepy + ffmpeg: Detect the language from a video/audio file, generate subtitles in a specified translated language, and automatically add them to the video file.
+
+github.com/viking-man/subtitles_translator
+
+
 ### 英文
 #### Jenni
 https://jenni.ai/
