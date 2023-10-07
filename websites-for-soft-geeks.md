@@ -198,6 +198,9 @@ http://www.pdfunlock.com/
 
 ### PDF Convert tools
 
+#### pdf2htmlEX
+https://github.com/pdf2htmlEX/pdf2htmlEX
+
 #### 加加pdf
 pdf <-> docx, pdf -> jpg
 https://www.addpdf.cn/
