@@ -117,6 +117,11 @@ https://castel.dev/post/lecture-notes-1/
    * https://github.com/SirVer/ultisnips
 
 ### OCR and Latex
+
+#### LaTeX-OCR
+https://github.com/lukas-blecher/LaTeX-OCR
+A python pkg that takes an image of a math formula and returns corresponding LaTeX code.
+
 #### MathPix Snip
 https://mathpix.com/
 This powerful tool would do the magic by recognizing and converting math equation images (either print or handwritten) into formula, all with a single keyboard shortcut. Supports Windows, Mac, and Ubuntu
