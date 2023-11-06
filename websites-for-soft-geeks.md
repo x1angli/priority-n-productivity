@@ -278,10 +278,6 @@ OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支�
 #### Online OCR
 https://www.onlineocr.net/
 
-#### mathAI
-一个拍照做题程序。输入一张包含数学计算题的图片，输出识别出的数学计算式以及计算结果。
-https://github.com/Roujack/mathAI
-
 #### 轻量级的中文OCR
 基于chineseocr 与psenet 实现中文自然场景文字检测及识别
 支持横排，竖排，多块文字混合
@@ -296,6 +292,15 @@ iOS App | Android App | Web | WeChat
 http://www.structurise.com/screenshot-ocr/
 * Textract
 * Kleptomania
+
+### Math-Related OCR
+#### mathAI
+一个拍照做题程序。输入一张包含数学计算题的图片，输出识别出的数学计算式以及计算结果。
+https://github.com/Roujack/mathAI
+
+#### LaTeX-OCR
+https://github.com/lukas-blecher/LaTeX-OCR
+takes an image of a math formula and returns corresponding LaTeX code.
 
 ### 图片转换工具 / Image Convertors
 #### visioncortex VTracer 
