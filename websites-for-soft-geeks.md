@@ -268,6 +268,9 @@ https://openai.com/research/clip
 https://blog.salesforceairesearch.com/blip-bootstrapping-language-image-pretraining/
 
 ### 图片识别工具 / OCR OpenCV tools
+#### Sider
+Extract text from an image, Chat with image, Solve math problems in the image
+https://sider.ai/
 
 #### Umi-OCR 文字识别工具
 OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。
@@ -316,9 +319,13 @@ An open source Vector Graphics Converter to convert raster images (like jpg & pn
 https://labs.openai.com/
 DALL·E is an AI system that can create realistic images and art from a description in natural language.
 
-#### Mid Journey
+#### Mid Journey [Paid]
 https://www.midjourney.com/
 https://huggingface.co/succinctly/text2image-prompt-generator
+
+#### BlueWillow
+Free AI art generator
+https://www.bluewillow.ai/
 
 #### Stable Diffusion
 https://stablediffusionweb.com/
@@ -392,6 +399,13 @@ A Text-to-Speech Transformer in TensorFlow 2
 https://as-ideas.github.io/TransformerTTS/
 https://github.com/as-ideas/TransformerTTS
 
+#### Verbatik
+Text to Speech in 142 Languages
+https://verbatik.com/
+
+#### PlayHT
+https://play.ht/
+
 ### Speech Recognition
 
 #### Whisper
@@ -424,19 +438,15 @@ This site is a collection of generative music pieces which can be listened to. T
 Automatic fingering generator for piano scores
 https:///github.com/marcomusy/pianoplaye
 
-### 语音识别
+### 语音识别 Speech Recognition
 
 #### Subtitles-View
-基于javaFX的简单字幕处理桌面程序，集成在线翻译及语音转换
-将美剧/视频中的声音识别成时间轴字幕，使用了讯飞语音转写作为语音识别，而讯飞语音转写是一款付费服务，有30天内5小时的免费体验时间，以及1年内20小时套餐（价格198元）。
 * https://github.com/fordes123/Subtitles-View
 * https://meta.appinn.net/t/topic/15333
 
 #### Arctime 
 http://arctime.cn/index.html
-Arctime 是一款简单、强大、高效的跨平台字幕制作软件，
-既可通过AI 识别出视频中的语音，生成字幕文字和时间轴，
-也可以根据已有的文本快速转成语音。
+
 
 ## NLP自然语言工具
 
@@ -449,7 +459,11 @@ https://github.com/imartinez/privateGPT
 Locally deployed GPT solution
 Built with LangChain, GPT4All, LlamaCpp, Chroma and SentenceTransformers.
 
-### Summarization / Digest
+### Text Summarization / Text Digest
+
+#### Upword [Paid]
+an AI research assistant. 
+https://www.upword.ai/
 
 #### OpenRead
 https://www.openread.academy/home
@@ -458,6 +472,13 @@ Generates Paper Q&A, Literature review, and so on
 #### ChatPDF
 https://www.chatpdf.com/
 Efficiently analyze your pdf documents. Comprehend textbooks, handouts, and presentations effortlessly.
+
+### Presentation / slides generation
+#### Tome
+https://tome.app/
+
+#### beautiful.ai
+https://www.beautiful.ai/
 
 ### Translation
 #### Opus-MT models
@@ -656,8 +677,31 @@ http://tool.yovisun.com/grabvideo/
 #### SMS forwarder
 https://github.com/pppscn/SmsForwarder
 
-## Video Generation Tools
-### Text-to-Video Generation
+## Video Tools
+
+### Video Summaries
+#### Eightify
+YouTube video summaries, Timestamped Breakdowns 
+https://eightify.app/
+
+### Video Summaries: Short Video
+#### 2short:
+extract the best moments of your videos and turn them into  short clips
+with facial tracking, animated subtitles, versatile aspect ratios
+https://2short.ai/
+
+### Video Meeting Tools
+
+#### TL;DV
+The meeting recorder that transcribes & summarizes meetings , supports Gmeet/Zoom/MS_Teams
+https://tldv.io/
+
+
+### Video Generation: Text-to-Video
+
+#### Synthesia [Paid]
+create speech videos with AI Avatars
+https://www.synthesia.io/
 
 #### Tune-A-Video: One-Shot Tuning of Image Diffusion Models
 github.com/showlab/Tune-A-Video
