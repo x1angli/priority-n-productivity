@@ -703,6 +703,10 @@ https://tldv.io/
 create speech videos with AI Avatars
 https://www.synthesia.io/
 
+#### Deepfakes Creator
+https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/azure-ai-speech-announces-public-preview-of-text-to-speech/ba-p/3981448
+https://github.com/Azure/gen-cv/tree/main/avatar/video
+
 #### Tune-A-Video: One-Shot Tuning of Image Diffusion Models
 github.com/showlab/Tune-A-Video
 https://arxiv.org/abs/2212.11565
