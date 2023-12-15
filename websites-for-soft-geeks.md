@@ -412,6 +412,9 @@ https://play.ht/
 Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multi-task model that can perform multilingual speech recognition as well as speech translation and language identification.
 https://github.com/openai/whisper
 
+#### whisper-plus
+https://github.com/kadirnar/whisper-plus
+
 #### fireflies.ai
 Automate your meeting notes
 https://fireflies.ai/
