@@ -346,6 +346,9 @@ https://hatchful.shopify.com/
 #### LOGO控 / Logoko
 * Link: https://www.logoko.com.cn/
 
+#### Microsoft Designer
+designer.microsoft.com
+
 #### VQGAN + CLIP
 create artworks from a text prompt (a few words)
 https://creator.nightcafe.studio/text-to-image-art
@@ -481,6 +484,9 @@ https://tome.app/
 #### beautiful.ai
 https://www.beautiful.ai/
 
+#### Decktopus AI
+https://www.decktopus.com/
+
 ### Translation
 #### Opus-MT models
 This package includes scripts for training NMT (Neural Machine Translation) models using MarianNMT and OPUS data for OPUS-MT.
@@ -503,6 +509,10 @@ https://jenni.ai/
 Write, cite, and edit
 It uses a combination of our own in-house AI systems, OpenAI, AI21, as well as custom data from each user to generate the highest quality content on the market.
 
+#### Writesonic
+Generative AI Platform for Content Creation, SEO and AI Chatbots.
+https://writesonic.com/
+
 #### ai-writer
 ai-writer.com
 
@@ -521,7 +531,7 @@ grammarly.com
 在线查询英语搭配的网站——Linggle：Linggle是一个基于网络数据集的语言搜索引擎，它能够在不同的语境下找到最正确的英语表达方式，从而帮助学习者分析更准确的英文写作建议，而且还能够根据词性来推测短句和句子，并精准地分析出完整英文句子如何撰写。包括：用星号和下划线查介词，用问号来判断介词是否多余，用斜杠来判断介词二选一选哪个
 * https://www.linggle.com/
 
-### 翻译
+### 翻译 NLP Translation
 
 #### DeepL
 https://www.deepl.com/en/translator
@@ -700,8 +710,12 @@ https://tldv.io/
 
 ### Video Generation: Text-to-Video
 
+#### HeyGen
+http://heygen.com
+AI-generated speech videos with avatars and voices. especially for marketing purpose
+
 #### Synthesia [Paid]
-create speech videos with AI Avatars
+create speech videos with AI avatars and voices
 https://www.synthesia.io/
 
 #### Deepfakes Creator
@@ -720,8 +734,17 @@ https://github.com/Yidadaa/shuangpin
 #### Shuangpin Practicing Tool 
 https://api.ihint.me/shuang/
 
-#### 小鹤 Official Website
+#### 小鹤输入法 Official Website
 https://flypy.com/
+
+## Website Generation
+
+#### Durable
+durable.co
+
+## Code generation
+#### Tabnine
+https://www.tabnine.com/
 
 ## 有趣的小游戏
 #### 一些github上小游戏的汉化集
