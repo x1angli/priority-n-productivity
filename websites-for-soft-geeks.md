@@ -695,6 +695,10 @@ https://github.com/pppscn/SmsForwarder
 YouTube video summaries, Timestamped Breakdowns 
 https://eightify.app/
 
+#### ClipTutor
+Highlight key insights, add notes, and create custom quizzes to reinforce your knowledge more efficiently and effectively with AI.
+https://www.cliptutor.com/
+
 ### Video Summaries: Short Video
 #### 2short:
 extract the best moments of your videos and turn them into  short clips
