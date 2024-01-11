@@ -41,6 +41,10 @@ https://www.stardock.com/products/fences/
 Automatically organize  desktop apps, files, and folders on Windows 10 and 11.
 自由定义桌面分区，并将桌面图标放置于分区中
 
+#### Quicklook 
+https://github.com/shibayan/WinQuickLook
+https://github.com/QL-Win/QuickLook
+
 ## Network Tools
 
 #### Network Manager
