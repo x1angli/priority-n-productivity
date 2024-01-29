@@ -239,16 +239,21 @@ https://zzkia.noddl.me:8020/
 让图片唱起歌来，唱歌幅度可定义，歌曲随机生成。
 * Link: http://nodtotherhythm.com/make
 
-### 图片修正工具 / Photo Correction tools
+### Photo Correction tools / Photo Restoration Tools
 #### Perspec
 https://github.com/ad-si/Perspec
 correct the perspective of photos：纠正图像立体透视角度
 
-#### 在线去除图片中的背景
-抠图 抠背景 AI调色
-https://bgsub.cn/
 
-### 图片修复工具（精度还原） / Photo Restoration Tools
+#### BgSub
+Replace background
+https://bgsub.cn/
+https://pixcv.cn/
+
+#### ClipDrop
+https://clipdrop.co/
+Remove/replace background, Remove objects, people, text and defects, upscaling
+
 #### SwinIR
 https://github.com/JingyunLiang/SwinIR
 https://arxiv.org/abs/2108.10257
