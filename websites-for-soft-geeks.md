@@ -240,19 +240,27 @@ https://zzkia.noddl.me:8020/
 * Link: http://nodtotherhythm.com/make
 
 ### Photo Correction tools / Photo Restoration Tools
+
 #### Perspec
 https://github.com/ad-si/Perspec
 correct the perspective of photos：纠正图像立体透视角度
 
-
-#### BgSub
-Replace background
-https://bgsub.cn/
-https://pixcv.cn/
-
 #### ClipDrop
 https://clipdrop.co/
-Remove/replace background, Remove objects, people, text and defects, upscaling
+To remove/replace background, remove objects, people, text and defects, upscaling
+
+#### BgSub
+https://bgsub.cn/
+https://pixcv.cn/
+To remove/replace background
+
+#### Pixian.AI
+https://pixian.ai/
+To remove background
+
+#### InPaint
+https://theinpaint.com/
+To remove objects 
 
 #### SwinIR
 https://github.com/JingyunLiang/SwinIR
@@ -467,6 +475,10 @@ https://chat.openai.com
 https://github.com/imartinez/privateGPT
 Locally deployed GPT solution
 Built with LangChain, GPT4All, LlamaCpp, Chroma and SentenceTransformers.
+
+#### Coze
+https://www.coze.com/
+Next-generation AI chatbot building platform. 
 
 ### Text Summarization / Text Digest
 
