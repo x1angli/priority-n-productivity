@@ -45,6 +45,9 @@ https://it365.gitlab.io/zh-cn/
 #### Awesome ChatGPT
 https://gitlab.com/awesomeai/awesome-chatgpt-zh
 
+#### AI Toolkit
+https://ai-bot.cn/
+
 ## 文本工具
 
 ### Text String Manipulation 文本字符变换工具
