@@ -7,13 +7,12 @@
 https://123apps.com/
 Aggregated tools for PDF manipulation, video editing, audio editing, file convertor, etc.
 
-#### 帮小忙
+#### tool.browser.qq
 * https://tool.browser.qq.com
 * urlencoding, text diff, mortgage calculator, timestamp conversion, random number generator, UUID generator, QR code generation, RegEx
 * PDF manipulation
-* 数字大小写、简繁体、汉字偏旁
-* 历史朝代、邮编
-* Calculator, 元素周期, unit conversion
+* zipcode
+* Calculator, unit conversion
 
 #### atool
 * http://www.atool.org/
@@ -47,6 +46,9 @@ https://gitlab.com/awesomeai/awesome-chatgpt-zh
 
 #### AI Toolkit
 https://ai-bot.cn/
+
+#### Toolify
+https://www.toolify.ai/
 
 ## 文本工具
 
