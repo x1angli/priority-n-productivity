@@ -267,6 +267,9 @@ To remove background
 https://theinpaint.com/
 To remove objects 
 
+#### GoEnhance
+goenhance.ai
+
 #### SwinIR
 https://github.com/JingyunLiang/SwinIR
 https://arxiv.org/abs/2108.10257
@@ -733,6 +736,11 @@ https://2short.ai/
 The meeting recorder that transcribes & summarizes meetings , supports Gmeet/Zoom/MS_Teams
 https://tldv.io/
 
+### Video Stylization:
+
+#### GoEnhance AI
+Turn your videos into other different styles (pop art, origami, ink painting....)
+https://www.goenhance.ai/
 
 ### Video Generation: Text-to-Video
 
