@@ -1,4 +1,4 @@
-## Curated Lists by other authos
+## Curated Lists by other authors
 
 #### Awesome Mac
 https://wangchujiang.com/awesome-mac/
@@ -60,6 +60,11 @@ https://www.irradiatedsoftware.com/sizeup/
 tiling window manager for macOS
 * https://koekeishiya.github.io/chunkwm/
 * https://github.com/koekeishiya/chunkwm
+
+#### Bob Translate (Chinese UI) 
+A tool that aggregates multiple engines
+https://bobtranslate.com/
+https://apps.apple.com/cn/app/id1630034110
 
 ### Knowledge Management
 #### Bear: note-taking
