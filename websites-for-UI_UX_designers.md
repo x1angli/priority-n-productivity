@@ -330,6 +330,10 @@ www.58pic.com/tupian/ppt.html
 
 ### InfoGraphics / Data Visualization 数据可视化
 
+#### LLM Visualization
+https://github.com/bbycroft/llm-viz
+live at: https://bbycroft.net/llm
+
 #### Bar Chart Race
 通过pandas DataFrame中的数据制做柱状图赛跑动图
 https://github.com/dexplo/bar_chart_race
